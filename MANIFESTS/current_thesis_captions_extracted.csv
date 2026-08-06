@@ -1,0 +1,77 @@
+﻿item,caption
+Figure 4,"Figure 4.1. DESNZ (2026c) current-policy baseline compared with CCC target-consistent pathways (CCC, 2020, 2025a). 19"
+Figure 4,"Figure 4.2. Annual DESNZ (2026c) including-IAS gap relative to CCC7 Balanced Pathway (CCC, 2025a). 19"
+Figure 4,"Figure 4.3. Reduction-rate diagnostics for DESNZ (2026c) and CCC7 (CCC, 2025a) pathways. 20"
+Figure 4,Figure 4.4. DESNZ 2050 residual-emissions ranking by TES sector. 21
+Figure 4,Figure 4.5. Historical-to-projection trajectories for the leading residual sectors. 21
+Figure 4,Figure 4.6. Near-miss timing and residual-emissions framing using target-year estimates and mini-scenario outputs. 22
+Figure 4,"Figure 4.7. NESO (2025b) clean-technology cost assumptions, 2025-2035. 23"
+Figure 4,Figure 4.8. Fossil-price-shock exposure under NESO (2025b) economics assumptions. 24
+Figure 4,"Figure 4.9. GB gas import exposure by NESO pathway (NESO, 2025a). 24"
+Figure 4,Figure 4.10. NESO (2025b) 2050 total energy cost sensitivity ranges. 25
+Figure 4,Figure 4.11. Historical UK territorial GHG emissions compared with DESNZ and CCC future pathways. 26
+Figure 4,Figure 4.12. Historical average annual reductions compared with 2035-2050 pathway rates. 26
+Figure 4,Figure 4.13. Sectoral 2050 uncertainty band with CCC7 mapped benchmark. 28
+Figure 4,Figure 4.14. Sector linkage driver matrix. 28
+Figure 4,Figure 4.15. Linkage score compared with 2050 residual emissions. 29
+Figure 4,Figure 4.16. Dependency-profile similarity between residual sectors. 29
+Figure 4,Figure 4.17. Linkage-weighted residual-risk ranking. 30
+Figure 4,Figure 4.18. 2x2 scenario matrix: median 2050 residual after default offsets. 31
+Figure 4,Figure 4.19. Mini-scenario residual gaps after default offsets. 31
+Figure 4,"Figure 4.20. Sensitivity of quadrant-level median residuals to 0, 10 and 50 MtCO2e offsets. 32"
+Table 1,Table 1.1. Research questions and analytical approach. 6
+Table 2,Table 2.1. Literature-to-analysis bridge. 10
+Table 3,Table 3.1. Research workflow and outputs. 11
+Table 3,"Table 3.2. Data sources, analytical role and local evidence location. 12"
+Table 3,Table 3.3. Data quality and exploratory audit. 12
+Table 3,Table 3.4. Accounting basis and interpretation limits. 13
+Table 3,"Table 3.5. Gap metrics, formulae and interpretation. 14"
+Table 3,Table 3.6. Uncertainty construction and interpretation limits. 15
+Table 3,Table 3.7. Robustness checks for author-constructed indicators. 15
+Table 3,Table 3.8. Sensitivity checks for judgement-sensitive assumptions. 16
+Table 4,Table 4.1. Main results and research-question mapping. 17
+Table 4,Table 4.2. Sector linkage-weighted residual priorities. 27
+Table 5,Table 5.1. From empirical result to dissertation argument. 33
+Table 5,"Table 5.2. Evidence-linked policy mechanism map, delivery indicators and residual risks by sector group. 36"
+Table 5,Table 5.3. Main limitations and robustness treatment. 37
+Table 1,"Table 1.1 gives the main research question and three sub-questions, moving from aggregate gap measurement to timing, sectoral explanation and uncertainty."
+Table 1,Table 1.1. Research questions and analytical approach.
+Table 2,Table 2.1. Literature-to-analysis bridge.
+Table 3,Table 3.1. Research workflow and outputs.
+Table 3,"Table 3.2. Data sources, analytical role and local evidence location."
+Table 3,Table 3.3. Data quality and exploratory audit.
+Table 3,Table 3.4. Accounting basis and interpretation limits.
+Table 3,"Table 3.5. Gap metrics, formulae and interpretation."
+Table 3,Table 3.6. Uncertainty construction and interpretation limits.
+Table 3,Table 3.7. Robustness checks for author-constructed indicators.
+Table 3,"Table 3.8 reports sensitivity for judgement-sensitive assumptions. Detailed uncertainty-audit files remain in the local tables folder, including sensitivity and drop-one-driver checks."
+Table 3,Table 3.8. Sensitivity checks for judgement-sensitive assumptions.
+Table 4,Table 4.1. Main results and research-question mapping.
+Figure 4,"Figure 4.1. DESNZ (2026c) current-policy baseline compared with CCC target-consistent pathways (CCC, 2020, 2025a)."
+Figure 4,"Figure 4.2. Annual DESNZ (2026c) including-IAS gap relative to CCC7 Balanced Pathway (CCC, 2025a)."
+Figure 4,Figure 4.2 makes the timing visible: the gap widens through the 2030s and 2040s as CCC7 tightens while DESNZ residual emissions remain high.
+Figure 4,"Figure 4.3. Reduction-rate diagnostics for DESNZ (2026c) and CCC7 (CCC, 2025a) pathways."
+Figure 4,Figure 4.4. DESNZ 2050 residual-emissions ranking by TES sector.
+Figure 4,Figure 4.5. Historical-to-projection trajectories for the leading residual sectors.
+Figure 4,Figure 4.6. Near-miss timing and residual-emissions framing using target-year estimates and mini-scenario outputs.
+Figure 4,"Figure 4.7. NESO (2025b) clean-technology cost assumptions, 2025-2035."
+Figure 4,Figure 4.8. Fossil-price-shock exposure under NESO (2025b) economics assumptions.
+Figure 4,"Figure 4.9. GB gas import exposure by NESO pathway (NESO, 2025a)."
+Figure 4,Figure 4.10. NESO (2025b) 2050 total energy cost sensitivity ranges.
+Figure 4,Figure 4.11. Historical UK territorial GHG emissions compared with DESNZ and CCC future pathways.
+Figure 4,Figure 4.12. Historical average annual reductions compared with 2035-2050 pathway rates.
+Figure 4,"Figure 4.13 shows different sensitivity profiles. Domestic transport is strongly affected by the pace of implementation, falling from a 49.9 MtCO2e central residual to 23.8 MtCO2e under the accelerated anchor and 80.8 MtCO2e under the delayed case. Agriculture and IAS retain sizeable residuals even under stronger assumptions."
+Table 4,Table 4.2. Sector linkage-weighted residual priorities.
+Figure 4,Figure 4.13. Sectoral 2050 uncertainty band with CCC7 mapped benchmark.
+Figure 4,Figure 4.14. Sector linkage driver matrix.
+Figure 4,Figure 4.15. Linkage score compared with 2050 residual emissions.
+Figure 4,Figure 4.16. Dependency-profile similarity between residual sectors.
+Figure 4,Figure 4.17. Linkage-weighted residual-risk ranking.
+Figure 4,Figure 4.18. 2x2 scenario matrix: median 2050 residual after default offsets.
+Figure 4,Figure 4.19. Mini-scenario residual gaps after default offsets.
+Figure 4,"Figure 4.20. Sensitivity of quadrant-level median residuals to 0, 10 and 50 MtCO2e offsets."
+Table 5,Table 5.1. From empirical result to dissertation argument.
+Table 5,"Table 5.2 ties sector groups back to the empirical results. Figure 4.13 shows residual sensitivity, Figure 4.15 links scores to 2050 residuals, and Figure 4.17 ranks linkage-weighted risk. The table is an interpretation aid, not an estimate of individual policy abatement."
+Table 5,"Table 5.2. Evidence-linked policy mechanism map, delivery indicators and residual risks by sector group."
+Table 5,Table 5.3. Main limitations and robustness treatment.
+Table B,Table B.1. Official and peer-reviewed source audit for the dissertation.

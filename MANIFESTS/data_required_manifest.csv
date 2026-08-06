@@ -1,0 +1,7 @@
+﻿source,expected_local_role,workspace_reference_path,github_package_status
+DESNZ Energy and emissions projections 2024 to 2050,DESNZ current-policy baseline,E:\UCL Final Essay\Reference\Official_data_sources\DESNZ_2026c_Web_figures_EEP_2024_2050.ods,not copied as raw official source; processed outputs copied
+DESNZ Annex A GHG by TES sector,TES sector residual projections,E:\UCL Final Essay\Data_raw\DESNZ Energy and Emissions Projections 2024–2050 annexes\Annex_A_GHG_by_TES_sector.ods,not copied as raw official source; P6 processed outputs copied
+CCC Seventh Carbon Budget full dataset,CCC7 target-consistent benchmark and sectors,E:\UCL Final Essay\Reference\Official_data_sources\CCC_2025a_The-Seventh-Carbon-Budget-full-dataset.xlsx,not copied as raw official source; processed outputs copied
+CCC Sixth Carbon Budget dataset,CCC6 sensitivity benchmark,E:\UCL Final Essay\Reference\Official_data_sources\CCC_2020_The-Sixth-Carbon-Budget-Dataset_v2.xlsx,not copied as raw official source; processed outputs copied
+DESNZ final/provisional UK GHG statistics,historical delivered-rate benchmark,E:\UCL Final Essay\p8_uncertainty_framework\data_raw,P8 local data_raw folder copied because files are used by P8 notebooks
+NESO FES 2025 data workbook and economics workbook,"external-condition, cost, gas-import and FES indicators",E:\UCL Final Essay\Reference\Official_data_sources,not copied as raw official source; P7 processed outputs copied

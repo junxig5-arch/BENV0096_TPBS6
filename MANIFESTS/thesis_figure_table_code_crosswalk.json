@@ -1,0 +1,209 @@
+[
+  {
+    "thesis_item": "Figure 4.1",
+    "thesis_output_or_caption": "DESNZ current-policy baseline compared with CCC pathways",
+    "code_in_package": "p4_p5_rebuild/notebooks/P5_benchmark_comparison_from_cleaned_CCC_local_reproducible.ipynb; p4_p5_rebuild/notebooks/P4_P5_local_reproducible.ipynb",
+    "figure_file_in_package": "p4_p5_local_reproduction/figures/docx_safe_images/p5_cleaned_desnz_vs_ccc_annual_pathways_docx_safe.jpg",
+    "table_or_data_file_in_package": "p4_p5_local_reproduction/data_processed/p5_cleaned_desnz_ccc_annual_comparison.csv",
+    "status_against_supplied_local_folder": "P5_benchmark_comparison_from_cleaned_CCC_local_reproducible.ipynb: FOUND | P4_P5_local_reproducible.ipynb: FOUND",
+    "notes": "P4-P5 notebook found locally; final figure copied from workspace outputs."
+  },
+  {
+    "thesis_item": "Figure 4.2",
+    "thesis_output_or_caption": "Annual DESNZ including-IAS gap relative to CCC7",
+    "code_in_package": "p4_p5_rebuild/notebooks/P5_benchmark_comparison_from_cleaned_CCC_local_reproducible.ipynb",
+    "figure_file_in_package": "p4_p5_local_reproduction/figures/docx_safe_images/p5_cleaned_annual_gap_vs_ccc7_docx_safe.jpg",
+    "table_or_data_file_in_package": "p4_p5_local_reproduction/tables/p5_cleaned_benchmark_year_gap_metrics.csv",
+    "status_against_supplied_local_folder": "P5_benchmark_comparison_from_cleaned_CCC_local_reproducible.ipynb: FOUND",
+    "notes": "P4-P5 notebook found locally; final figure copied from workspace outputs."
+  },
+  {
+    "thesis_item": "Figure 4.3",
+    "thesis_output_or_caption": "Reduction-rate diagnostics",
+    "code_in_package": "p4_p5_rebuild/notebooks/P4_P5_local_reproducible_with_historical_check.ipynb; p8_uncertainty_framework/notebooks/P8_1_historical_delivered_rate_benchmark_local_reproducible.ipynb",
+    "figure_file_in_package": "p4_p5_local_reproduction/figures/docx_safe_images/p4_p5_deepened_reduction_rate_diagnostics_docx_safe.jpg",
+    "table_or_data_file_in_package": "p4_p5_local_reproduction/tables/p4_p5_deepened_trajectory_reduction_rates.csv; p8_uncertainty_framework/tables/p8_1_future_pathway_rate_comparison.csv",
+    "status_against_supplied_local_folder": "P4_P5_local_reproducible_with_historical_check.ipynb: FOUND | P8_1_historical_delivered_rate_benchmark_local_reproducible.ipynb: FOUND",
+    "notes": "Local P4-P5 notebook found; P8 rate benchmark outputs copied from workspace."
+  },
+  {
+    "thesis_item": "Figure 4.4",
+    "thesis_output_or_caption": "DESNZ 2050 residual-emissions ranking",
+    "code_in_package": "p6_sector_analysis/notebooks/P6_sectoral_drivers_local_reproducible.ipynb",
+    "figure_file_in_package": "p6_sector_analysis/figures/docx_safe_images/p6_desnz_2050_residual_emissions_ranking_docx_safe.jpg",
+    "table_or_data_file_in_package": "p6_sector_analysis/tables/p6_desnz_2050_residual_emissions_ranking.csv",
+    "status_against_supplied_local_folder": "P6_sectoral_drivers_local_reproducible.ipynb: FOUND",
+    "notes": "P6 main notebook found locally and copied from workspace final version."
+  },
+  {
+    "thesis_item": "Figure 4.5",
+    "thesis_output_or_caption": "Historical-to-projection trajectories for leading residual sectors",
+    "code_in_package": "p6_sector_analysis/notebooks/P6_supplement_historical_sector_bridge_local_reproducible.ipynb",
+    "figure_file_in_package": "p6_sector_analysis/figures/docx_safe_images/p6_supplement_historical_projected_top_sectors_docx_safe.jpg",
+    "table_or_data_file_in_package": "p6_sector_analysis/tables/p6_supplement_historical_projected_sector_selected_years.csv",
+    "status_against_supplied_local_folder": "P6_supplement_historical_sector_bridge_local_reproducible.ipynb: MISSING in supplied local folder",
+    "notes": "Missing from supplied local folder; copied from workspace."
+  },
+  {
+    "thesis_item": "Figure 4.6",
+    "thesis_output_or_caption": "Near-miss timing and residual-emissions framing",
+    "code_in_package": "p7_neso_uncertainty/build_p7_target_year_external_conditions_addendum.py; p8_uncertainty_framework/notebooks/P8_3_2x2_matrix_near_miss_mini_scenarios_local_reproducible.ipynb",
+    "figure_file_in_package": "p7_neso_uncertainty/figures/p7_p8_near_miss_timing_focus.jpg",
+    "table_or_data_file_in_package": "p7_neso_uncertainty/tables/p7_target_achievement_year_estimates.csv; p7_neso_uncertainty/tables/p7_p8_neil_near_miss_timing_summary.csv; p8_uncertainty_framework/tables/p8_3_near_miss_summary.csv",
+    "status_against_supplied_local_folder": "build_p7_target_year_external_conditions_addendum.py: MISSING in supplied local folder | P8_3_2x2_matrix_near_miss_mini_scenarios_local_reproducible.ipynb: FOUND",
+    "notes": "Final timing figure not present in supplied local folder; copied from workspace."
+  },
+  {
+    "thesis_item": "Figure 4.7",
+    "thesis_output_or_caption": "NESO clean-technology cost assumptions",
+    "code_in_package": "p7_neso_uncertainty/notebooks/P7_rigour_enhanced_external_conditions_local_reproducible.ipynb; p7_neso_uncertainty/build_p7_rigour_enhanced_analysis.py",
+    "figure_file_in_package": "p7_neso_uncertainty/figures/p7_lcoe_learning_2025_2035.jpg",
+    "table_or_data_file_in_package": "p7_neso_uncertainty/tables/p7_lcoe_renewable_learning_2025_2035.csv",
+    "status_against_supplied_local_folder": "P7_rigour_enhanced_external_conditions_local_reproducible.ipynb: FOUND | build_p7_rigour_enhanced_analysis.py: MISSING in supplied local folder",
+    "notes": "Notebook found locally; final output tables/figures copied from workspace."
+  },
+  {
+    "thesis_item": "Figure 4.8",
+    "thesis_output_or_caption": "Fossil-price-shock exposure",
+    "code_in_package": "p7_neso_uncertainty/notebooks/P7_rigour_enhanced_external_conditions_local_reproducible.ipynb",
+    "figure_file_in_package": "p7_neso_uncertainty/figures/p7_fossil_price_shock_exposure.jpg",
+    "table_or_data_file_in_package": "p7_neso_uncertainty/tables/p7_fossil_price_shock_exposure.csv",
+    "status_against_supplied_local_folder": "P7_rigour_enhanced_external_conditions_local_reproducible.ipynb: FOUND",
+    "notes": "Output copied from workspace."
+  },
+  {
+    "thesis_item": "Figure 4.9",
+    "thesis_output_or_caption": "GB gas import exposure by NESO pathway",
+    "code_in_package": "p7_neso_uncertainty/notebooks/P7_rigour_enhanced_external_conditions_local_reproducible.ipynb",
+    "figure_file_in_package": "p7_neso_uncertainty/figures/p7_gas_import_exposure.jpg",
+    "table_or_data_file_in_package": "p7_neso_uncertainty/tables/p7_gas_imports_by_pathway.csv",
+    "status_against_supplied_local_folder": "P7_rigour_enhanced_external_conditions_local_reproducible.ipynb: FOUND",
+    "notes": "Output copied from workspace."
+  },
+  {
+    "thesis_item": "Figure 4.10",
+    "thesis_output_or_caption": "NESO 2050 total energy cost sensitivity ranges",
+    "code_in_package": "p7_neso_uncertainty/notebooks/P7_rigour_enhanced_external_conditions_local_reproducible.ipynb",
+    "figure_file_in_package": "p7_neso_uncertainty/figures/p7_2050_cost_sensitivity_range.jpg",
+    "table_or_data_file_in_package": "p7_neso_uncertainty/tables/p7_total_energy_cost_sensitivity_2050.csv",
+    "status_against_supplied_local_folder": "P7_rigour_enhanced_external_conditions_local_reproducible.ipynb: FOUND",
+    "notes": "Output copied from workspace."
+  },
+  {
+    "thesis_item": "Figure 4.11",
+    "thesis_output_or_caption": "Historical UK territorial GHG emissions compared with DESNZ and CCC",
+    "code_in_package": "p8_uncertainty_framework/notebooks/P8_1_historical_delivered_rate_benchmark_local_reproducible.ipynb",
+    "figure_file_in_package": "p8_uncertainty_framework/figures/p8_1_historical_vs_future_pathways.jpg",
+    "table_or_data_file_in_package": "p8_uncertainty_framework/tables/p8_1_historical_total_emissions.csv",
+    "status_against_supplied_local_folder": "P8_1_historical_delivered_rate_benchmark_local_reproducible.ipynb: FOUND",
+    "notes": "Notebook found locally; final outputs copied from workspace."
+  },
+  {
+    "thesis_item": "Figure 4.12",
+    "thesis_output_or_caption": "Historical average annual reductions compared with future pathway rates",
+    "code_in_package": "p8_uncertainty_framework/notebooks/P8_1_historical_delivered_rate_benchmark_local_reproducible.ipynb",
+    "figure_file_in_package": "p8_uncertainty_framework/figures/p8_1_rate_benchmark_comparison.jpg",
+    "table_or_data_file_in_package": "p8_uncertainty_framework/tables/p8_1_historical_rate_windows.csv; p8_uncertainty_framework/tables/p8_1_future_pathway_rate_comparison.csv",
+    "status_against_supplied_local_folder": "P8_1_historical_delivered_rate_benchmark_local_reproducible.ipynb: FOUND",
+    "notes": "Notebook found locally; final outputs copied from workspace."
+  },
+  {
+    "thesis_item": "Figure 4.13",
+    "thesis_output_or_caption": "Sectoral 2050 uncertainty band",
+    "code_in_package": "p8_uncertainty_framework/notebooks/P8_2_sectoral_uncertainty_and_linkages_local_reproducible.ipynb",
+    "figure_file_in_package": "p8_uncertainty_framework/figures/p8_2_sector_uncertainty_band_2050.jpg",
+    "table_or_data_file_in_package": "p8_uncertainty_framework/tables/p8_2_sector_uncertainty_band_2050.csv",
+    "status_against_supplied_local_folder": "P8_2_sectoral_uncertainty_and_linkages_local_reproducible.ipynb: FOUND",
+    "notes": "Notebook found locally; final outputs copied from workspace."
+  },
+  {
+    "thesis_item": "Figure 4.14",
+    "thesis_output_or_caption": "Sector linkage driver matrix",
+    "code_in_package": "p8_uncertainty_framework/notebooks/P8_2_sectoral_uncertainty_and_linkages_local_reproducible.ipynb",
+    "figure_file_in_package": "p8_uncertainty_framework/figures/p8_2_sector_linkage_driver_matrix.jpg",
+    "table_or_data_file_in_package": "p8_uncertainty_framework/tables/p8_2_sector_linkage_driver_matrix.csv",
+    "status_against_supplied_local_folder": "P8_2_sectoral_uncertainty_and_linkages_local_reproducible.ipynb: FOUND",
+    "notes": "Notebook found locally; final outputs copied from workspace."
+  },
+  {
+    "thesis_item": "Figure 4.15",
+    "thesis_output_or_caption": "Linkage score compared with residual emissions",
+    "code_in_package": "p8_uncertainty_framework/notebooks/P8_4_sector_linkage_deepening_local_reproducible.ipynb; document_build_audit_scripts/final_anonymous_submission_cleanup.py",
+    "figure_file_in_package": "p8_uncertainty_framework/figures/submission_cleaned/figure_4_15_linkage_score_vs_residual_submission_cleaned.jpg",
+    "table_or_data_file_in_package": "p8_uncertainty_framework/tables/p8_4_sector_linkage_deepening_metrics.csv",
+    "status_against_supplied_local_folder": "P8_4_sector_linkage_deepening_local_reproducible.ipynb: FOUND | final_anonymous_submission_cleanup.py: MISSING in supplied local folder",
+    "notes": "Notebook found locally; final cleaned figure copied from workspace."
+  },
+  {
+    "thesis_item": "Figure 4.16",
+    "thesis_output_or_caption": "Dependency-profile similarity between residual sectors",
+    "code_in_package": "p8_uncertainty_framework/notebooks/P8_4_sector_linkage_deepening_local_reproducible.ipynb; document_build_audit_scripts/final_anonymous_submission_cleanup.py",
+    "figure_file_in_package": "p8_uncertainty_framework/figures/submission_cleaned/figure_4_16_dependency_similarity_submission_cleaned.jpg",
+    "table_or_data_file_in_package": "p8_uncertainty_framework/tables/p8_4_sector_dependency_similarity_matrix.csv; p8_uncertainty_framework/tables/p8_4_high_similarity_sector_pairs.csv",
+    "status_against_supplied_local_folder": "P8_4_sector_linkage_deepening_local_reproducible.ipynb: FOUND | final_anonymous_submission_cleanup.py: MISSING in supplied local folder",
+    "notes": "Notebook found locally; final cleaned figure copied from workspace."
+  },
+  {
+    "thesis_item": "Figure 4.17",
+    "thesis_output_or_caption": "Linkage-weighted residual-risk ranking",
+    "code_in_package": "p8_uncertainty_framework/notebooks/P8_4_sector_linkage_deepening_local_reproducible.ipynb; document_build_audit_scripts/final_anonymous_submission_cleanup.py",
+    "figure_file_in_package": "p8_uncertainty_framework/figures/submission_cleaned/figure_4_17_linkage_weighted_ranking_submission_cleaned.jpg",
+    "table_or_data_file_in_package": "p8_uncertainty_framework/tables/p8_4_sector_linkage_deepening_metrics.csv",
+    "status_against_supplied_local_folder": "P8_4_sector_linkage_deepening_local_reproducible.ipynb: FOUND | final_anonymous_submission_cleanup.py: MISSING in supplied local folder",
+    "notes": "Notebook found locally; final cleaned figure copied from workspace."
+  },
+  {
+    "thesis_item": "Figure 4.18",
+    "thesis_output_or_caption": "2x2 scenario matrix",
+    "code_in_package": "p8_uncertainty_framework/notebooks/P8_3_2x2_matrix_near_miss_mini_scenarios_local_reproducible.ipynb",
+    "figure_file_in_package": "p8_uncertainty_framework/figures/p8_3_quadrant_outcomes.jpg",
+    "table_or_data_file_in_package": "p8_uncertainty_framework/tables/p8_3_2x2_scenario_matrix.csv; p8_uncertainty_framework/tables/p8_3_near_miss_summary.csv",
+    "status_against_supplied_local_folder": "P8_3_2x2_matrix_near_miss_mini_scenarios_local_reproducible.ipynb: FOUND",
+    "notes": "Notebook found locally; final outputs copied from workspace."
+  },
+  {
+    "thesis_item": "Figure 4.19",
+    "thesis_output_or_caption": "Mini-scenario residual gaps",
+    "code_in_package": "p8_uncertainty_framework/notebooks/P8_3_2x2_matrix_near_miss_mini_scenarios_local_reproducible.ipynb",
+    "figure_file_in_package": "p8_uncertainty_framework/figures/p8_3_mini_scenario_residual_gaps.jpg",
+    "table_or_data_file_in_package": "p8_uncertainty_framework/tables/p8_3_mini_scenario_population.csv",
+    "status_against_supplied_local_folder": "P8_3_2x2_matrix_near_miss_mini_scenarios_local_reproducible.ipynb: FOUND",
+    "notes": "Notebook found locally; final outputs copied from workspace."
+  },
+  {
+    "thesis_item": "Figure 4.20",
+    "thesis_output_or_caption": "Offset/removal sensitivity",
+    "code_in_package": "p8_uncertainty_framework/notebooks/P8_3_2x2_matrix_near_miss_mini_scenarios_local_reproducible.ipynb",
+    "figure_file_in_package": "p8_uncertainty_framework/figures/p8_3_negative_emissions_credit_sensitivity.jpg",
+    "table_or_data_file_in_package": "p8_uncertainty_framework/tables/p8_3_negative_emissions_credit_stress_test.csv",
+    "status_against_supplied_local_folder": "P8_3_2x2_matrix_near_miss_mini_scenarios_local_reproducible.ipynb: FOUND",
+    "notes": "Notebook found locally; final outputs copied from workspace."
+  },
+  {
+    "thesis_item": "Table 4.1",
+    "thesis_output_or_caption": "Main results and RQ mapping",
+    "code_in_package": "synthesis from P4-P8 notebooks",
+    "figure_file_in_package": "",
+    "table_or_data_file_in_package": "p4_p5_local_reproduction/tables/p4_final_metrics_table.csv; p4_p5_local_reproduction/tables/p5_final_benchmark_metrics_table.csv; p7_neso_uncertainty/tables/p7_rigour_enhanced_external_metrics.csv; p8_uncertainty_framework/tables/p8_3_near_miss_summary.csv; p8_uncertainty_framework/tables/p8_4_sector_linkage_deepening_metrics.csv",
+    "status_against_supplied_local_folder": "synthesis from P4-P8 notebooks: MISSING in supplied local folder",
+    "notes": "Synthesis table in thesis; underlying outputs copied."
+  },
+  {
+    "thesis_item": "Table 4.2",
+    "thesis_output_or_caption": "Sector linkage-weighted residual priorities",
+    "code_in_package": "p8_uncertainty_framework/notebooks/P8_4_sector_linkage_deepening_local_reproducible.ipynb",
+    "figure_file_in_package": "",
+    "table_or_data_file_in_package": "p8_uncertainty_framework/tables/p8_4_sector_linkage_deepening_metrics.csv",
+    "status_against_supplied_local_folder": "P8_4_sector_linkage_deepening_local_reproducible.ipynb: FOUND",
+    "notes": "Directly code-backed."
+  },
+  {
+    "thesis_item": "Appendix C tables",
+    "thesis_output_or_caption": "Data tables C.1-C.16",
+    "code_in_package": "P4-P8 notebooks",
+    "figure_file_in_package": "",
+    "table_or_data_file_in_package": "p4_p5_local_reproduction/tables; p6_sector_analysis/tables; p7_neso_uncertainty/tables; p8_uncertainty_framework/tables",
+    "status_against_supplied_local_folder": "P4-P8 notebooks: MISSING in supplied local folder",
+    "notes": "All copied into the package under original relative paths."
+  }
+]
