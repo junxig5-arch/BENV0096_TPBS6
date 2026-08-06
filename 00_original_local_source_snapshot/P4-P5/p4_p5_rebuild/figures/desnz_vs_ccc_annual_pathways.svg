@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="580" viewBox="0 0 1000 580"><rect width="100%" height="100%" fill="#fff"/>
+<text x="82" y="28" font-family="Arial" font-size="20" font-weight="700" fill="#1f2933">DESNZ current-policy baseline vs CCC target-consistent pathways</text>
+<text x="82" y="50" font-family="Arial" font-size="12" fill="#52606d">Annual emissions pathways, 2025-2050; DESNZ including-IAS is the main CCC-comparable line</text>
+<line x1="82" x2="966" y1="502" y2="502" stroke="#e5e7eb"/>
+<text x="72" y="506" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">-50</text>
+<line x1="82" x2="966" y1="456.8" y2="456.8" stroke="#e5e7eb"/>
+<text x="72" y="460.8" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">0</text>
+<line x1="82" x2="966" y1="411.6" y2="411.6" stroke="#e5e7eb"/>
+<text x="72" y="415.6" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">50</text>
+<line x1="82" x2="966" y1="366.4" y2="366.4" stroke="#e5e7eb"/>
+<text x="72" y="370.4" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">100</text>
+<line x1="82" x2="966" y1="321.2" y2="321.2" stroke="#e5e7eb"/>
+<text x="72" y="325.2" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">150</text>
+<line x1="82" x2="966" y1="276" y2="276" stroke="#e5e7eb"/>
+<text x="72" y="280" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">200</text>
+<line x1="82" x2="966" y1="230.8" y2="230.8" stroke="#e5e7eb"/>
+<text x="72" y="234.8" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">250</text>
+<line x1="82" x2="966" y1="185.6" y2="185.6" stroke="#e5e7eb"/>
+<text x="72" y="189.6" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">300</text>
+<line x1="82" x2="966" y1="140.4" y2="140.4" stroke="#e5e7eb"/>
+<text x="72" y="144.4" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">350</text>
+<line x1="82" x2="966" y1="95.2" y2="95.2" stroke="#e5e7eb"/>
+<text x="72" y="99.2" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">400</text>
+<line x1="82" x2="966" y1="50" y2="50" stroke="#e5e7eb"/>
+<text x="72" y="54" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">450</text>
+<line x1="82" x2="82" y1="50" y2="502" stroke="#f1f5f9"/>
+<text x="82" y="526" text-anchor="middle" font-family="Arial" font-size="11" fill="#52606d">2025</text>
+<line x1="258.8" x2="258.8" y1="50" y2="502" stroke="#f1f5f9"/>
+<text x="258.8" y="526" text-anchor="middle" font-family="Arial" font-size="11" fill="#52606d">2030</text>
+<line x1="435.6" x2="435.6" y1="50" y2="502" stroke="#f1f5f9"/>
+<text x="435.6" y="526" text-anchor="middle" font-family="Arial" font-size="11" fill="#52606d">2035</text>
+<line x1="612.4" x2="612.4" y1="50" y2="502" stroke="#f1f5f9"/>
+<text x="612.4" y="526" text-anchor="middle" font-family="Arial" font-size="11" fill="#52606d">2040</text>
+<line x1="789.2" x2="789.2" y1="50" y2="502" stroke="#f1f5f9"/>
+<text x="789.2" y="526" text-anchor="middle" font-family="Arial" font-size="11" fill="#52606d">2045</text>
+<line x1="966" x2="966" y1="50" y2="502" stroke="#f1f5f9"/>
+<text x="966" y="526" text-anchor="middle" font-family="Arial" font-size="11" fill="#52606d">2050</text>
+<line x1="82" x2="966" y1="502" y2="502" stroke="#9aa5b1"/><line x1="82" x2="82" y1="50" y2="502" stroke="#9aa5b1"/>
+<polyline points="82.0,89.9 117.4,97.5 152.7,103.4 188.1,111.3 223.4,117.2 258.8,124.2 294.2,130.8 329.5,136.1 364.9,140.9 400.2,144.8 435.6,147.8 471.0,153.8 506.3,157.7 541.7,160.3 577.0,162.5 612.4,163.9 647.8,164.1 683.1,163.9 718.5,164.0 753.8,163.8 789.2,164.4 824.6,164.1 859.9,164.1 895.3,163.0 930.6,164.0 966.0,163.6" fill="none" stroke="#005f73" stroke-width="3" />
+<circle cx="258.8" cy="124.15599407188944" r="3.8" fill="#005f73"/>
+<circle cx="612.4" cy="163.91351896901216" r="3.8" fill="#005f73"/>
+<circle cx="966" cy="163.6406229843482" r="3.8" fill="#005f73"/>
+<polyline points="82.0,128.5 117.4,135.6 152.7,141.4 188.1,148.4 223.4,154.5 258.8,160.5 294.2,167.1 329.5,172.1 364.9,176.3 400.2,179.7 435.6,182.5 471.0,187.9 506.3,191.1 541.7,193.6 577.0,195.9 612.4,197.0 647.8,197.6 683.1,197.9 718.5,197.9 753.8,197.4 789.2,197.6 824.6,196.8 859.9,196.2 895.3,195.3 930.6,195.3 966.0,194.4" fill="none" stroke="#64748b" stroke-width="2.2" stroke-dasharray="7 6"/>
+<circle cx="258.8" cy="160.54656015844222" r="3.8" fill="#64748b"/>
+<circle cx="612.4" cy="196.97796419557147" r="3.8" fill="#64748b"/>
+<circle cx="966" cy="194.41860472560646" r="3.8" fill="#64748b"/>
+<polyline points="82.0,82.6 117.4,98.8 152.7,116.1 188.1,135.9 223.4,161.3 258.8,189.4 294.2,211.8 329.5,231.7 364.9,250.3 400.2,268.6 435.6,287.8 471.0,303.7 506.3,320.0 541.7,334.7 577.0,346.7 612.4,359.4 647.8,374.3 683.1,386.9 718.5,397.8 753.8,407.9 789.2,418.4 824.6,426.7 859.9,434.6 895.3,442.3 930.6,449.7 966.0,457.8" fill="none" stroke="#ca6702" stroke-width="3" />
+<circle cx="258.8" cy="189.43560758900992" r="3.8" fill="#ca6702"/>
+<circle cx="612.4" cy="359.43647467073833" r="3.8" fill="#ca6702"/>
+<circle cx="966" cy="457.80080947377206" r="3.8" fill="#ca6702"/>
+<polyline points="82.0,54.3 117.4,80.3 152.7,103.3 188.1,123.7 223.4,146.5 258.8,170.9 294.2,191.5 329.5,217.6 364.9,241.2 400.2,262.0 435.6,284.2 471.0,302.9 506.3,319.1 541.7,332.6 577.0,345.7 612.4,362.3 647.8,377.7 683.1,390.3 718.5,401.5 753.8,412.8 789.2,422.7 824.6,431.5 859.9,439.6 895.3,445.9 930.6,451.1 966.0,457.7" fill="none" stroke="#6d597a" stroke-width="3" />
+<circle cx="258.8" cy="170.8943046213779" r="3.8" fill="#6d597a"/>
+<circle cx="612.4" cy="362.3143647274821" r="3.8" fill="#6d597a"/>
+<circle cx="966" cy="457.67909172337534" r="3.8" fill="#6d597a"/>
+<line x1="82" x2="108" y1="548" y2="548" stroke="#005f73" stroke-width="3" />
+<text x="116" y="552" font-family="Arial" font-size="11" fill="#1f2933">DESNZ inc IAS</text>
+<line x1="342" x2="368" y1="548" y2="548" stroke="#64748b" stroke-width="3" stroke-dasharray="7 6"/>
+<text x="376" y="552" font-family="Arial" font-size="11" fill="#1f2933">DESNZ excl IAS</text>
+<line x1="572" x2="598" y1="548" y2="548" stroke="#ca6702" stroke-width="3" />
+<text x="606" y="552" font-family="Arial" font-size="11" fill="#1f2933">CCC7 Balanced</text>
+<line x1="832" x2="858" y1="548" y2="548" stroke="#6d597a" stroke-width="3" />
+<text x="866" y="552" font-family="Arial" font-size="11" fill="#1f2933">CCC6 BNZP</text>
+<text x="18" y="276" transform="rotate(-90 18 276)" text-anchor="middle" font-family="Arial" font-size="12" fill="#52606d">MtCO2e</text>
+<text x="82" y="572" font-family="Arial" font-size="10" fill="#697586">Source: DESNZ EEP Annex A TES sectors; CCC Seventh Carbon Budget full dataset; CCC Sixth Carbon Budget dataset.</text></svg>

@@ -1,0 +1,550 @@
+scenario,tes_sector,year,emissions_MtCO2e
+Reference,Agriculture,1990,54.3985824961385
+Reference,Agriculture,1991,54.2109974015761
+Reference,Agriculture,1992,53.8501459181404
+Reference,Agriculture,1993,52.9615883995599
+Reference,Agriculture,1994,53.733133078343
+Reference,Agriculture,1995,53.6728877296628
+Reference,Agriculture,1996,55.0409098307286
+Reference,Agriculture,1997,54.6237497116691
+Reference,Agriculture,1998,54.2939813468889
+Reference,Agriculture,1999,54.540916712647
+Reference,Agriculture,2000,52.5801767156203
+Reference,Agriculture,2001,50.3804222760027
+Reference,Agriculture,2002,50.0717765484391
+Reference,Agriculture,2003,50.5149288135195
+Reference,Agriculture,2004,51.2973576711181
+Reference,Agriculture,2005,51.4385984999855
+Reference,Agriculture,2006,50.3863717343563
+Reference,Agriculture,2007,49.9875870606817
+Reference,Agriculture,2008,49.6981093209486
+Reference,Agriculture,2009,49.2150761195019
+Reference,Agriculture,2010,49.6272287339461
+Reference,Agriculture,2011,48.8195310118092
+Reference,Agriculture,2012,49.2577794183426
+Reference,Agriculture,2013,49.0850161759068
+Reference,Agriculture,2014,49.4343920328083
+Reference,Agriculture,2015,50.6170357854804
+Reference,Agriculture,2016,50.0256613841093
+Reference,Agriculture,2017,49.9449226392524
+Reference,Agriculture,2018,48.0992006922732
+Reference,Agriculture,2019,48.6437333049381
+Reference,Agriculture,2020,47.4216999744916
+Reference,Agriculture,2021,48.1166146754414
+Reference,Agriculture,2022,46.8561837228894
+Reference,Agriculture,2023,46.6137424553026
+Reference,Agriculture,2024,45.5769870262768
+Reference,Agriculture,2025,45.1565653679124
+Reference,Agriculture,2026,44.9806085663478
+Reference,Agriculture,2027,44.8937218741866
+Reference,Agriculture,2028,44.832851378615
+Reference,Agriculture,2029,44.7571506999058
+Reference,Agriculture,2030,44.64594711842
+Reference,Agriculture,2031,44.4750103600965
+Reference,Agriculture,2032,44.2652859015653
+Reference,Agriculture,2033,44.0331755175468
+Reference,Agriculture,2034,43.7843318545762
+Reference,Agriculture,2035,43.5316394993459
+Reference,Agriculture,2036,43.2370279446527
+Reference,Agriculture,2037,42.9266820012853
+Reference,Agriculture,2038,42.5986693918168
+Reference,Agriculture,2039,42.2599898243832
+Reference,Agriculture,2040,41.9239164320717
+Reference,Agriculture,2041,41.6103197893948
+Reference,Agriculture,2042,41.2677048344126
+Reference,Agriculture,2043,40.8895954412029
+Reference,Agriculture,2044,40.5191219657842
+Reference,Agriculture,2045,40.1360102270673
+Reference,Agriculture,2046,39.751250038094
+Reference,Agriculture,2047,39.3691479315307
+Reference,Agriculture,2048,38.9804387499693
+Reference,Agriculture,2049,38.5909246881019
+Reference,Agriculture,2050,38.2005567333275
+Reference,Buildings and product uses,1990,109.753400419937
+Reference,Buildings and product uses,1991,121.501395241244
+Reference,Buildings and product uses,1992,118.077721654342
+Reference,Buildings and product uses,1993,121.889243404326
+Reference,Buildings and product uses,1994,116.956532090134
+Reference,Buildings and product uses,1995,112.83028105824
+Reference,Buildings and product uses,1996,126.22534224756
+Reference,Buildings and product uses,1997,117.13956761586
+Reference,Buildings and product uses,1998,118.80937479299
+Reference,Buildings and product uses,1999,120.529083503683
+Reference,Buildings and product uses,2000,120.560391921108
+Reference,Buildings and product uses,2001,124.195204858628
+Reference,Buildings and product uses,2002,116.673461226452
+Reference,Buildings and product uses,2003,118.253579871142
+Reference,Buildings and product uses,2004,121.096860221372
+Reference,Buildings and product uses,2005,117.448596039984
+Reference,Buildings and product uses,2006,113.070397595582
+Reference,Buildings and product uses,2007,108.379321310014
+Reference,Buildings and product uses,2008,113.319903114273
+Reference,Buildings and product uses,2009,106.911436682378
+Reference,Buildings and product uses,2010,117.862868973587
+Reference,Buildings and product uses,2011,97.8183827419463
+Reference,Buildings and product uses,2012,107.560728696641
+Reference,Buildings and product uses,2013,108.813382847286
+Reference,Buildings and product uses,2014,93.3869508430082
+Reference,Buildings and product uses,2015,95.5636998686244
+Reference,Buildings and product uses,2016,96.252723008019
+Reference,Buildings and product uses,2017,93.7740071174689
+Reference,Buildings and product uses,2018,97.9310912198727
+Reference,Buildings and product uses,2019,94.1027159067678
+Reference,Buildings and product uses,2020,93.7043511201761
+Reference,Buildings and product uses,2021,98.2009567177289
+Reference,Buildings and product uses,2022,83.4998821959421
+Reference,Buildings and product uses,2023,78.4758175684127
+Reference,Buildings and product uses,2024,81.0366508749843
+Reference,Buildings and product uses,2025,83.8432888471939
+Reference,Buildings and product uses,2026,83.4150637862135
+Reference,Buildings and product uses,2027,83.0472211287735
+Reference,Buildings and product uses,2028,82.5777958009562
+Reference,Buildings and product uses,2029,82.4781322300465
+Reference,Buildings and product uses,2030,82.162375325639
+Reference,Buildings and product uses,2031,82.0065641461208
+Reference,Buildings and product uses,2032,81.8533010620138
+Reference,Buildings and product uses,2033,81.7710441913405
+Reference,Buildings and product uses,2034,81.7182027556359
+Reference,Buildings and product uses,2035,81.7199740582081
+Reference,Buildings and product uses,2036,82.1150292321099
+Reference,Buildings and product uses,2037,82.1996968389523
+Reference,Buildings and product uses,2038,82.4048635800097
+Reference,Buildings and product uses,2039,82.6267667069753
+Reference,Buildings and product uses,2040,82.8983697778108
+Reference,Buildings and product uses,2041,83.2665206327564
+Reference,Buildings and product uses,2042,83.4888917971714
+Reference,Buildings and product uses,2043,83.6527288125775
+Reference,Buildings and product uses,2044,84.0191871386868
+Reference,Buildings and product uses,2045,84.0518877171182
+Reference,Buildings and product uses,2046,84.1857841739208
+Reference,Buildings and product uses,2047,84.4611564113861
+Reference,Buildings and product uses,2048,84.549537128311
+Reference,Buildings and product uses,2049,84.5532425858907
+Reference,Buildings and product uses,2050,84.5503891046146
+Reference,Domestic Transport,1990,129.255008921329
+Reference,Domestic Transport,1991,127.341350929008
+Reference,Domestic Transport,1992,128.604022957652
+Reference,Domestic Transport,1993,129.968448646168
+Reference,Domestic Transport,1994,131.288194768341
+Reference,Domestic Transport,1995,130.762579934411
+Reference,Domestic Transport,1996,135.10728299357
+Reference,Domestic Transport,1997,135.558868473256
+Reference,Domestic Transport,1998,134.555568262126
+Reference,Domestic Transport,1999,136.164710246383
+Reference,Domestic Transport,2000,134.207452325531
+Reference,Domestic Transport,2001,134.190383834563
+Reference,Domestic Transport,2002,137.212811912707
+Reference,Domestic Transport,2003,136.399461285428
+Reference,Domestic Transport,2004,137.602934399039
+Reference,Domestic Transport,2005,138.07249042306
+Reference,Domestic Transport,2006,138.194411494809
+Reference,Domestic Transport,2007,139.316585122946
+Reference,Domestic Transport,2008,134.173854931478
+Reference,Domestic Transport,2009,129.594529027686
+Reference,Domestic Transport,2010,127.995398550788
+Reference,Domestic Transport,2011,125.418733071082
+Reference,Domestic Transport,2012,124.738392220869
+Reference,Domestic Transport,2013,122.983911101121
+Reference,Domestic Transport,2014,124.839308088699
+Reference,Domestic Transport,2015,125.327875756466
+Reference,Domestic Transport,2016,128.809311586727
+Reference,Domestic Transport,2017,129.490134384352
+Reference,Domestic Transport,2018,128.116043548755
+Reference,Domestic Transport,2019,124.718631912824
+Reference,Domestic Transport,2020,103.492830901842
+Reference,Domestic Transport,2021,111.933277388314
+Reference,Domestic Transport,2022,113.088764483098
+Reference,Domestic Transport,2023,111.814687715586
+Reference,Domestic Transport,2024,112.469374875517
+Reference,Domestic Transport,2025,116.525912843926
+Reference,Domestic Transport,2026,113.683673065113
+Reference,Domestic Transport,2027,110.627496929593
+Reference,Domestic Transport,2028,106.21291998934
+Reference,Domestic Transport,2029,100.94196396916
+Reference,Domestic Transport,2030,94.662372105314
+Reference,Domestic Transport,2031,88.9014516453192
+Reference,Domestic Transport,2032,83.5641544146144
+Reference,Domestic Transport,2033,78.9416291224815
+Reference,Domestic Transport,2034,74.810722602423
+Reference,Domestic Transport,2035,71.1945407765974
+Reference,Domestic Transport,2036,67.9132790998794
+Reference,Domestic Transport,2037,64.9690484650686
+Reference,Domestic Transport,2038,62.3753462139582
+Reference,Domestic Transport,2039,60.1740093409963
+Reference,Domestic Transport,2040,58.176593794626
+Reference,Domestic Transport,2041,56.5125288468301
+Reference,Domestic Transport,2042,55.048075444871
+Reference,Domestic Transport,2043,53.8943771096184
+Reference,Domestic Transport,2044,52.8858751009717
+Reference,Domestic Transport,2045,52.030818280127
+Reference,Domestic Transport,2046,51.3710831321966
+Reference,Domestic Transport,2047,50.8019708047805
+Reference,Domestic Transport,2048,50.4713355691705
+Reference,Domestic Transport,2049,50.1419538055505
+Reference,Domestic Transport,2050,49.8833690620126
+Reference,Electricity supply,1990,203.990898453228
+Reference,Electricity supply,1991,200.562835432034
+Reference,Electricity supply,1992,188.466186204535
+Reference,Electricity supply,1993,170.963203369198
+Reference,Electricity supply,1994,166.731982037533
+Reference,Electricity supply,1995,163.558022733677
+Reference,Electricity supply,1996,163.228079644629
+Reference,Electricity supply,1997,150.651869663357
+Reference,Electricity supply,1998,155.599993474688
+Reference,Electricity supply,1999,147.554048329445
+Reference,Electricity supply,2000,159.002950084772
+Reference,Electricity supply,2001,169.852372811144
+Reference,Electricity supply,2002,165.481526928505
+Reference,Electricity supply,2003,174.488326762299
+Reference,Electricity supply,2004,174.146106305149
+Reference,Electricity supply,2005,173.414280568351
+Reference,Electricity supply,2006,182.337388612104
+Reference,Electricity supply,2007,178.045796539605
+Reference,Electricity supply,2008,172.942727963949
+Reference,Electricity supply,2009,151.155947829117
+Reference,Electricity supply,2010,157.445333251227
+Reference,Electricity supply,2011,144.684782409633
+Reference,Electricity supply,2012,158.684183531496
+Reference,Electricity supply,2013,147.67197837057
+Reference,Electricity supply,2014,124.452796170375
+Reference,Electricity supply,2015,104.29241497766
+Reference,Electricity supply,2016,82.2603660829251
+Reference,Electricity supply,2017,72.2297332412677
+Reference,Electricity supply,2018,65.8521459059208
+Reference,Electricity supply,2019,57.8513758830216
+Reference,Electricity supply,2020,49.5299798778971
+Reference,Electricity supply,2021,54.7621414064754
+Reference,Electricity supply,2022,55.0427992563346
+Reference,Electricity supply,2023,43.9334967691422
+Reference,Electricity supply,2024,38.722355501135
+Reference,Electricity supply,2025,26.8777794613616
+Reference,Electricity supply,2026,24.5503124149467
+Reference,Electricity supply,2027,22.0615246455058
+Reference,Electricity supply,2028,21.2853529289559
+Reference,Electricity supply,2029,21.6004533801253
+Reference,Electricity supply,2030,23.6639600617013
+Reference,Electricity supply,2031,24.195269174666
+Reference,Electricity supply,2032,25.3560940408866
+Reference,Electricity supply,2033,26.7292772479328
+Reference,Electricity supply,2034,28.1261297208766
+Reference,Electricity supply,2035,29.2605566372262
+Reference,Electricity supply,2036,28.4009072132439
+Reference,Electricity supply,2037,28.2656911961343
+Reference,Electricity supply,2038,28.6062307278768
+Reference,Electricity supply,2039,28.963272944769
+Reference,Electricity supply,2040,29.5198812211676
+Reference,Electricity supply,2041,30.8259775974562
+Reference,Electricity supply,2042,32.4651850532375
+Reference,Electricity supply,2043,33.7091332749598
+Reference,Electricity supply,2044,34.9374692351014
+Reference,Electricity supply,2045,35.5473048143818
+Reference,Electricity supply,2046,36.716490827931
+Reference,Electricity supply,2047,37.7074584404175
+Reference,Electricity supply,2048,39.0763344388822
+Reference,Electricity supply,2049,39.6730553477563
+Reference,Electricity supply,2050,40.9557563067436
+Reference,Fuel supply,1990,77.1921705075374
+Reference,Fuel supply,1991,78.080806528045
+Reference,Fuel supply,1992,79.240786095642
+Reference,Fuel supply,1993,78.9274931034911
+Reference,Fuel supply,1994,71.4488522684982
+Reference,Fuel supply,1995,74.8462179844523
+Reference,Fuel supply,1996,74.6165741832361
+Reference,Fuel supply,1997,72.7018598920015
+Reference,Fuel supply,1998,71.0438362400115
+Reference,Fuel supply,1999,65.3234999188802
+Reference,Fuel supply,2000,63.2687728886619
+Reference,Fuel supply,2001,62.8181938676178
+Reference,Fuel supply,2002,63.2501068689334
+Reference,Fuel supply,2003,59.7772256279829
+Reference,Fuel supply,2004,58.2079142608196
+Reference,Fuel supply,2005,57.567759616805
+Reference,Fuel supply,2006,52.678877585612
+Reference,Fuel supply,2007,51.295301221398
+Reference,Fuel supply,2008,49.6781133916652
+Reference,Fuel supply,2009,48.3029591852123
+Reference,Fuel supply,2010,48.8104058593396
+Reference,Fuel supply,2011,46.8191936196082
+Reference,Fuel supply,2012,43.1372072471329
+Reference,Fuel supply,2013,40.9578788876444
+Reference,Fuel supply,2014,39.2561056479883
+Reference,Fuel supply,2015,39.7391404221671
+Reference,Fuel supply,2016,38.5572237627559
+Reference,Fuel supply,2017,38.0441840088231
+Reference,Fuel supply,2018,37.2623775880541
+Reference,Fuel supply,2019,37.2744125292096
+Reference,Fuel supply,2020,33.890099569038
+Reference,Fuel supply,2021,31.2127086117806
+Reference,Fuel supply,2022,31.3203218257937
+Reference,Fuel supply,2023,30.0973856701954
+Reference,Fuel supply,2024,30.8778260504873
+Reference,Fuel supply,2025,30.2658254695764
+Reference,Fuel supply,2026,29.1932605657737
+Reference,Fuel supply,2027,28.4544842620398
+Reference,Fuel supply,2028,27.4882280450994
+Reference,Fuel supply,2029,26.5545715968214
+Reference,Fuel supply,2030,25.1864098374098
+Reference,Fuel supply,2031,23.7934098811212
+Reference,Fuel supply,2032,22.9417320198205
+Reference,Fuel supply,2033,21.84819398431
+Reference,Fuel supply,2034,21.4106084762902
+Reference,Fuel supply,2035,20.9778738156562
+Reference,Fuel supply,2036,18.9773870688055
+Reference,Fuel supply,2037,18.4652089176503
+Reference,Fuel supply,2038,17.9315170635426
+Reference,Fuel supply,2039,17.137796947027
+Reference,Fuel supply,2040,16.7884072894959
+Reference,Fuel supply,2041,15.5103772494186
+Reference,Fuel supply,2042,14.7021518243046
+Reference,Fuel supply,2043,14.3862689944892
+Reference,Fuel supply,2044,14.3160778580124
+Reference,Fuel supply,2045,14.2357378137783
+Reference,Fuel supply,2046,14.1851599609522
+Reference,Fuel supply,2047,14.1107690648716
+Reference,Fuel supply,2048,13.8261216611143
+Reference,Fuel supply,2049,13.4195977511561
+Reference,Fuel supply,2050,13.2401066474921
+Reference,IAS,1990,23.6473354671225
+Reference,IAS,1991,23.2238117778929
+Reference,IAS,1992,25.0674766754312
+Reference,IAS,1993,26.0747083264046
+Reference,IAS,1994,26.3369066614471
+Reference,IAS,1995,28.0182830316568
+Reference,IAS,1996,29.8201117831724
+Reference,IAS,1997,32.1229921582173
+Reference,IAS,1998,35.1033809909252
+Reference,IAS,1999,34.8755183868604
+Reference,IAS,2000,36.9154695816991
+Reference,IAS,2001,36.7949293730316
+Reference,IAS,2002,35.1065129919002
+Reference,IAS,2003,35.3290054825154
+Reference,IAS,2004,39.2287577125004
+Reference,IAS,2005,41.7287887769468
+Reference,IAS,2006,43.1749546520889
+Reference,IAS,2007,43.0630188852149
+Reference,IAS,2008,45.7803651854211
+Reference,IAS,2009,44.2643082247738
+Reference,IAS,2010,42.2289877562772
+Reference,IAS,2011,43.0974906356033
+Reference,IAS,2012,41.0569603929463
+Reference,IAS,2013,42.036236940371
+Reference,IAS,2014,41.401543395917
+Reference,IAS,2015,41.4886704927752
+Reference,IAS,2016,42.622749250422
+Reference,IAS,2017,44.9002542634811
+Reference,IAS,2018,44.4742068265647
+Reference,IAS,2019,43.3719580381914
+Reference,IAS,2020,21.234127938688
+Reference,IAS,2021,19.9969338838027
+Reference,IAS,2022,34.6580394217991
+Reference,IAS,2023,39.4748838099595
+Reference,IAS,2024,42.3310481934235
+Reference,IAS,2025,42.6709123373074
+Reference,IAS,2026,42.1515661275554
+Reference,IAS,2027,41.9723848212771
+Reference,IAS,2028,41.0235200162787
+Reference,IAS,2029,41.2712917348442
+Reference,IAS,2030,40.2550509807
+Reference,IAS,2031,40.1744371287429
+Reference,IAS,2032,39.8148793819014
+Reference,IAS,2033,39.1131544836259
+Reference,IAS,2034,38.5920769166463
+Reference,IAS,2035,38.3843331382221
+Reference,IAS,2036,37.7781414246568
+Reference,IAS,2037,37.0109054828062
+Reference,IAS,2038,36.8346312151507
+Reference,IAS,2039,36.859755229299
+Reference,IAS,2040,36.5757137461941
+Reference,IAS,2041,37.0523524737419
+Reference,IAS,2042,37.5819623734359
+Reference,IAS,2043,37.5074395695807
+Reference,IAS,2044,37.2031827960332
+Reference,IAS,2045,36.7393215363397
+Reference,IAS,2046,36.2480405962512
+Reference,IAS,2047,35.5353123246789
+Reference,IAS,2048,35.731052983795
+Reference,IAS,2049,34.6046567857409
+Reference,IAS,2050,34.0464399792679
+Reference,Industry,1990,155.210183372017
+Reference,Industry,1991,156.271859679161
+Reference,Industry,1992,149.147325188655
+Reference,Industry,1993,142.970505585164
+Reference,Industry,1994,144.939171160249
+Reference,Industry,1995,142.047617499013
+Reference,Industry,1996,143.717639680949
+Reference,Industry,1997,143.494795531567
+Reference,Industry,1998,139.14103282832
+Reference,Industry,1999,123.629330134691
+Reference,Industry,2000,121.111452530912
+Reference,Industry,2001,114.746283727103
+Reference,Industry,2002,103.637049196788
+Reference,Industry,2003,106.49000508903
+Reference,Industry,2004,105.098079619397
+Reference,Industry,2005,103.824137549561
+Reference,Industry,2006,100.998635280202
+Reference,Industry,2007,101.477150630374
+Reference,Industry,2008,92.8250981074121
+Reference,Industry,2009,74.9407923049745
+Reference,Industry,2010,78.1926375067519
+Reference,Industry,2011,74.1129709760534
+Reference,Industry,2012,72.2967795036334
+Reference,Industry,2013,76.5579340205147
+Reference,Industry,2014,74.3363569200435
+Reference,Industry,2015,70.6321744390849
+Reference,Industry,2016,64.3290076086309
+Reference,Industry,2017,64.5240921975261
+Reference,Industry,2018,63.2085283794884
+Reference,Industry,2019,61.7304354520241
+Reference,Industry,2020,58.4013839421159
+Reference,Industry,2021,57.9447311709853
+Reference,Industry,2022,54.3588225473647
+Reference,Industry,2023,53.0510806414845
+Reference,Industry,2024,43.264905241902
+Reference,Industry,2025,40.9552715326769
+Reference,Industry,2026,40.2452129937763
+Reference,Industry,2027,40.2030173836479
+Reference,Industry,2028,40.1502147537831
+Reference,Industry,2029,40.0991539472836
+Reference,Industry,2030,40.1178138899444
+Reference,Industry,2031,40.2367915532211
+Reference,Industry,2032,40.5148726810912
+Reference,Industry,2033,40.7325610234576
+Reference,Industry,2034,40.6348784940052
+Reference,Industry,2035,40.7126679478967
+Reference,Industry,2036,40.8016525078293
+Reference,Industry,2037,41.1356602607097
+Reference,Industry,2038,41.3461863367852
+Reference,Industry,2039,41.6195148856207
+Reference,Industry,2040,42.2543998110385
+Reference,Industry,2041,43.0704458116325
+Reference,Industry,2042,43.4573741591134
+Reference,Industry,2043,43.8868288747714
+Reference,Industry,2044,44.2570904139388
+Reference,Industry,2045,44.7500578511869
+Reference,Industry,2046,45.3467549553927
+Reference,Industry,2047,45.8100426003812
+Reference,Industry,2048,46.2964259420851
+Reference,Industry,2049,46.8419463965239
+Reference,Industry,2050,47.3748288570278
+Reference,LULUCF,1990,10.6238726313304
+Reference,LULUCF,1991,10.1117391556074
+Reference,LULUCF,1992,9.27921462608944
+Reference,LULUCF,1993,8.69384849016799
+Reference,LULUCF,1994,8.25499275587914
+Reference,LULUCF,1995,8.29408156773373
+Reference,LULUCF,1996,7.29888881565863
+Reference,LULUCF,1997,6.74965008724044
+Reference,LULUCF,1998,5.96165299469253
+Reference,LULUCF,1999,6.07622611866308
+Reference,LULUCF,2000,5.8165000617974
+Reference,LULUCF,2001,5.17351914195232
+Reference,LULUCF,2002,4.3457864800215
+Reference,LULUCF,2003,4.18559867581597
+Reference,LULUCF,2004,3.32599036920681
+Reference,LULUCF,2005,2.9562338693275
+Reference,LULUCF,2006,2.53705519258907
+Reference,LULUCF,2007,1.91003713291075
+Reference,LULUCF,2008,1.22774903416888
+Reference,LULUCF,2009,1.13558384043056
+Reference,LULUCF,2010,1.05006812917393
+Reference,LULUCF,2011,0.403891460082564
+Reference,LULUCF,2012,0.505346373580899
+Reference,LULUCF,2013,0.398968456201681
+Reference,LULUCF,2014,0.0720308545919073
+Reference,LULUCF,2015,-0.0617161466723142
+Reference,LULUCF,2016,0.295045210907603
+Reference,LULUCF,2017,0.0212098248235195
+Reference,LULUCF,2018,0.684754591408554
+Reference,LULUCF,2019,0.551649018647838
+Reference,LULUCF,2020,0.401275637288966
+Reference,LULUCF,2021,0.235021339974388
+Reference,LULUCF,2022,0.541752124764709
+Reference,LULUCF,2023,1.11971398879782
+Reference,LULUCF,2024,0.772473937745446
+Reference,LULUCF,2025,0.85338772111931
+Reference,LULUCF,2026,0.941803891439629
+Reference,LULUCF,2027,1.05249354242531
+Reference,LULUCF,2028,1.03922145167634
+Reference,LULUCF,2029,1.18494290131125
+Reference,LULUCF,2030,1.33687784699157
+Reference,LULUCF,2031,1.59385231293396
+Reference,LULUCF,2032,1.8600063221481
+Reference,LULUCF,2033,2.18002045240814
+Reference,LULUCF,2034,2.52245540334349
+Reference,LULUCF,2035,2.86269668185091
+Reference,LULUCF,2036,3.1910595289671
+Reference,LULUCF,2037,3.48110002502241
+Reference,LULUCF,2038,3.70278702304934
+Reference,LULUCF,2039,3.92197933803403
+Reference,LULUCF,2040,4.10534913163693
+Reference,LULUCF,2041,4.29487024454034
+Reference,LULUCF,2042,4.41276908506391
+Reference,LULUCF,2043,4.48241621455591
+Reference,LULUCF,2044,4.51963787513381
+Reference,LULUCF,2045,4.51963829708352
+Reference,LULUCF,2046,4.54417530675067
+Reference,LULUCF,2047,4.5413256061281
+Reference,LULUCF,2048,4.4904485985796
+Reference,LULUCF,2049,4.432307529618
+Reference,LULUCF,2050,4.35862189668962
+Reference,Waste,1990,70.2851382107242
+Reference,Waste,1991,71.151851599193
+Reference,Waste,1992,71.3100141105853
+Reference,Waste,1993,71.9864210312014
+Reference,Waste,1994,72.4678954520795
+Reference,Waste,1995,73.1884732530741
+Reference,Waste,1996,73.837094103762
+Reference,Waste,1997,73.4280783971221
+Reference,Waste,1998,73.0234035710687
+Reference,Waste,1999,70.5019423640304
+Reference,Waste,2000,67.7097679254949
+Reference,Waste,2001,65.3994841446134
+Reference,Waste,2002,64.9403304902157
+Reference,Waste,2003,61.4927753474448
+Reference,Waste,2004,56.830230673088
+Reference,Waste,2005,54.5724508834385
+Reference,Waste,2006,52.5935161979471
+Reference,Waste,2007,48.9942991372736
+Reference,Waste,2008,44.1227456084859
+Reference,Waste,2009,40.0510232965439
+Reference,Waste,2010,34.8066625346662
+Reference,Waste,2011,32.5074384532321
+Reference,Waste,2012,30.7786870267161
+Reference,Waste,2013,27.3928962699161
+Reference,Waste,2014,24.9411451513854
+Reference,Waste,2015,24.1173212960075
+Reference,Waste,2016,22.9420269878946
+Reference,Waste,2017,23.2815089852245
+Reference,Waste,2018,23.1253245940442
+Reference,Waste,2019,22.6426622638462
+Reference,Waste,2020,21.1336177423037
+Reference,Waste,2021,20.070118805901
+Reference,Waste,2022,19.9737418305989
+Reference,Waste,2023,19.8666312812048
+Reference,Waste,2024,19.0389138671954
+Reference,Waste,2025,18.6720516619882
+Reference,Waste,2026,18.2554886202007
+Reference,Waste,2027,18.567895163075
+Reference,Waste,2028,17.5966501636035
+Reference,Waste,2029,16.7425537234689
+Reference,Waste,2030,15.9382259401972
+Reference,Waste,2031,15.2275184180952
+Reference,Waste,2032,14.6004148871288
+Reference,Waste,2033,14.048664442749
+Reference,Waste,2034,13.5668920883837
+Reference,Waste,2035,13.1473344474649
+Reference,Waste,2036,12.7820473750998
+Reference,Waste,2037,12.4632483975166
+Reference,Waste,2038,12.1868367778312
+Reference,Waste,2039,11.9490548829467
+Reference,Waste,2040,11.7468389629804
+Reference,Waste,2041,11.6333884809098
+Reference,Waste,2042,11.5494610935101
+Reference,Waste,2043,11.4926011563282
+Reference,Waste,2044,11.460575465964
+Reference,Waste,2045,11.4521137642813
+Reference,Waste,2046,11.4639103903603
+Reference,Waste,2047,11.4941094018036
+Reference,Waste,2048,11.5411882308021
+Reference,Waste,2049,11.6039467491324
+Reference,Waste,2050,11.6812776690764

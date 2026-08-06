@@ -1,0 +1,18 @@
+P4-P5 local reproduction files
+
+Files created:
+1. P4_P5_local_reproducible.ipynb - open this in Jupyter Notebook or JupyterLab.
+2. P4_P5_local_reproducible.py - same code in VS Code/Jupyter percent-cell format.
+
+How to run:
+1. Open Anaconda Prompt, Terminal, or Jupyter from the dissertation folder if possible.
+2. Open p4_p5_rebuild/notebooks/P4_P5_local_reproducible.ipynb.
+3. If imports fail, run the dependency cell: %pip install pandas openpyxl odfpy matplotlib numpy
+4. Run all cells from top to bottom.
+5. New outputs will be saved under p4_p5_local_reproduction.
+
+Expected headline checks:
+- 2050 DESNZ including-IAS minus CCC7 gap: 325.398436382106 MtCO2e.
+- CB6 official DESNZ projected gap: 737.469408760892 MtCO2e.
+
+If the notebook cannot find Data_raw, edit MANUAL_PROJECT_ROOT in section 1.

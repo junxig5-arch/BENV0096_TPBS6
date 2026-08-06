@@ -1,0 +1,7 @@
+- P6 headline: under the DESNZ EEP Reference projection, residual emissions in 2050 are concentrated in a small number of sectors rather than spread evenly across the economy.
+- The largest projected 2050 residual sector is Buildings and product uses (84.6 MtCO2e).
+- The next largest sectors are Domestic Transport (49.9 MtCO2e), Industry (47.4 MtCO2e).
+- Transport remains important because it starts from a high 2023 level, even though the DESNZ projection shows substantial reductions by 2050.
+- Buildings and product uses require careful interpretation because this DESNZ category combines several sources and is not a clean one-to-one match with CCC residential and non-residential buildings.
+- Electricity supply should be discussed as a system-enabling sector: it matters directly through residual supply emissions and indirectly through transport/building electrification.
+- CCC sector comparison should remain cautious unless sector boundaries are fully bridged.

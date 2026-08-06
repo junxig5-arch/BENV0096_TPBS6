@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="500" viewBox="0 0 820 500"><rect width="100%" height="100%" fill="#fff"/>
+<text x="82" y="28" font-family="Arial" font-size="20" font-weight="700" fill="#1f2933">Official carbon budget performance under DESNZ EEP 2024</text>
+<text x="82" y="49" font-family="Arial" font-size="12" fill="#52606d">Official comparison basis: CB4-CB5 exclude IAS; CB6 includes IAS/NCA basis</text>
+<line x1="82" x2="792" y1="422" y2="422" stroke="#e5e7eb"/>
+<text x="72" y="426" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">0</text>
+<line x1="82" x2="792" y1="376" y2="376" stroke="#e5e7eb"/>
+<text x="72" y="380" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">250</text>
+<line x1="82" x2="792" y1="330" y2="330" stroke="#e5e7eb"/>
+<text x="72" y="334" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">500</text>
+<line x1="82" x2="792" y1="284" y2="284" stroke="#e5e7eb"/>
+<text x="72" y="288" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">750</text>
+<line x1="82" x2="792" y1="238" y2="238" stroke="#e5e7eb"/>
+<text x="72" y="242" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">1000</text>
+<line x1="82" x2="792" y1="192" y2="192" stroke="#e5e7eb"/>
+<text x="72" y="196" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">1250</text>
+<line x1="82" x2="792" y1="146" y2="146" stroke="#e5e7eb"/>
+<text x="72" y="150" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">1500</text>
+<line x1="82" x2="792" y1="100" y2="100" stroke="#e5e7eb"/>
+<text x="72" y="104" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">1750</text>
+<line x1="82" x2="792" y1="54" y2="54" stroke="#e5e7eb"/>
+<text x="72" y="58" text-anchor="end" font-family="Arial" font-size="11" fill="#52606d">2000</text>
+<rect x="137.33333333333331" y="63.2" width="54" height="358.8" fill="#94a3b8" rx="2"/>
+<text x="164.33333333333331" y="57.2" text-anchor="middle" font-family="Arial" font-size="10" fill="#1f2933">1950</text>
+<rect x="209.33333333333331" y="86.37380544243071" width="54" height="335.6261945575693" fill="#005f73" rx="2"/>
+<text x="236.33333333333331" y="80.37380544243071" text-anchor="middle" font-family="Arial" font-size="10" fill="#1f2933">1824</text>
+<text x="200.33333333333331" y="446" text-anchor="middle" font-family="Arial" font-size="12" fill="#1f2933">CB4</text>
+<text x="200.33333333333331" y="464" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700" fill="#067647">gap -126</text>
+<rect x="373.99999999999994" y="104.6" width="54" height="317.4" fill="#94a3b8" rx="2"/>
+<text x="400.99999999999994" y="98.6" text-anchor="middle" font-family="Arial" font-size="10" fill="#1f2933">1725</text>
+<rect x="445.99999999999994" y="120.48989630518349" width="54" height="301.5101036948165" fill="#005f73" rx="2"/>
+<text x="472.99999999999994" y="114.48989630518349" text-anchor="middle" font-family="Arial" font-size="10" fill="#1f2933">1639</text>
+<text x="436.99999999999994" y="446" text-anchor="middle" font-family="Arial" font-size="12" fill="#1f2933">CB5</text>
+<text x="436.99999999999994" y="464" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700" fill="#067647">gap -86</text>
+<rect x="610.6666666666666" y="244.44" width="54" height="177.56" fill="#94a3b8" rx="2"/>
+<text x="637.6666666666666" y="238.44" text-anchor="middle" font-family="Arial" font-size="10" fill="#1f2933">965</text>
+<rect x="682.6666666666666" y="108.74562878799591" width="54" height="313.2543712120041" fill="#005f73" rx="2"/>
+<text x="709.6666666666666" y="102.74562878799591" text-anchor="middle" font-family="Arial" font-size="10" fill="#1f2933">1702</text>
+<text x="673.6666666666666" y="446" text-anchor="middle" font-family="Arial" font-size="12" fill="#1f2933">CB6</text>
+<text x="673.6666666666666" y="464" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700" fill="#b42318">gap +737</text>
+<rect x="82" y="467" width="14" height="14" fill="#94a3b8"/>
+<text x="102" y="479" font-family="Arial" font-size="12" fill="#1f2933">Carbon budget target</text>
+<rect x="312" y="467" width="14" height="14" fill="#005f73"/>
+<text x="332" y="479" font-family="Arial" font-size="12" fill="#1f2933">DESNZ official comparison emissions</text>
+<text x="18" y="238" transform="rotate(-90 18 238)" text-anchor="middle" font-family="Arial" font-size="12" fill="#52606d">MtCO2e over budget period</text>
+<text x="82" y="494" font-family="Arial" font-size="10" fill="#697586">Source: DESNZ EEP 2024-2050 Web Table 2.1.</text></svg>

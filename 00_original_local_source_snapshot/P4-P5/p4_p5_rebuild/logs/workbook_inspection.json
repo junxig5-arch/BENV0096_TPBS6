@@ -1,0 +1,3956 @@
+[
+  {
+    "file": "E:/UCL Final Essay/Data_raw/DESNZ Energy and Emissions Projections 2024–2050 annexes/Web_tables_EEP_2024_2050.ods",
+    "sheetCount": 6,
+    "sheets": [
+      "Cover_sheet",
+      "Table_of_contents",
+      "Table_2_1",
+      "Table_3_1",
+      "Table_5_1",
+      "Table_5_2"
+    ],
+    "topPreviews": [
+      {
+        "name": "Table_5_1",
+        "score": 5,
+        "preview": [
+          [
+            "Changes which affect territorial emissions projections (in comparison with EEP 2023-2050), MtCO2e"
+          ],
+          [
+            "<text:s/>",
+            "CB4 (2023-27)",
+            "CB5 (2028-32)",
+            "CB6 (2033-37)",
+            "CB7 (2038-42)"
+          ],
+          [
+            "Transport assumption updates (inc. DfT policy savings)",
+            0.725064779113552,
+            -9.57114560268712,
+            -27.077677616938,
+            -33.1477683345202
+          ],
+          [
+            "Modelling and assumption changes",
+            0.202649271908342,
+            -10.0480847076294,
+            -17.1485994351501,
+            -24.4084007319263
+          ],
+          [
+            "Policy savings updates (DESNZ and MHCLG)",
+            -2.18830133988956,
+            -2.71392438080005,
+            -2.50339316268463,
+            -1.80566725635623
+          ],
+          [
+            "Macro-economic, power sector and other model input updates (inc. Defra policy savings)",
+            -27.9552466222312,
+            1.47412186134505,
+            5.06640756164023,
+            -26.9687270712452
+          ]
+        ]
+      },
+      {
+        "name": "Table_2_1",
+        "score": 4,
+        "preview": [
+          [
+            "Territorial and Net Carbon Account emissions projections across carbon budget periods, MtCO2e,<text:s/>"
+          ],
+          [
+            "<text:s/>",
+            "units",
+            "CB4 (2023-27)",
+            "CB5 (2028-32)",
+            "CB6 (2033-37)"
+          ],
+          [
+            "Carbon budget target",
+            "MtCO2e",
+            1950,
+            1725,
+            965
+          ],
+          [
+            "Projected territorial and Net Carbon Account (NCA) emissions"
+          ],
+          [
+            "Territorial emissions exc. IAS",
+            "MtCO2e",
+            1824.05540520418,
+            1638.64186790661,
+            1511.59079731493
+          ],
+          [
+            "Territorial emissions inc. IAS",
+            "MtCO2e",
+            2032.6562004937,
+            1841.18104714908,
+            1702.46940876089
+          ]
+        ]
+      },
+      {
+        "name": "Table_5_2",
+        "score": 4,
+        "preview": [
+          [
+            "Power sector and other model input updates which affect territorial emissions projections (in comparison with EEP 2023-2050), MtCO2e"
+          ],
+          [
+            "<text:s/>",
+            "CB4 (2023-27)",
+            "CB5 (2028-32)",
+            "CB6 (2033-37)",
+            "CB7 (2038-42)"
+          ],
+          [
+            "Fossil fuel, retail and carbon prices",
+            10.4339317765313,
+            16.3956137322443,
+            25.6588930032271,
+            18.7004436972324
+          ],
+          [
+            "Waste methodology update (inc. policy)",
+            4.0789006539963,
+            -5.4403520600282,
+            -17.6072982543567,
+            -24.4827361186365
+          ],
+          [
+            "Inventory, Non-CO2 (excluding waste and agriculture) and LULUCF updates",
+            4.21258755932956,
+            -2.37358691357883,
+            -2.19846841028573,
+            -1.28860461693807
+          ],
+          [
+            "Economic and demographic assumptions",
+            -0.742205439095756,
+            -2.03273590407264,
+            -0.350169882283183,
+            0.686869961250977
+          ]
+        ]
+      },
+      {
+        "name": "Cover_sheet",
+        "score": 3,
+        "preview": [
+          [
+            "Web tables"
+          ],
+          [
+            "The 'Table_of_contents' sheet contains details of the tables published."
+          ],
+          [
+            "Publication details"
+          ],
+          [
+            "EEP 2024-2050"
+          ],
+          [
+            "Version details"
+          ],
+          [
+            "This data was published: February 2026"
+          ]
+        ]
+      },
+      {
+        "name": "Table_3_1",
+        "score": 3,
+        "preview": [
+          [
+            "Projected GHG emissions savings from EEP-ready policies excluding power sector interventions, MtCO2e"
+          ],
+          [
+            "<text:s/>",
+            "CB4 (2023-27)",
+            "CB5 (2028-32)",
+            "CB6 (2033-37)",
+            "CB7 (2038-42)",
+            "Total (2023-42)"
+          ],
+          [
+            "Savings from policies excluding power sector",
+            289.570109568865,
+            423.609329019003,
+            560.657111479239,
+            650.451078163697,
+            1924.2876282308
+          ]
+        ]
+      },
+      {
+        "name": "Table_of_contents",
+        "score": 0,
+        "preview": [
+          [
+            "Table of contents"
+          ],
+          [
+            "Link to sheet",
+            "Table Name",
+            "Table Description"
+          ],
+          [
+            "Table_2.1",
+            "Table_2.1",
+            "Table from the report"
+          ],
+          [
+            "Table_3.1",
+            "Table_3.1",
+            "Table from the report"
+          ],
+          [
+            "Table_5.1",
+            "Table_5.1",
+            "Table from the report"
+          ],
+          [
+            "Table_5.2",
+            "Table_5.2",
+            "Table from the report"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "E:/UCL Final Essay/Data_raw/DESNZ Energy and Emissions Projections 2024–2050 annexes/Web_figures_EEP_2024_2050.ods",
+    "sheetCount": 6,
+    "sheets": [
+      "Cover_sheet",
+      "Table_of_contents",
+      "Fig__i_and_2_1",
+      "Fig_2_2",
+      "Fig_3_1",
+      "Fig_2019_1_1"
+    ],
+    "topPreviews": [
+      {
+        "name": "Fig_3_1",
+        "score": 4,
+        "preview": [
+          [
+            "Total emissions, MtCO2e"
+          ],
+          [
+            "<text:s/>",
+            "2024",
+            "2025",
+            "2026",
+            "2027",
+            "2028",
+            "2029",
+            "2030",
+            "2031",
+            "2032",
+            "2033",
+            "2034",
+            "2035",
+            "2036",
+            "2037"
+          ],
+          [
+            "EEP 2024-2050",
+            371.759487375243,
+            363.150082905754,
+            355.265423903811,
+            348.907854929247,
+            341.183234512029,
+            334.358922448123,
+            327.713982125617,
+            320.429867491574,
+            314.955861329269,
+            310.284565982226,
+            306.574221395534,
+            303.407283864246,
+            297.418389970588,
+            293.90633610234
+          ],
+          [
+            "EEP 2023-2050",
+            375.619638030184,
+            367.614536145481,
+            360.941015038256,
+            352.496416776973,
+            344.341692460301,
+            339.368907392164,
+            327.168817351934,
+            317.711287538452,
+            312.92294189771,
+            309.422619343873,
+            306.835574087451,
+            304.471806403875,
+            300.542778914618,
+            298.123332988111
+          ],
+          [
+            "CBGDP baseline",
+            373.4593743,
+            368.3337988,
+            360.6936632,
+            352.4768811,
+            344.383095,
+            340.2640637,
+            330.1190914,
+            321.668613,
+            317.2028608,
+            313.2576769,
+            309.8067096,
+            306.1386069,
+            302.5481134,
+            300.182499
+          ]
+        ]
+      },
+      {
+        "name": "Cover_sheet",
+        "score": 3,
+        "preview": [
+          [
+            "Web figures"
+          ],
+          [
+            "The 'Table_of_contents' sheet contains details of the tables published."
+          ],
+          [
+            "Publication details"
+          ],
+          [
+            "EEP 2024-2050"
+          ],
+          [
+            "Version details"
+          ],
+          [
+            "This data was published: February 2026"
+          ]
+        ]
+      },
+      {
+        "name": "Fig__i_and_2_1",
+        "score": 3,
+        "preview": [
+          [
+            "Annual total territorial emissions, MtCO2e"
+          ],
+          [
+            "<text:s/>",
+            "key",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995",
+            "1996",
+            "1997",
+            "1998",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007"
+          ],
+          [
+            "EEP 2024-2050",
+            "Territorial emissions",
+            810.709255012242,
+            819.232835965868,
+            797.97541675564,
+            778.360752029278,
+            765.820753611057,
+            759.200161760264,
+            779.071811500092,
+            754.348439372073,
+            752.428843510785,
+            724.319757328424,
+            724.257464453897,
+            726.755864661624,
+            705.612849652062,
+            711.601901472662,
+            707.60547351919,
+            699.294547450512,
+            692.796653693202,
+            679.406078155204
+          ],
+          [
+            "EEP 2023-2050",
+            "Territorial emissions",
+            812.417475354605,
+            820.711122456219,
+            799.524823104567,
+            779.921925640309,
+            767.321706186234,
+            761.161634305073,
+            780.6758893645,
+            755.839063761658,
+            753.335517180344,
+            724.472435492065,
+            724.346489465351,
+            727.120772185503,
+            705.20111165918,
+            710.622242111867,
+            706.255169198705,
+            697.446906187812,
+            689.468861207502,
+            676.393313016271
+          ],
+          [
+            "EEP 2024-2050",
+            "Lower 95% confidence limit",
+            385.855351374304,
+            385.855351374304,
+            385.855351374304,
+            385.855351374304,
+            385.855351374304,
+            385.855351374304,
+            385.855351374304,
+            385.855351374304,
+            385.855351374304,
+            385.855351374304,
+            385.855351374304,
+            385.855351374304,
+            385.855351374304,
+            385.855351374304,
+            385.855351374304,
+            385.855351374304,
+            385.855351374304,
+            385.855351374304
+          ],
+          [
+            "EEP 2024-2050",
+            "Upper 95% confidence limit",
+            362.062933075889,
+            362.062933075889,
+            362.062933075889,
+            362.062933075889,
+            362.062933075889,
+            362.062933075889,
+            362.062933075889,
+            362.062933075889,
+            362.062933075889,
+            362.062933075889,
+            362.062933075889,
+            362.062933075889,
+            362.062933075889,
+            362.062933075889,
+            362.062933075889,
+            362.062933075889,
+            362.062933075889,
+            362.062933075889
+          ]
+        ]
+      },
+      {
+        "name": "Fig_2_2",
+        "score": 2,
+        "preview": [
+          [
+            "Territorial UK Emissions, MtCO2e"
+          ],
+          [
+            "<text:s/>",
+            "CB4 (2023-27)",
+            "CB5 (2028-32)",
+            "CB6 (2033-37)"
+          ],
+          [
+            "Carbon budget value",
+            1950,
+            1725,
+            965
+          ],
+          [
+            "Net UK Carbon Account",
+            1824.05540520418,
+            1638.64186790661,
+            1702.46940876089
+          ]
+        ]
+      },
+      {
+        "name": "Table_of_contents",
+        "score": 1,
+        "preview": [
+          [
+            "Table of contents"
+          ],
+          [
+            "Link to sheet",
+            "Table Name",
+            "Table Description"
+          ],
+          [
+            "Fig_i and 2.1",
+            "Fig_i and 2.1",
+            "Figure from the report"
+          ],
+          [
+            "Fig_2.2",
+            "Fig_2.2",
+            "Figure from the report"
+          ],
+          [
+            "Fig_3.1",
+            "Fig_3.1",
+            "Figure from the report"
+          ],
+          [
+            "Fig_2019_1_1",
+            "Fig_2019_1_1",
+            "Figure from the EEP 2019 report, but updated with EEP 2024-2050 numbers"
+          ]
+        ]
+      },
+      {
+        "name": "Fig_2019_1_1",
+        "score": 1,
+        "preview": [
+          [
+            "Emissions trends, MtCO2e"
+          ],
+          [
+            "<text:s/>",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024",
+            "2025",
+            "2026"
+          ],
+          [
+            "Territorial TY",
+            657.988301472381,
+            601.307348285844,
+            615.79060353948,
+            570.584923743447,
+            586.959104018413,
+            573.861966129161,
+            530.7190857089,
+            510.227946398818,
+            483.47136563197,
+            471.309792398739,
+            464.279466519817,
+            447.51561627128,
+            407.975238765153,
+            422.475570116602,
+            404.682267986786,
+            384.972556090126,
+            371.759487375243,
+            363.150082905754,
+            355.265423903811
+          ],
+          [
+            "Non-traded TY",
+            399.167356472381,
+            373.928407285844,
+            382.19858353948,
+            352.310491743447,
+            357.495114256476,
+            347.142815806382,
+            331.347644511314,
+            332.795382469834,
+            334.823483867922,
+            332.79204517045,
+            333.977766175641,
+            327.659951498853,
+            302.093573529007,
+            314.217045092467,
+            297.71575745098,
+            293.639685554559,
+            291.967785784776,
+            297.050978901622,
+            292.748292643317
+          ],
+          [
+            "Traded TY",
+            258.820945,
+            227.378941,
+            233.59202,
+            218.274432,
+            229.463989761937,
+            226.719150322779,
+            199.371441197586,
+            177.432563928984,
+            148.647881764047,
+            138.517747228289,
+            130.301700344176,
+            119.855664772426,
+            105.881665236146,
+            108.258525024135,
+            106.966510535805,
+            91.3328705355671,
+            79.7917015904673,
+            66.0991040041327,
+            62.5171312604942
+          ],
+          [
+            "Territorial LY",
+            654.699597871462,
+            597.790469883629,
+            611.566649121462,
+            565.448480403851,
+            581.713755363003,
+            566.8735109903,
+            525.408178547319,
+            507.948350921584,
+            480.673506187799,
+            469.103570955332,
+            462.339779752123,
+            447.856743901524,
+            404.008344072112,
+            421.054375470811,
+            406.171469073629,
+            389.151157617512,
+            375.619638030184,
+            367.614536145481,
+            360.941015038256
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "E:/UCL Final Essay/Data_raw/DESNZ Energy and Emissions Projections 2024–2050 annexes/Annex_A_GHG_by_NZS_category.ods",
+    "sheetCount": 9,
+    "sheets": [
+      "Cover_sheet",
+      "Table_of_contents",
+      "Notes",
+      "Reference",
+      "FFP_Low",
+      "FFP_High",
+      "GDP_Low",
+      "GDP_High",
+      "Existing"
+    ],
+    "topPreviews": [
+      {
+        "name": "Notes",
+        "score": 9,
+        "preview": [
+          [
+            "Notes"
+          ],
+          [
+            "This worksheet contains one table. Some cells in the 'Link' column are empty where no relevant link is required."
+          ],
+          [
+            "note",
+            "Note text",
+            "Link"
+          ],
+          [
+            "[note 1]",
+            "Annex M contains details of how we vary the growth and price inputs for the different scenarios in this annex."
+          ],
+          [
+            "[note 2]",
+            "This reflects a set of assumptions for growth and prices. This does not reflect a desired or preferred outcome for Government."
+          ],
+          [
+            "[note 3]",
+            "Results are presented under AR5 without feedback 100-year global warming potentials (GWPs).",
+            "AR5 without feedback is defined <text:s/>in IPCC (2013), Assessment Report 5 WGI Chapter 8 table 8.A.1"
+          ]
+        ]
+      },
+      {
+        "name": "Reference",
+        "score": 6,
+        "preview": [
+          [
+            "Reference - Annex A (NZS taxonomy) - Greenhouse gas emissions by source (Net Zero Strategy Taxonomy)"
+          ],
+          [
+            "This worksheet contains one table. Some cells refer to notes which can be found on the notes worksheet. Note markers are presented in square brackets, for example: [note 1]."
+          ],
+          [
+            "GHG",
+            "coverage",
+            "units",
+            "note",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995",
+            "1996",
+            "1997",
+            "1998",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005"
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (exc. IAS)",
+            "MtCO2e",
+            "[note 8]",
+            810.709255012242,
+            819.232835965868,
+            797.975416755641,
+            778.360752029278,
+            765.820753611057,
+            759.200161760264,
+            779.071811500092,
+            754.348439372073,
+            752.428843510785,
+            724.319757328424,
+            724.257464453897,
+            726.755864661624,
+            705.612849652062,
+            711.601901472662,
+            707.60547351919,
+            699.294547450512
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (inc. IAS)",
+            "MtCO2e",
+            "[note 9]",
+            834.356590479365,
+            842.456647743761,
+            823.042893431072,
+            804.435460355682,
+            792.157660272504,
+            787.218444791921,
+            808.891923283265,
+            786.47143153029,
+            787.532224501711,
+            759.195275715284,
+            761.172934035596,
+            763.550794034655,
+            740.719362643962,
+            746.930906955178,
+            746.83423123169,
+            741.023336227459
+          ],
+          [
+            "GHG (All)",
+            "Net Carbon Account Applied",
+            "MtCO2e",
+            "[note 7]",
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126
+          ]
+        ]
+      },
+      {
+        "name": "FFP_Low",
+        "score": 6,
+        "preview": [
+          [
+            "Fossil Fuel Prices - Low - Annex A (NZS taxonomy) - Greenhouse gas emissions by source (Net Zero Strategy Taxonomy)"
+          ],
+          [
+            "This worksheet contains one table. Some cells refer to notes which can be found on the notes worksheet. Note markers are presented in square brackets, for example: [note 1]."
+          ],
+          [
+            "GHG",
+            "coverage",
+            "units",
+            "note",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995",
+            "1996",
+            "1997",
+            "1998",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005"
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (exc. IAS)",
+            "MtCO2e",
+            "[note 8]",
+            810.709255012242,
+            819.232835965868,
+            797.975416755641,
+            778.360752029278,
+            765.820753611057,
+            759.200161760264,
+            779.071811500092,
+            754.348439372073,
+            752.428843510785,
+            724.319757328424,
+            724.257464453897,
+            726.755864661624,
+            705.612849652062,
+            711.601901472662,
+            707.60547351919,
+            699.294547450512
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (inc. IAS)",
+            "MtCO2e",
+            "[note 9]",
+            834.356590479365,
+            842.456647743761,
+            823.042893431072,
+            804.435460355682,
+            792.157660272504,
+            787.218444791921,
+            808.891923283265,
+            786.47143153029,
+            787.532224501711,
+            759.195275715284,
+            761.172934035596,
+            763.550794034655,
+            740.719362643962,
+            746.930906955178,
+            746.83423123169,
+            741.023336227459
+          ],
+          [
+            "GHG (All)",
+            "Net Carbon Account Applied",
+            "MtCO2e",
+            "[note 7]",
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126
+          ]
+        ]
+      },
+      {
+        "name": "FFP_High",
+        "score": 6,
+        "preview": [
+          [
+            "Fossil Fuel Prices - High - Annex A (NZS taxonomy) - Greenhouse gas emissions by source (Net Zero Strategy Taxonomy)"
+          ],
+          [
+            "This worksheet contains one table. Some cells refer to notes which can be found on the notes worksheet. Note markers are presented in square brackets, for example: [note 1]."
+          ],
+          [
+            "GHG",
+            "coverage",
+            "units",
+            "note",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995",
+            "1996",
+            "1997",
+            "1998",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005"
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (exc. IAS)",
+            "MtCO2e",
+            "[note 8]",
+            810.709255012242,
+            819.232835965868,
+            797.975416755641,
+            778.360752029278,
+            765.820753611057,
+            759.200161760264,
+            779.071811500092,
+            754.348439372073,
+            752.428843510785,
+            724.319757328424,
+            724.257464453897,
+            726.755864661624,
+            705.612849652062,
+            711.601901472662,
+            707.60547351919,
+            699.294547450512
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (inc. IAS)",
+            "MtCO2e",
+            "[note 9]",
+            834.356590479365,
+            842.456647743761,
+            823.042893431072,
+            804.435460355682,
+            792.157660272504,
+            787.218444791921,
+            808.891923283265,
+            786.47143153029,
+            787.532224501711,
+            759.195275715284,
+            761.172934035596,
+            763.550794034655,
+            740.719362643962,
+            746.930906955178,
+            746.83423123169,
+            741.023336227459
+          ],
+          [
+            "GHG (All)",
+            "Net Carbon Account Applied",
+            "MtCO2e",
+            "[note 7]",
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126
+          ]
+        ]
+      },
+      {
+        "name": "GDP_Low",
+        "score": 6,
+        "preview": [
+          [
+            "Economic Growth - Low - Annex A (NZS taxonomy) - Greenhouse gas emissions by source (Net Zero Strategy Taxonomy)"
+          ],
+          [
+            "This worksheet contains one table. Some cells refer to notes which can be found on the notes worksheet. Note markers are presented in square brackets, for example: [note 1]."
+          ],
+          [
+            "GHG",
+            "coverage",
+            "units",
+            "note",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995",
+            "1996",
+            "1997",
+            "1998",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005"
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (exc. IAS)",
+            "MtCO2e",
+            "[note 8]",
+            810.709255012242,
+            819.232835965868,
+            797.975416755641,
+            778.360752029278,
+            765.820753611057,
+            759.200161760264,
+            779.071811500092,
+            754.348439372073,
+            752.428843510785,
+            724.319757328424,
+            724.257464453897,
+            726.755864661624,
+            705.612849652062,
+            711.601901472662,
+            707.60547351919,
+            699.294547450512
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (inc. IAS)",
+            "MtCO2e",
+            "[note 9]",
+            834.356590479365,
+            842.456647743761,
+            823.042893431072,
+            804.435460355682,
+            792.157660272504,
+            787.218444791921,
+            808.891923283265,
+            786.47143153029,
+            787.532224501711,
+            759.195275715284,
+            761.172934035596,
+            763.550794034655,
+            740.719362643962,
+            746.930906955178,
+            746.83423123169,
+            741.023336227459
+          ],
+          [
+            "GHG (All)",
+            "Net Carbon Account Applied",
+            "MtCO2e",
+            "[note 7]",
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126
+          ]
+        ]
+      },
+      {
+        "name": "GDP_High",
+        "score": 6,
+        "preview": [
+          [
+            "Economic Growth - High - Annex A (NZS taxonomy) - Greenhouse gas emissions by source (Net Zero Strategy Taxonomy)"
+          ],
+          [
+            "This worksheet contains one table. Some cells refer to notes which can be found on the notes worksheet. Note markers are presented in square brackets, for example: [note 1]."
+          ],
+          [
+            "GHG",
+            "coverage",
+            "units",
+            "note",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995",
+            "1996",
+            "1997",
+            "1998",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005"
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (exc. IAS)",
+            "MtCO2e",
+            "[note 8]",
+            810.709255012242,
+            819.232835965868,
+            797.975416755641,
+            778.360752029278,
+            765.820753611057,
+            759.200161760264,
+            779.071811500092,
+            754.348439372073,
+            752.428843510785,
+            724.319757328424,
+            724.257464453897,
+            726.755864661624,
+            705.612849652062,
+            711.601901472662,
+            707.60547351919,
+            699.294547450512
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (inc. IAS)",
+            "MtCO2e",
+            "[note 9]",
+            834.356590479365,
+            842.456647743761,
+            823.042893431072,
+            804.435460355682,
+            792.157660272504,
+            787.218444791921,
+            808.891923283265,
+            786.47143153029,
+            787.532224501711,
+            759.195275715284,
+            761.172934035596,
+            763.550794034655,
+            740.719362643962,
+            746.930906955178,
+            746.83423123169,
+            741.023336227459
+          ],
+          [
+            "GHG (All)",
+            "Net Carbon Account Applied",
+            "MtCO2e",
+            "[note 7]",
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126
+          ]
+        ]
+      },
+      {
+        "name": "Existing",
+        "score": 6,
+        "preview": [
+          [
+            "With Existing Measures - Annex A (NZS taxonomy) - Greenhouse gas emissions by source (Net Zero Strategy Taxonomy)"
+          ],
+          [
+            "This worksheet contains one table. Some cells refer to notes which can be found on the notes worksheet. Note markers are presented in square brackets, for example: [note 1]."
+          ],
+          [
+            "GHG",
+            "coverage",
+            "units",
+            "note",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995",
+            "1996",
+            "1997",
+            "1998",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005"
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (exc. IAS)",
+            "MtCO2e",
+            "[note 8]",
+            810.709255012242,
+            819.232835965868,
+            797.975416755641,
+            778.360752029278,
+            765.820753611057,
+            759.200161760264,
+            779.071811500092,
+            754.348439372073,
+            752.428843510785,
+            724.319757328424,
+            724.257464453897,
+            726.755864661624,
+            705.612849652062,
+            711.601901472662,
+            707.60547351919,
+            699.294547450512
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (inc. IAS)",
+            "MtCO2e",
+            "[note 9]",
+            834.356590479365,
+            842.456647743761,
+            823.042893431072,
+            804.435460355682,
+            792.157660272504,
+            787.218444791921,
+            808.891923283265,
+            786.47143153029,
+            787.532224501711,
+            759.195275715284,
+            761.172934035596,
+            763.550794034655,
+            740.719362643962,
+            746.930906955178,
+            746.83423123169,
+            741.023336227459
+          ],
+          [
+            "GHG (All)",
+            "Net Carbon Account Applied",
+            "MtCO2e",
+            "[note 7]",
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126
+          ]
+        ]
+      },
+      {
+        "name": "Cover_sheet",
+        "score": 4,
+        "preview": [
+          [
+            "EEP - Annex A (NZS taxonomy) - Greenhouse gas emissions by source (Net Zero Strategy Taxonomy)"
+          ],
+          [
+            "The 'Table_of_contents' sheet contains details of the scenarios published."
+          ],
+          [
+            "The 'Notes' sheet contains details of key assumptions. Some cells in tables may refer to notes which can also be found on this sheet. Note markers are presented in square brackets, for example: [note 1]."
+          ],
+          [
+            "Publication details"
+          ],
+          [
+            "EEP 2024-2050"
+          ],
+          [
+            "Version details"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "E:/UCL Final Essay/Data_raw/DESNZ Energy and Emissions Projections 2024–2050 annexes/Annex_A_GHG_by_TES_sector.ods",
+    "sheetCount": 9,
+    "sheets": [
+      "Cover_sheet",
+      "Table_of_contents",
+      "Notes",
+      "Reference",
+      "FFP_Low",
+      "FFP_High",
+      "GDP_Low",
+      "GDP_High",
+      "Existing"
+    ],
+    "topPreviews": [
+      {
+        "name": "Notes",
+        "score": 7,
+        "preview": [
+          [
+            "Notes"
+          ],
+          [
+            "This worksheet contains one table. Some cells in the 'Link' column are empty where no relevant link is required."
+          ],
+          [
+            "note",
+            "Note text",
+            "Link"
+          ],
+          [
+            "[note 1]",
+            "Annex M contains details of how we vary the growth and price inputs for the different scenarios in this annex."
+          ],
+          [
+            "[note 2]",
+            "This reflects a set of assumptions for growth and prices. This does not reflect a desired or preferred outcome for Government."
+          ],
+          [
+            "[note 3]",
+            "Results are presented under AR5 without feedback 100-year global warming potentials (GWPs).",
+            "AR5 without feedback is defined <text:s/>in IPCC (2013), Assessment Report 5 WGI Chapter 8 table 8.A.1"
+          ]
+        ]
+      },
+      {
+        "name": "Reference",
+        "score": 5,
+        "preview": [
+          [
+            "Reference - Annex A (TES sectors) - Greenhouse gas emissions by source (Territorial Emissions Statistics sectors)"
+          ],
+          [
+            "This worksheet contains one table. Some cells refer to notes which can be found on the notes worksheet. Note markers are presented in square brackets, for example: [note 1]."
+          ],
+          [
+            "GHG",
+            "coverage",
+            "units",
+            "note",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995",
+            "1996",
+            "1997",
+            "1998",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005"
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (exc. IAS)",
+            "MtCO2e",
+            "[note 8]",
+            810.709255012242,
+            819.232835965868,
+            797.97541675564,
+            778.360752029278,
+            765.820753611057,
+            759.200161760264,
+            779.071811500093,
+            754.348439372073,
+            752.428843510785,
+            724.319757328424,
+            724.257464453897,
+            726.755864661624,
+            705.612849652062,
+            711.601901472662,
+            707.60547351919,
+            699.294547450512
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (inc. IAS)",
+            "MtCO2e",
+            "[note 9]",
+            834.356590479365,
+            842.456647743761,
+            823.042893431072,
+            804.435460355682,
+            792.157660272504,
+            787.218444791921,
+            808.891923283265,
+            786.47143153029,
+            787.53222450171,
+            759.195275715284,
+            761.172934035596,
+            763.550794034655,
+            740.719362643962,
+            746.930906955178,
+            746.83423123169,
+            741.023336227459
+          ],
+          [
+            "GHG (All)",
+            "Net Carbon Account Applied",
+            "MtCO2e",
+            "[note 7]",
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126
+          ]
+        ]
+      },
+      {
+        "name": "FFP_Low",
+        "score": 5,
+        "preview": [
+          [
+            "Fossil Fuel Prices - Low - Annex A (TES sectors) - Greenhouse gas emissions by source (Territorial Emissions Statistics sectors)"
+          ],
+          [
+            "This worksheet contains one table. Some cells refer to notes which can be found on the notes worksheet. Note markers are presented in square brackets, for example: [note 1]."
+          ],
+          [
+            "GHG",
+            "coverage",
+            "units",
+            "note",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995",
+            "1996",
+            "1997",
+            "1998",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005"
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (exc. IAS)",
+            "MtCO2e",
+            "[note 8]",
+            810.709255012242,
+            819.232835965868,
+            797.97541675564,
+            778.360752029278,
+            765.820753611057,
+            759.200161760264,
+            779.071811500093,
+            754.348439372073,
+            752.428843510785,
+            724.319757328424,
+            724.257464453897,
+            726.755864661624,
+            705.612849652062,
+            711.601901472662,
+            707.60547351919,
+            699.294547450512
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (inc. IAS)",
+            "MtCO2e",
+            "[note 9]",
+            834.356590479365,
+            842.456647743761,
+            823.042893431072,
+            804.435460355682,
+            792.157660272504,
+            787.218444791921,
+            808.891923283265,
+            786.47143153029,
+            787.53222450171,
+            759.195275715284,
+            761.172934035596,
+            763.550794034655,
+            740.719362643962,
+            746.930906955178,
+            746.83423123169,
+            741.023336227459
+          ],
+          [
+            "GHG (All)",
+            "Net Carbon Account Applied",
+            "MtCO2e",
+            "[note 7]",
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126
+          ]
+        ]
+      },
+      {
+        "name": "FFP_High",
+        "score": 5,
+        "preview": [
+          [
+            "Fossil Fuel Prices - High - Annex A (TES sectors) - Greenhouse gas emissions by source (Territorial Emissions Statistics sectors)"
+          ],
+          [
+            "This worksheet contains one table. Some cells refer to notes which can be found on the notes worksheet. Note markers are presented in square brackets, for example: [note 1]."
+          ],
+          [
+            "GHG",
+            "coverage",
+            "units",
+            "note",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995",
+            "1996",
+            "1997",
+            "1998",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005"
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (exc. IAS)",
+            "MtCO2e",
+            "[note 8]",
+            810.709255012242,
+            819.232835965868,
+            797.97541675564,
+            778.360752029278,
+            765.820753611057,
+            759.200161760264,
+            779.071811500093,
+            754.348439372073,
+            752.428843510785,
+            724.319757328424,
+            724.257464453897,
+            726.755864661624,
+            705.612849652062,
+            711.601901472662,
+            707.60547351919,
+            699.294547450512
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (inc. IAS)",
+            "MtCO2e",
+            "[note 9]",
+            834.356590479365,
+            842.456647743761,
+            823.042893431072,
+            804.435460355682,
+            792.157660272504,
+            787.218444791921,
+            808.891923283265,
+            786.47143153029,
+            787.53222450171,
+            759.195275715284,
+            761.172934035596,
+            763.550794034655,
+            740.719362643962,
+            746.930906955178,
+            746.83423123169,
+            741.023336227459
+          ],
+          [
+            "GHG (All)",
+            "Net Carbon Account Applied",
+            "MtCO2e",
+            "[note 7]",
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126
+          ]
+        ]
+      },
+      {
+        "name": "GDP_Low",
+        "score": 5,
+        "preview": [
+          [
+            "Economic Growth - Low - Annex A (TES sectors) - Greenhouse gas emissions by source (Territorial Emissions Statistics sectors)"
+          ],
+          [
+            "This worksheet contains one table. Some cells refer to notes which can be found on the notes worksheet. Note markers are presented in square brackets, for example: [note 1]."
+          ],
+          [
+            "GHG",
+            "coverage",
+            "units",
+            "note",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995",
+            "1996",
+            "1997",
+            "1998",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005"
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (exc. IAS)",
+            "MtCO2e",
+            "[note 8]",
+            810.709255012242,
+            819.232835965868,
+            797.97541675564,
+            778.360752029278,
+            765.820753611057,
+            759.200161760264,
+            779.071811500093,
+            754.348439372073,
+            752.428843510785,
+            724.319757328424,
+            724.257464453897,
+            726.755864661624,
+            705.612849652062,
+            711.601901472662,
+            707.60547351919,
+            699.294547450512
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (inc. IAS)",
+            "MtCO2e",
+            "[note 9]",
+            834.356590479365,
+            842.456647743761,
+            823.042893431072,
+            804.435460355682,
+            792.157660272504,
+            787.218444791921,
+            808.891923283265,
+            786.47143153029,
+            787.53222450171,
+            759.195275715284,
+            761.172934035596,
+            763.550794034655,
+            740.719362643962,
+            746.930906955178,
+            746.83423123169,
+            741.023336227459
+          ],
+          [
+            "GHG (All)",
+            "Net Carbon Account Applied",
+            "MtCO2e",
+            "[note 7]",
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126
+          ]
+        ]
+      },
+      {
+        "name": "GDP_High",
+        "score": 5,
+        "preview": [
+          [
+            "Economic Growth - High - Annex A (TES sectors) - Greenhouse gas emissions by source (Territorial Emissions Statistics sectors)"
+          ],
+          [
+            "This worksheet contains one table. Some cells refer to notes which can be found on the notes worksheet. Note markers are presented in square brackets, for example: [note 1]."
+          ],
+          [
+            "GHG",
+            "coverage",
+            "units",
+            "note",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995",
+            "1996",
+            "1997",
+            "1998",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005"
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (exc. IAS)",
+            "MtCO2e",
+            "[note 8]",
+            810.709255012242,
+            819.232835965868,
+            797.97541675564,
+            778.360752029278,
+            765.820753611057,
+            759.200161760264,
+            779.071811500093,
+            754.348439372073,
+            752.428843510785,
+            724.319757328424,
+            724.257464453897,
+            726.755864661624,
+            705.612849652062,
+            711.601901472662,
+            707.60547351919,
+            699.294547450512
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (inc. IAS)",
+            "MtCO2e",
+            "[note 9]",
+            834.356590479365,
+            842.456647743761,
+            823.042893431072,
+            804.435460355682,
+            792.157660272504,
+            787.218444791921,
+            808.891923283265,
+            786.47143153029,
+            787.53222450171,
+            759.195275715284,
+            761.172934035596,
+            763.550794034655,
+            740.719362643962,
+            746.930906955178,
+            746.83423123169,
+            741.023336227459
+          ],
+          [
+            "GHG (All)",
+            "Net Carbon Account Applied",
+            "MtCO2e",
+            "[note 7]",
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126
+          ]
+        ]
+      },
+      {
+        "name": "Existing",
+        "score": 5,
+        "preview": [
+          [
+            "With Existing Measures - Annex A (TES sectors) - Greenhouse gas emissions by source (Territorial Emissions Statistics sectors)"
+          ],
+          [
+            "This worksheet contains one table. Some cells refer to notes which can be found on the notes worksheet. Note markers are presented in square brackets, for example: [note 1]."
+          ],
+          [
+            "GHG",
+            "coverage",
+            "units",
+            "note",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995",
+            "1996",
+            "1997",
+            "1998",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005"
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (exc. IAS)",
+            "MtCO2e",
+            "[note 8]",
+            810.709255012242,
+            819.232835965868,
+            797.975416755641,
+            778.360752029278,
+            765.820753611057,
+            759.200161760264,
+            779.071811500092,
+            754.348439372073,
+            752.428843510785,
+            724.319757328424,
+            724.257464453897,
+            726.755864661624,
+            705.612849652062,
+            711.601901472662,
+            707.60547351919,
+            699.294547450512
+          ],
+          [
+            "GHG (All)",
+            "Total emissions (inc. IAS)",
+            "MtCO2e",
+            "[note 9]",
+            834.356590479365,
+            842.456647743761,
+            823.042893431072,
+            804.435460355682,
+            792.157660272504,
+            787.218444791921,
+            808.891923283265,
+            786.47143153029,
+            787.532224501711,
+            759.195275715284,
+            761.172934035596,
+            763.550794034655,
+            740.719362643962,
+            746.930906955178,
+            746.83423123169,
+            741.023336227459
+          ],
+          [
+            "GHG (All)",
+            "Net Carbon Account Applied",
+            "MtCO2e",
+            "[note 7]",
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126,
+            384.972556090126
+          ]
+        ]
+      },
+      {
+        "name": "Cover_sheet",
+        "score": 4,
+        "preview": [
+          [
+            "EEP - Annex A (TES sectors) - Greenhouse gas emissions by source (Territorial Emissions Statistics sectors)"
+          ],
+          [
+            "The 'Table_of_contents' sheet contains details of the scenarios published."
+          ],
+          [
+            "The 'Notes' sheet contains details of key assumptions. Some cells in tables may refer to notes which can also be found on this sheet. Note markers are presented in square brackets, for example: [note 1]."
+          ],
+          [
+            "Publication details"
+          ],
+          [
+            "EEP 2024-2050"
+          ],
+          [
+            "Version details"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "E:/UCL Final Essay/Data_raw/Final UK greenhouse gas emissions statistics 1990–2023 data tables/final-greenhouse-gas-emissions-tables-2023.xlsx",
+    "sheetCount": 24,
+    "sheets": [
+      "Cover",
+      "Contents",
+      "1.1",
+      "1.2",
+      "1.3",
+      "1.4",
+      "1.5",
+      "1.6",
+      "1.7",
+      "1.8",
+      "2.1",
+      "2.2",
+      "3.1",
+      "3.2",
+      "3.3",
+      "3.4",
+      "4.1",
+      "4.2",
+      "4.3",
+      "5.1",
+      "6.1",
+      "6.2",
+      "6.3",
+      "6.4"
+    ],
+    "topPreviews": [
+      {
+        "name": "5.1",
+        "score": 9,
+        "preview": [
+          [
+            "Table 5.1: Greenhouse gas emissions, arising from the use of fuels from UK international aviation and shipping (IAS) bunkers, in million tonnes carbon dioxide equivalent (MtCO2e), 1990-2023"
+          ],
+          [
+            "This worksheet contains one table. Some cells in the table are blank."
+          ],
+          [
+            "Freeze panes are active on this sheet. To turn off freeze panes select the 'View' ribbon then 'Freeze Panes' then 'Unfreeze Panes' or use [Alt W, F]."
+          ],
+          [
+            "Consistent with international reporting guidelines for national greenhouse gas inventories, emissions arising from use of fuels from UK international aviation and shipping bunkers at UK airports and ports do not count towards the UK greenhouse gas emissions totals as reported to the UNFCCC but are instead reported internationally as a \"memo item\". They are not included in the UK totals in other tables in this publication."
+          ],
+          [
+            "Includes aircraft and shipping movements originating in the UK travelling to the UK Crown Dependencies and Overseas Territories."
+          ],
+          [
+            "A total for UK territorial emissions and IAS bunkers combined is presented in this table as the UK's 6th Carbon Budget, covering the years 2033-2037, will include IAS emissions in the UK Net Carbon Account for the first time. It has not yet been determined how these IAS emissions will be defined in legislation. DESNZ strategies and emissions projections to date have assumed IAS bunker emissions will be used since this is the definition required for reporting IAS emissions as supplementary information internationally."
+          ]
+        ]
+      },
+      {
+        "name": "1.2",
+        "score": 5,
+        "preview": [
+          [
+            "Table 1.2: Territorial greenhouse gas emissions by source category, in million tonnes carbon dioxide equivalent (MtCO2e), UK 1990-2023"
+          ],
+          [
+            "This worksheet contains one table. Some cells in the table are blank."
+          ],
+          [
+            "Freeze panes are active on this sheet. To turn off freeze panes select the 'View' ribbon then 'Freeze Panes' then 'Unfreeze Panes' or use [Alt W, F]."
+          ],
+          [
+            "There are collapsible columns and rows in this sheet. To expand collapsed columns and rows, select a column or row that has a 'plus' sign above or next to it, then go to the 'data' tab and select 'outline', in the drop down menu select 'show detail'. Alternatively, click on the 'plus' sign or select a column or row and use [Alt A, J]. To collapse expanded columns and rows, select a column or row that has a dot and line in its margin, go to the 'data' tab and select 'outline', in the drop down menu select 'hide detail'. Alternatively, click on the 'minus' sign in the margin or select a column or row and use [Alt A, H]."
+          ],
+          [
+            "Geographical coverage of table: United Kingdom."
+          ],
+          [
+            "TES sector",
+            "TES subsector",
+            "TES category",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995",
+            "1996",
+            "1997",
+            "1998",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023"
+          ]
+        ]
+      },
+      {
+        "name": "2.1",
+        "score": 5,
+        "preview": [
+          [
+            "Table 2.1: Progress against UK Carbon Budget targets, million tonnes carbon dioxide equivalent (MtCO2e)"
+          ],
+          [
+            "This worksheet contains four tables. Some cells in the tables are blank."
+          ],
+          [
+            "There is some shorthand used in the tables: [x] = unavailable, [z] = not applicable, EU ETS = European Union Emissions Trading System, CB = Carbon Budget."
+          ],
+          [
+            "CB performance is calculated as the CB target minus the UK Net Carbon Account."
+          ],
+          [
+            "Up until 2020, UK net greenhouse gas emissions were adjusted for EU ETS trading to calculate the UK Net Carbon Account. See the Annual Statement of Emissions publications for further information."
+          ],
+          [
+            "Emissions estimates for CB1, CB2 and CB3 were fixed in 2014, 2019 and 2024 respectively, as this is when performance for each was assessed. CB4 performance will be assessed in 2029, therefore emissions estimates for CB4 are subject to change."
+          ]
+        ]
+      },
+      {
+        "name": "3.3",
+        "score": 5,
+        "preview": [
+          [
+            "Table 3.3: Territorial greenhouse gas emissions, in million tonnes carbon dioxide equivalent (MtCO2e), in the UK, Crown Dependencies & Overseas Territories, and totals reported to the UNFCCC and under the Paris Agreement, 1990-2023"
+          ],
+          [
+            "This worksheet contains one table."
+          ],
+          [
+            "Freeze panes are active on this sheet. To turn off freeze panes select the 'View' ribbon then 'Freeze Panes' then 'Unfreeze Panes' or use [Alt W, F]."
+          ],
+          [
+            "This table shows the geographical coverage of the UK's current reporting obligations for greenhouse gas emissions for United Nations Framework Convention on Climate Change (UNFCCC) reporting purposes and under the 2015 Paris Agreement."
+          ],
+          [
+            "Emissions reported to the UNFCCC under the Convention include emissions from the UK, its Crown Dependencies (Jersey, Guernsey, Isle of Man) and the Overseas Territories of Gibraltar, the Cayman Islands, the Falkland Islands and Bermuda."
+          ],
+          [
+            "Emissions reported under the Paris Agreement include emissions from the UK, its Crown Dependencies (Jersey, Guernsey, Isle of Man) and the Overseas Territory of Gibraltar."
+          ]
+        ]
+      },
+      {
+        "name": "4.2",
+        "score": 5,
+        "preview": [
+          [
+            "Table 4.2: Uncertainty in estimates of territorial greenhouse gas emissions by source sector, UK, Crown Dependencies and Overseas Territories 1990/2023"
+          ],
+          [
+            "This worksheet contains one table."
+          ],
+          [
+            "Figures include emissions for the UK, Crown Dependencies and the Overseas Territories. Uncertainties are not calculated for different geographical coverages but would be expected to be similar."
+          ],
+          [
+            "The 1990 and 2023 emissions totals and percentage changes presented here differ from the actual emissions estimates as the figures shown here are the central estimates from the uncertainty model."
+          ],
+          [
+            "The uncertainty is expressed as a percentage relative to the mean value 2023 emissions. Calculated as 0.5*R/E where R is the difference between 2.5 and 97.5 percentiles and E is the mean."
+          ],
+          [
+            "The range of the likely percentage change between 1990 and 2023 is equivalent to a 95 per cent probability that the percentage change is between the two values shown."
+          ]
+        ]
+      },
+      {
+        "name": "Cover",
+        "score": 4,
+        "preview": [
+          [
+            "Final UK territorial greenhouse gas emissions statistics 1990-2023"
+          ],
+          [
+            "This publication provides the latest estimates of UK greenhouse gas emissions going back to 1990. They show \"territorial\" emissions, meaning emissions that occur within UK borders. These tables show emissions by source, meaning emissions are attributed to the sector that emits them directly. The geographical coverage for these statistics is UK only except where stated otherwise. These statistics are used to monitor progress against UK emissions reductions targets. These data tables were published on 6 February 2025, and were updated on 27 March 2025 to add updated uncertainty data."
+          ],
+          [
+            "For the purposes of reporting, greenhouse gas emissions are allocated into a small number of broad, high level sectors known as Territorial Emissions Statistics (TES) sectors, which are as follows: electricity supply, fuel supply, domestic transport, buildings and product uses, industry, agriculture, waste, and land use, land use change and forestry (LULUCF). These high level sectors are made up of a number of more detailed source categories, which follow the definitions set out by the Intergovernmental Panel on Climate Change (IPCC) and which are used in international reporting tables which are submitted to the United Nations Framework Convention on Climate Change (UNFCCC) every year in the UK's Common Reporting Tables (CRT)."
+          ],
+          [
+            "The basket of greenhouse gases covered by these statistics consists of seven gases: carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulphur hexafluoride (SF6) and nitrogen trifluoride (NF3). The last four gases are collectively referred to as fluorinated gases or F gases. In accordance with international reporting, each of these gases is weighted by its global warming potential (GWP), so that total greenhouse gas emissions can be reported on a consistent basis (in carbon dioxide equivalent units). The GWP for each gas is defined as its warming influence relative to that of carbon dioxide over a 100-year period and are shown in Table 6.4. The GWPs used in these statistics are from Table 8.A.1 (without climate-carbon feedback) of Working Group 1 of the IPCC Fifth Assessment Report: Climate Change 2013."
+          ],
+          [
+            "Estimates of CO2 emissions for years prior to 1990 are not included in this publication since these data are no longer updated with the latest methodology changes and do not cover all sources of emissions. The most recent estimates can be found in Table 1.8 in the Final UK greenhouse gas emissions national statistics: 1990 to 2022."
+          ],
+          [
+            "Performance against UK international emissions reductions targets under the Kyoto Protocol are not included in this publication since these data are no longer updated. From 2021, the UK has international emissions reductions targets under the Paris Agreeement. Information on targets under the Kyoto Procotol can instead be found in Table 2.2 in the Final UK greenhouse gas emissions national statistics: 1990 to 2022."
+          ]
+        ]
+      },
+      {
+        "name": "1.1",
+        "score": 4,
+        "preview": [
+          [
+            "Table 1.1: Territorial greenhouse gas emissions by gas, in million tonnes carbon dioxide equivalent (MtCO2e), UK 1990-2023"
+          ],
+          [
+            "This worksheet contains one table. Some cells in the table are blank."
+          ],
+          [
+            "Freeze panes are active on this sheet. To turn off freeze panes select the 'View' ribbon then 'Freeze Panes' then 'Unfreeze Panes' or use [Alt W, F]."
+          ],
+          [
+            "In accordance with international reporting and carbon trading protocols, each of these gases are weighted by their global warming potential (GWP), so that total greenhouse gas emissions can be reported on a consistent basis (in carbon dioxide equivalent units). The GWP for each gas is defined as its warming influence relative to that of carbon dioxide."
+          ],
+          [
+            "Geographical coverage of table: United Kingdom."
+          ],
+          [
+            "Gas",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995",
+            "1996",
+            "1997",
+            "1998",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023"
+          ]
+        ]
+      },
+      {
+        "name": "1.7",
+        "score": 4,
+        "preview": [
+          [
+            "Table 1.7: Territorial greenhouse gas emissions by type of fuel, in million tonnes carbon dioxide equivalent (MtCO2e), UK 1990-2023"
+          ],
+          [
+            "This worksheet contains one table. Some cells in the table are blank."
+          ],
+          [
+            "Freeze panes are active on this sheet. To turn off freeze panes select the 'View' ribbon then 'Freeze Panes' then 'Unfreeze Panes' or use [Alt W, F]."
+          ],
+          [
+            "Geographical coverage of table: United Kingdom."
+          ],
+          [
+            "Fuel group",
+            "Fuel",
+            "Gas",
+            "1990",
+            "1991",
+            "1992",
+            "1993",
+            "1994",
+            "1995",
+            "1996",
+            "1997",
+            "1998",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023"
+          ],
+          [
+            "Coal",
+            "Carbon dioxide (CO2)",
+            null,
+            218.8095883911918,
+            221.25101450105834,
+            206.92995264622553,
+            177.4359162264171,
+            165.36284719900036,
+            152.0401773302091,
+            141.67233260287497,
+            124.37162574050346,
+            125.47978123684854,
+            108.44682470908573,
+            117.0195157146395,
+            129.3197334081967,
+            120.76543952423724,
+            129.84691047099258,
+            124.43243507888556,
+            124.92035960746878,
+            136.70525736553623,
+            126.21722055252977,
+            115.60575462583007,
+            95.94103486625283,
+            100.97797099243272,
+            101.66114312278975,
+            131.12898736454648,
+            121.19692160924606,
+            94.56298163716113,
+            72.68061461688693,
+            34.13785477641414,
+            25.94308927381475,
+            20.64405049172134,
+            11.74512727397264,
+            9.87197863921546,
+            10.213573615230821,
+            9.115192192802791,
+            6.533192612430275
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "E:/UCL Final Essay/Data_raw/CCC Seventh Carbon Budget  Balanced Pathway data/The-Seventh-Carbon-Budget-full-dataset.xlsx",
+    "sheetCount": 15,
+    "sheets": [
+      "lists",
+      "Contents",
+      "Meta data >>",
+      "Variable definitions",
+      "Measure definitions",
+      "Sector classification",
+      "Data explorer >>",
+      "Summary charts",
+      "Summary data",
+      "Raw data >>",
+      "Economy-wide data",
+      "Sector-level data",
+      "Subsector-level data",
+      "Measure-level data",
+      "Alt. sector classifications"
+    ],
+    "topPreviews": [
+      {
+        "name": "Summary data",
+        "score": 8,
+        "preview": [
+          [
+            "Summary chart data"
+          ],
+          [
+            null,
+            "This worksheet holds the underlying data for the summary charts."
+          ],
+          [
+            "Data for the economy-wide summary charts"
+          ],
+          [
+            "Emissions"
+          ],
+          [
+            "Figure A - Emissions by sector (MtCO <sz val=\"11\"/><color theme=\"4\"/><rFont val=\"Century Gothic\"/><family val=\"2\"/><scheme val=\"minor\"/></rPr><t>2 <family val=\"2\"/><scheme val=\"minor\"/></rPr><t>e)",
+            null,
+            "Emissions: direct emissions total"
+          ],
+          [
+            null,
+            "scenario",
+            "variable",
+            "sector",
+            2025,
+            null,
+            2026,
+            2027,
+            2028,
+            2029,
+            2030,
+            2031,
+            2032,
+            2033,
+            2034,
+            2035,
+            2036,
+            2037,
+            2038,
+            2039,
+            2040,
+            2041,
+            2042,
+            2043,
+            2044,
+            2045,
+            2046,
+            2047,
+            2048,
+            2049,
+            2050
+          ]
+        ]
+      },
+      {
+        "name": "Economy-wide data",
+        "score": 6,
+        "preview": [
+          [
+            "scenario",
+            "country",
+            "variable",
+            "variable_unit",
+            "year",
+            "value"
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Emissions: direct emissions total",
+            "MtCO2e",
+            2025,
+            413.919333154645
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Emissions: direct emissions total",
+            "MtCO2e",
+            2026,
+            395.9959561225685
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Emissions: direct emissions total",
+            "MtCO2e",
+            2027,
+            376.8885176622839
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Emissions: direct emissions total",
+            "MtCO2e",
+            2028,
+            355.0120163752691
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Emissions: direct emissions total",
+            "MtCO2e",
+            2029,
+            326.8596745321047
+          ]
+        ]
+      },
+      {
+        "name": "Sector-level data",
+        "score": 6,
+        "preview": [
+          [
+            "scenario",
+            "country",
+            "sector",
+            "variable",
+            "variable_unit",
+            "year",
+            "value"
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Agriculture",
+            "Emissions: direct emissions total",
+            "MtCO2e",
+            "2025",
+            47.04431879231096
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Agriculture",
+            "Emissions: direct emissions total",
+            "MtCO2e",
+            "2026",
+            46.55971791769261
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Agriculture",
+            "Emissions: direct emissions total",
+            "MtCO2e",
+            "2027",
+            44.91961444729086
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Agriculture",
+            "Emissions: direct emissions total",
+            "MtCO2e",
+            "2028",
+            43.08119057340664
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Agriculture",
+            "Emissions: direct emissions total",
+            "MtCO2e",
+            "2029",
+            41.07062128163186
+          ]
+        ]
+      },
+      {
+        "name": "Subsector-level data",
+        "score": 6,
+        "preview": [
+          [
+            "scenario",
+            "country",
+            "sector",
+            "subsector",
+            "variable",
+            "variable_unit",
+            "year",
+            "value"
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Agriculture",
+            "Enteric fermentation",
+            "Emissions: direct emissions total",
+            "MtCO2e",
+            2025,
+            23.45205811344537
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Agriculture",
+            "Enteric fermentation",
+            "Emissions: direct emissions total",
+            "MtCO2e",
+            2026,
+            23.30630605308201
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Agriculture",
+            "Enteric fermentation",
+            "Emissions: direct emissions total",
+            "MtCO2e",
+            2027,
+            22.67397272225614
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Agriculture",
+            "Enteric fermentation",
+            "Emissions: direct emissions total",
+            "MtCO2e",
+            2028,
+            21.89759684385799
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Agriculture",
+            "Enteric fermentation",
+            "Emissions: direct emissions total",
+            "MtCO2e",
+            2029,
+            21.00943256607056
+          ]
+        ]
+      },
+      {
+        "name": "Measure-level data",
+        "score": 6,
+        "preview": [
+          [
+            "scenario",
+            "country",
+            "sector",
+            "subsector",
+            "category3",
+            "category4",
+            "category5",
+            "category6",
+            "category7",
+            "measure_name",
+            "variable",
+            "variable_unit",
+            "year",
+            "value"
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Agriculture",
+            "Enteric fermentation",
+            "Land release measure",
+            "demand-side measure",
+            "demand-side measure",
+            null,
+            null,
+            "Average reduction in meat and dairy consumption",
+            "Emissions: direct abatement total",
+            "MtCO2e",
+            2025,
+            0
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Agriculture",
+            "Enteric fermentation",
+            "Land release measure",
+            "demand-side measure",
+            "demand-side measure",
+            null,
+            null,
+            "Average reduction in meat and dairy consumption",
+            "Emissions: direct abatement total",
+            "MtCO2e",
+            2026,
+            0
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Agriculture",
+            "Enteric fermentation",
+            "Land release measure",
+            "demand-side measure",
+            "demand-side measure",
+            null,
+            null,
+            "Average reduction in meat and dairy consumption",
+            "Emissions: direct abatement total",
+            "MtCO2e",
+            2027,
+            0
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Agriculture",
+            "Enteric fermentation",
+            "Land release measure",
+            "demand-side measure",
+            "demand-side measure",
+            null,
+            null,
+            "Average reduction in meat and dairy consumption",
+            "Emissions: direct abatement total",
+            "MtCO2e",
+            2028,
+            0.1105522224882876
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Agriculture",
+            "Enteric fermentation",
+            "Land release measure",
+            "demand-side measure",
+            "demand-side measure",
+            null,
+            null,
+            "Average reduction in meat and dairy consumption",
+            "Emissions: direct abatement total",
+            "MtCO2e",
+            2029,
+            0.1936718949069842
+          ]
+        ]
+      },
+      {
+        "name": "Alt. sector classifications",
+        "score": 6,
+        "preview": [
+          [
+            "scenario",
+            "country",
+            "sector_classification",
+            "sector",
+            "variable",
+            "variable_unit",
+            "year",
+            "value"
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Net Zero Strategy sectors (NZS)",
+            "Agriculture",
+            "Emissions: direct emissions CH4",
+            "MtCO2e",
+            2025,
+            27.65187432135329
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Net Zero Strategy sectors (NZS)",
+            "Agriculture",
+            "Emissions: direct emissions CH4",
+            "MtCO2e",
+            2026,
+            27.43493482715215
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Net Zero Strategy sectors (NZS)",
+            "Agriculture",
+            "Emissions: direct emissions CH4",
+            "MtCO2e",
+            2027,
+            26.61039176284507
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Net Zero Strategy sectors (NZS)",
+            "Agriculture",
+            "Emissions: direct emissions CH4",
+            "MtCO2e",
+            2028,
+            25.61982709027933
+          ],
+          [
+            "Balanced Pathway",
+            "United Kingdom",
+            "Net Zero Strategy sectors (NZS)",
+            "Agriculture",
+            "Emissions: direct emissions CH4",
+            "MtCO2e",
+            2029,
+            24.47459021880873
+          ]
+        ]
+      },
+      {
+        "name": "Contents",
+        "score": 5,
+        "preview": [
+          [
+            null,
+            "The Seventh Carbon Budget - Advice for the UK Government (dataset)"
+          ],
+          [
+            null,
+            "This workbook contains the dataset that underpins the CCC's Seventh Carbon Budget (CB7) analysis. The dataset covers the UK as a whole, with data for Scotland, Wales, and Northern Ireland published alongside their respective advice reports (published subsequently to the Seventh Carbon Budget). The workbook contains meta data, a data explorer, and the raw dataset, as described below. The raw data is organised by level of aggregation, with measure-level data the most granular. Measures are the individual actions or changes that reduce emissions, constituting the Balanced Pathway. Some variables are available only at certain levels of aggregation (refer to the variable definitions for more infomation)."
+          ],
+          [
+            null,
+            "Worksheet",
+            "Description"
+          ],
+          [
+            null,
+            "Meta data >>",
+            "Documentation and supplementary information"
+          ],
+          [
+            null,
+            "Variable definitions",
+            "Definitions of each variable, and the levels of aggregation where it is avaiable."
+          ],
+          [
+            null,
+            "Measure definitions",
+            "Definitions of each measure in the measure-level dataset."
+          ]
+        ]
+      },
+      {
+        "name": "Variable definitions",
+        "score": 4,
+        "preview": [
+          [
+            "variable_name",
+            "variable_unit",
+            "variable_definition",
+            "Available for Balanced Pathway",
+            "Available for Baseline",
+            "Available at country level",
+            "Available at sector level",
+            "Available at subsector level",
+            "Available at measure level",
+            "",
+            "variable"
+          ],
+          [
+            "Emissions: direct emissions total",
+            "MtCO2e",
+            "Total absolute emissions.",
+            true,
+            true,
+            true,
+            true,
+            true,
+            null,
+            null,
+            "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​Emissions: direct emissions total",
+            "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+          ],
+          [
+            "Emissions: direct emissions CO2",
+            "MtCO2e",
+            "Absolute CO2 emissions.",
+            true,
+            true,
+            true,
+            true,
+            true,
+            null,
+            null,
+            "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​Emissions: direct emissions CO2",
+            "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+          ],
+          [
+            "Emissions: direct emissions CH4",
+            "MtCO2e",
+            "Absolute CH4 emissions.",
+            true,
+            true,
+            true,
+            true,
+            true,
+            null,
+            null,
+            "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​Emissions: direct emissions CH4",
+            "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+          ],
+          [
+            "Emissions: direct emissions N2O",
+            "MtCO2e",
+            "Absolute N2O emissions.",
+            true,
+            true,
+            true,
+            true,
+            true,
+            null,
+            null,
+            "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​Emissions: direct emissions N2O",
+            "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+          ],
+          [
+            "Emissions: direct emissions F-gases",
+            "MtCO2e",
+            "Absolute F-gas emissions.",
+            true,
+            true,
+            true,
+            true,
+            true,
+            null,
+            null,
+            "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​Emissions: direct emissions F-gases",
+            "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "file": "E:/UCL Final Essay/Data_raw/CCC Sixth Carbon Budget chartsdata and scenario dataset/The-Sixth-Carbon-Budget-Dataset_v2.xlsx",
+    "sheetCount": 24,
+    "sheets": [
+      "Contents",
+      "6CB Scenarios >",
+      "Scenario descriptions",
+      "Scotland, Wales, NI assumptions",
+      "Data explorers ->",
+      "Scenario key metrics",
+      "Scenarios summary",
+      "Scenario explorer",
+      "Sector explorer",
+      "Sector level data explorer",
+      "Subsector level data explorer",
+      "Different methodologies",
+      "Raw data",
+      "Data categorisation",
+      "Buildings additional data",
+      "Aviation additional data",
+      "Electricity generation data",
+      "Traded emissions 2020-2050",
+      "Reference data >",
+      "1990-2019 emissions",
+      "IAS emissions",
+      "CCC sector mapping",
+      "Cost data guide",
+      "Update log"
+    ],
+    "topPreviews": [
+      {
+        "name": "Scenario key metrics",
+        "score": 9,
+        "preview": [
+          [
+            "Scenario key metrics:",
+            null,
+            "This tab provides a data on emissions by sector for the UK and Devolved Administrations, and deployment metrics by sector for each scenario (2020-2050)"
+          ],
+          [
+            "<family val=\"2\"/><scheme val=\"minor\"/></rPr><t>Notes: <family val=\"2\"/><scheme val=\"minor\"/></rPr><t xml:space=\"preserve\"> Scroll right for:",
+            null,
+            "Devolved administrations data"
+          ],
+          [
+            "Scroll down for:",
+            null,
+            "Different scenarios",
+            "United Kingdom",
+            null,
+            null,
+            "Scotland",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Wales",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Northern Ireland"
+          ],
+          [
+            "Scenario",
+            null,
+            "Category",
+            "Element",
+            "Units",
+            2020,
+            2021,
+            2022,
+            2023,
+            2024,
+            2025,
+            2026,
+            2027,
+            2028,
+            2029,
+            2030,
+            2031,
+            2032,
+            2033,
+            2034,
+            2035,
+            2036,
+            2037,
+            2038,
+            2039,
+            2040,
+            2041,
+            2042,
+            2043,
+            2044,
+            2045,
+            2046,
+            2047,
+            2048,
+            2049,
+            2050,
+            null,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024,
+            2025,
+            2026,
+            2027,
+            2028,
+            2029,
+            2030,
+            2031,
+            2032,
+            2033,
+            2034,
+            2035,
+            2036,
+            2037,
+            2038,
+            2039,
+            2040,
+            2041,
+            2042,
+            2043,
+            2044,
+            2045,
+            2046,
+            2047,
+            2048,
+            2049,
+            2050,
+            null,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024,
+            2025,
+            2026,
+            2027,
+            2028,
+            2029,
+            2030,
+            2031,
+            2032,
+            2033,
+            2034,
+            2035,
+            2036,
+            2037,
+            2038,
+            2039,
+            2040,
+            2041,
+            2042,
+            2043,
+            2044,
+            2045,
+            2046,
+            2047,
+            2048,
+            2049,
+            2050,
+            null,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024,
+            2025,
+            2026,
+            2027,
+            2028,
+            2029,
+            2030,
+            2031,
+            2032,
+            2033,
+            2034,
+            2035,
+            2036,
+            2037,
+            2038,
+            2039,
+            2040,
+            2041,
+            2042,
+            2043,
+            2044,
+            2045,
+            2046,
+            2047,
+            2048,
+            2049,
+            2050
+          ],
+          [
+            "Counterfactual/baseline",
+            null,
+            "Scenario emissions",
+            "Emissions",
+            "MtCO2e",
+            511.16822967612165,
+            521.523816140479,
+            522.6315229738382,
+            524.9419907157564,
+            529.0436896908551,
+            521.0322765855805,
+            519.9899544799025,
+            508.32396294811537,
+            508.7319201814299,
+            506.51735127116194,
+            514.7329279546678,
+            518.5733239953086,
+            521.4707534254472,
+            523.689922687753,
+            525.0305773844825,
+            528.5192542070836,
+            531.9489468261247,
+            534.8949576499053,
+            537.5042328493832,
+            542.3084124914308,
+            548.2838493802208,
+            554.5823874324276,
+            560.4240003480609,
+            567.0653318401834,
+            572.5273771881206,
+            575.9385730007535,
+            578.6310873848803,
+            582.3072921360815,
+            585.6506777515473,
+            588.1599448825242,
+            589.9219770206083,
+            49.09879594562766,
+            null,
+            49.568369565344746,
+            49.78636201865129,
+            49.712292979754274,
+            49.67672428834947,
+            49.147410412285645,
+            48.91618754432594,
+            48.418638389110384,
+            48.41223927480823,
+            48.316492220967824,
+            48.622715062954995,
+            48.84774692002216,
+            48.8966563932698,
+            48.835486078545564,
+            48.75424573060735,
+            48.69746693145667,
+            48.60486247542834,
+            48.57102891887189,
+            48.59005726758287,
+            48.82043796530004,
+            49.04363457926151,
+            49.243141163159585,
+            49.53484345193128,
+            49.882480380793574,
+            50.28271091608629,
+            50.600361822235755,
+            50.77185054891457,
+            50.87639117190932,
+            50.8402379903303,
+            50.43179329955068,
+            49.89843905206387,
+            40.2284081373507,
+            null,
+            39.9093747565399,
+            39.47212871110935,
+            39.539876332077206,
+            39.92778698488644,
+            39.03431426819108,
+            39.14495061053601,
+            37.847167603451624,
+            38.11059856407376,
+            38.025647299437054,
+            38.85186788051111,
+            39.21338834193769,
+            39.43148161702998,
+            39.53619649020748,
+            39.74992148451819,
+            40.21902836888458,
+            40.71806306670726,
+            41.106358792441235,
+            41.39933734578789,
+            42.00284046943288,
+            42.7092287548442,
+            43.49376492179374,
+            44.14746646450302,
+            44.92833729271769,
+            45.51533312760578,
+            45.828548610653975,
+            46.04411936386766,
+            46.39510342651127,
+            46.70667825128195,
+            46.952799787082746,
+            47.115186258305435,
+            23.993269525279032,
+            null,
+            23.909958227668486,
+            23.773991052804753,
+            23.59209090188032,
+            23.41045991967705,
+            23.21864842393077,
+            23.03855959053319,
+            22.9891260977762,
+            22.95734880760344,
+            22.924154137839764,
+            22.91961052934653,
+            22.917057902386404,
+            22.919308161311715,
+            22.92975266275293,
+            22.936831005646983,
+            22.942349086359506,
+            22.912038254987685,
+            22.891530469653777,
+            22.876440117632352,
+            22.87220646176658,
+            22.880420439243483,
+            22.897521959615062,
+            22.92492311299399,
+            22.953938093176898,
+            22.969157465079864,
+            22.97738966021562,
+            22.984804069421717,
+            22.992680657681902,
+            22.99101371888008,
+            23.012619590726324,
+            23.0316174613019
+          ],
+          [
+            "Balanced Net Zero Pathway",
+            null,
+            "Scenario emissions <sz val=\"12\"/><color theme=\"1\"/><rFont val=\"Century Gothic\"/><family val=\"2\"/><scheme val=\"minor\"/></rPr><t>1",
+            "Total emissions",
+            "MtCO2e",
+            497.1129272758869,
+            498.6480283768091,
+            491.97537339286316,
+            478.54381941311004,
+            464.34454243000914,
+            445.2689317758328,
+            416.4312430033135,
+            391.0138250787499,
+            368.4360238075496,
+            343.2683355721672,
+            316.26736214449346,
+            293.4250826834244,
+            264.55936440934164,
+            238.5394298006782,
+            215.45213414594298,
+            190.91077096666586,
+            170.2866103694159,
+            152.36117489125064,
+            137.34291380855367,
+            122.92409594852906,
+            104.51950804482072,
+            87.5263318261427,
+            73.58614902876437,
+            61.18249301915562,
+            48.62473898251787,
+            37.76635003568504,
+            27.94849322299177,
+            18.982326418522433,
+            12.09830557069192,
+            6.33165110107165,
+            -0.9724465966541516,
+            47.767907983800015,
+            null,
+            47.502619883533946,
+            46.77047523913753,
+            45.552478301763564,
+            44.058180090029964,
+            41.603267145761386,
+            39.90072024989662,
+            38.334580277946344,
+            36.621772482494514,
+            34.88023912337388,
+            32.43746479321083,
+            30.695469038638965,
+            28.678605518872637,
+            26.878824660102573,
+            24.981190332458613,
+            22.13995681137444,
+            19.512007509149317,
+            17.07847615968657,
+            15.53030320896718,
+            14.156798987795103,
+            12.657371658164944,
+            10.892439471976324,
+            9.624092976341405,
+            8.438049527255789,
+            7.380078656539503,
+            6.422803664835067,
+            5.225189707379123,
+            4.304956225559026,
+            3.389675048873162,
+            2.250261201496663,
+            0.9729784829943409,
+            null,
+            36.632251292287755,
+            34.65139860687516,
+            33.7028442354889,
+            32.510637872003564,
+            31.45620806801941,
+            30.506062422141493,
+            28.4346686764387,
+            26.63437262817538,
+            25.31908635165182,
+            24.041357327048303,
+            22.417273460194128,
+            21.30869380097078,
+            17.977940418526188,
+            16.73864671360719,
+            14.165059032540002,
+            12.430672041975548,
+            11.220957852458236,
+            10.245538242516105,
+            9.57542533809394,
+            9.010076907790358,
+            7.548914987081096,
+            6.665351316327448,
+            6.042090316939866,
+            5.421892051719425,
+            4.525494246796724,
+            4.084861803767088,
+            3.4040379980227975,
+            3.025954363932046,
+            2.695541025327182,
+            2.4395334511481366,
+            2.172658485429901,
+            null,
+            22.6510885510096,
+            22.298216383005176,
+            21.63359463852714,
+            20.990606174305253,
+            20.26909994232141,
+            19.28759686926878,
+            18.533644769187916,
+            17.67058625734791,
+            16.808060717718774,
+            15.929360637459995,
+            15.046741398480403,
+            13.864506549008718,
+            13.27788683960055,
+            12.649721708883856,
+            12.056230642202067,
+            11.4494853970385,
+            10.852336803241293,
+            10.353262215481031,
+            9.831192054237995,
+            9.281581686931856,
+            8.882166959786357,
+            8.40921806297714,
+            7.866562614498384,
+            7.454175209980683,
+            7.077383397100714,
+            6.732362816431826,
+            6.217747339491214,
+            5.910834652310829,
+            5.613789102055898,
+            5.358360981642344,
+            5.104916993575879
+          ]
+        ]
+      },
+      {
+        "name": "Electricity generation data",
+        "score": 9,
+        "preview": [
+          [
+            "Electricity generation data"
+          ],
+          [
+            null,
+            "Electricity generation by source, notes:"
+          ],
+          [
+            null,
+            null,
+            "(1) Includes batteries and pumped hydro, and reflects gross energy deployed into storage."
+          ],
+          [
+            null,
+            null,
+            "(2) Includes biomass and geothermal."
+          ],
+          [
+            null,
+            null,
+            "(3) Includes coal, gas CHP, recip engines, other."
+          ],
+          [
+            null,
+            null,
+            "(4) Includes hydro, tidal, and wave."
+          ]
+        ]
+      },
+      {
+        "name": "Traded emissions 2020-2050",
+        "score": 9,
+        "preview": [
+          [
+            "Traded and non-traded emissions in the Balanced Net Zero pathway"
+          ],
+          [
+            null,
+            2020,
+            null,
+            null,
+            2021,
+            2022,
+            2023,
+            2024,
+            2025,
+            2026,
+            2027,
+            2028,
+            2029,
+            2030,
+            2031,
+            2032,
+            2033,
+            2034,
+            2035,
+            2036,
+            2037,
+            2038,
+            2039,
+            2040,
+            2041,
+            2042,
+            2043,
+            2044,
+            2045,
+            2046,
+            2047,
+            2048,
+            2049,
+            2050
+          ],
+          [
+            null,
+            "Traded",
+            "Electricity supply",
+            44.63942376145508,
+            43.04288642335003,
+            40.622876371824475,
+            38.748238968733666,
+            39.46445835168148,
+            38.112007788874756,
+            28.80649677259629,
+            23.57119430642386,
+            20.252742011268683,
+            18.798287032965614,
+            14.523346688756323,
+            11.175024193535753,
+            7.546391246544864,
+            5.3092184789294405,
+            3.5287603404113206,
+            1.8143859350356695,
+            1.6846514667054548,
+            1.436148342916357,
+            1.4219842315515836,
+            1.4097068574641929,
+            1.3645574641720264,
+            1.3531950838980704,
+            1.2080530236889933,
+            1.197266014345295,
+            1.1735218168451318,
+            1.189499477326608,
+            1.1682495047340844,
+            1.1150337696555506,
+            1.116619544250531,
+            1.0863120352754396,
+            1.0761938253237988
+          ],
+          [
+            null,
+            "Domestic & intra-EU aviation",
+            null,
+            3.018196,
+            8.634513978195464,
+            10.364304038782548,
+            11.580539634771666,
+            11.563863800565942,
+            11.42253212373943,
+            11.211303657245399,
+            10.979504787458533,
+            10.757664999898733,
+            10.497831863996439,
+            10.355088760507773,
+            10.183718342436768,
+            9.957985625369236,
+            9.784435237638384,
+            9.606909769404135,
+            9.526898525700023,
+            9.460529933767742,
+            9.384663191494102,
+            9.327867458064308,
+            9.272754375562071,
+            9.144680382784816,
+            8.681935861772889,
+            8.549104851384925,
+            8.410819974135018,
+            8.24746005948112,
+            8.107192355623091,
+            7.960266850761251,
+            7.79058713257085,
+            7.6369395334882375,
+            7.482796056614038,
+            7.321166218884443
+          ],
+          [
+            null,
+            "Manufacturing and construction, and fuel supply",
+            null,
+            65.02553564777575,
+            62.6466262278772,
+            60.33017574257779,
+            58.225404850275545,
+            55.86858582805846,
+            53.40155277655262,
+            48.735231018785264,
+            45.91196686767074,
+            42.867982477794996,
+            38.793140280496814,
+            34.373007358941415,
+            30.94177964269324,
+            26.271676115936643,
+            22.438241310774288,
+            19.73190263972253,
+            13.648519079568437,
+            10.283029270833975,
+            8.590627495513704,
+            8.070660130298501,
+            7.58060538593541,
+            4.482038992114893,
+            3.5825309647827153,
+            3.308063220514277,
+            2.845114851428413,
+            2.7314397584124483,
+            2.7162665779795563,
+            2.478518799565076,
+            2.425169735454762,
+            2.2575027804147227,
+            2.15696538496784,
+            2.0486531344214676
+          ],
+          [
+            null,
+            "Engineered removals",
+            null,
+            -0.032810331772931245,
+            -0.04638652202172544,
+            -0.06027835434012718,
+            -0.07450567005481967,
+            -0.08908230967735631,
+            -0.10950406474975766,
+            -0.12418453354625829,
+            -1.177915189078985,
+            -1.1518962989664634,
+            -3.750695603698195,
+            -4.834929090726816,
+            -6.638670695342574,
+            -11.309929897460464,
+            -16.462724576365815,
+            -19.77322269874835,
+            -22.526677863703405,
+            -24.774478151748692,
+            -27.31663615479302,
+            -29.80005273615473,
+            -32.445446335126285,
+            -36.51785844429283,
+            -38.89825986801146,
+            -40.579196011541434,
+            -41.7764763008886,
+            -43.34425418565595,
+            -44.516412937192825,
+            -46.04072451297359,
+            -47.174994843640654,
+            -48.56455470955649,
+            -50.081613075559424,
+            -53.29455441800186
+          ]
+        ]
+      },
+      {
+        "name": "Scenarios summary",
+        "score": 8,
+        "preview": [
+          [
+            "Scenarios summary:",
+            null,
+            "This tab summarises key charts and data for emissions, energy and investment for the UK and devolved administrations across all exploratory scenarios. It allows pace and scale of changes across different exploratory exploratory to be compared."
+          ],
+          [
+            null,
+            "Select region:",
+            "UK"
+          ],
+          [
+            null,
+            "Emissions by gas over time"
+          ],
+          [
+            null,
+            "UK - GHG emissions",
+            null,
+            null,
+            null,
+            "UK - CO2 emissions",
+            null,
+            null,
+            "UK - CH4 emissions"
+          ],
+          [
+            null,
+            "UK - N2O emissions",
+            null,
+            null,
+            null,
+            "UK - F-gases emissions"
+          ],
+          [
+            null,
+            "Emissions data"
+          ]
+        ]
+      },
+      {
+        "name": "Sector explorer",
+        "score": 8,
+        "preview": [
+          [
+            "Sector Explorer:",
+            null,
+            "This tab allows deeper exploration of pathways for a given sector in the UK. The sector scenario overview charts allow comparison of key emissions, energy and cost statistics for the sector across different explortory scenarios. Further charts lower down the page show the contributions of different sub-sectors."
+          ],
+          [
+            "Note that the LULUCF sector is not available on this tab due to the data structure of LULUCF sources and sinks. For more LULUCF data, refer to the 'Subsector level data explorer' tab, or the 'Raw Data' tab."
+          ],
+          [
+            null,
+            "Select sector:",
+            "Surface transport"
+          ],
+          [
+            null,
+            "Select region:",
+            "UK"
+          ],
+          [
+            null,
+            "Select scenario:",
+            "Balanced Net Zero Pathway"
+          ],
+          [
+            null,
+            "Sector scenario overview"
+          ]
+        ]
+      },
+      {
+        "name": "Different methodologies",
+        "score": 8,
+        "preview": [
+          [
+            "Different methodologies",
+            null,
+            "This tab presents our analysis under different accounting methodologies and with or without international aviation and shipping."
+          ],
+          [
+            null,
+            "Select region:",
+            "UK"
+          ],
+          [
+            null,
+            "Select scenario:",
+            "Balanced Net Zero Pathway",
+            null,
+            "UK - Balanced Net Zero Pathway - High - CB6 assumption Peatland - AR5 with CC feedbacks - CB6 assumption"
+          ],
+          [
+            null,
+            "Peatland assumption:",
+            "High - CB6 assumption"
+          ],
+          [
+            null,
+            "GWP assumption:",
+            "AR5 with CC feedbacks - CB6 assumption"
+          ],
+          [
+            null,
+            "Include international aviation and shipping?",
+            "Yes - CB6 assumption"
+          ]
+        ]
+      },
+      {
+        "name": "Contents",
+        "score": 7,
+        "preview": [
+          [
+            null,
+            null,
+            "The 6th Carbon Budget Dataset"
+          ],
+          [
+            "Tab",
+            null,
+            "Description"
+          ],
+          [
+            "Key assumptions",
+            "Scenario descriptions",
+            "Description of the key choices and behaviours driving the scenarios, by sector."
+          ],
+          [
+            "Scotland, Wales, NI assumptions",
+            null,
+            "This tab provides a description of the methodologies used to disaggregate UK scenarios for Scotland, Wales and Northern Ireland"
+          ],
+          [
+            "Key metrics",
+            "Scenario key metrics",
+            "Data on emissions by sector for the UK and Devolved Administrations, and deployment metrics by sector for each scenario (2020-2050)."
+          ],
+          [
+            "Scenario explorers",
+            "Scenarios summary",
+            "Summary charts and data for emissions, energy demands and investment numbers for the UK and Devolved Administrations (2020-2050)."
+          ]
+        ]
+      },
+      {
+        "name": "Aviation additional data",
+        "score": 7,
+        "preview": [
+          [
+            "Sixth Carbon Budget scenarios - Aviation demand assumptions, fuel use & costs"
+          ],
+          [
+            "Passengers (million passengers / year) - departing flights"
+          ],
+          [
+            "Scenario",
+            2018,
+            2019,
+            2020,
+            2021,
+            2022,
+            2023,
+            2024,
+            2025,
+            2026,
+            2027,
+            2028,
+            2029,
+            2030,
+            2031,
+            2032,
+            2033,
+            2034,
+            2035,
+            2036,
+            2037,
+            2038,
+            2039,
+            2040,
+            2041,
+            2042,
+            2043,
+            2044,
+            2045,
+            2046,
+            2047,
+            2048,
+            2049,
+            2050,
+            null,
+            "% change from 2018"
+          ],
+          [
+            "Balanced Pathway",
+            146.045,
+            148.3405,
+            57.412034348708104,
+            103.77254362962498,
+            125.3477225,
+            141.5415604166666,
+            142.92047754885635,
+            143.27761836389416,
+            142.86208109117692,
+            142.44662588239612,
+            142.0312527375518,
+            141.61596165664395,
+            142.5142044313291,
+            143.4072538873524,
+            144.29269530703874,
+            145.1705305987886,
+            146.16822715756084,
+            148.59077305686864,
+            150.98812817596104,
+            153.1499148712043,
+            155.64774438390302,
+            158.2306809081962,
+            160.365190729985,
+            163.79862632253793,
+            165.90702252724518,
+            168.1818450689952,
+            170.0070195205577,
+            172.5719468256234,
+            174.3753731324618,
+            176.605545734495,
+            178.5922095232198,
+            180.57456177255344,
+            182.55624999999998,
+            0.24999999999999994
+          ],
+          [
+            "Headwinds",
+            146.045,
+            148.3405,
+            57.412034348708104,
+            103.77254362962498,
+            125.3477225,
+            141.5415604166666,
+            142.92047754885635,
+            143.27761836389416,
+            142.86208109117692,
+            142.44662588239612,
+            142.0312527375518,
+            141.61596165664392,
+            146.87472845033471,
+            151.47579918129148,
+            156.597423281486,
+            161.68640442371574,
+            162.59711041683155,
+            164.28695891774103,
+            165.1615439677583,
+            166.59023823542793,
+            167.89515952179406,
+            169.25009418570403,
+            170.45280716810822,
+            173.41292474084165,
+            174.07779860274104,
+            175.25450267938612,
+            175.96853473114228,
+            177.24798842705675,
+            177.73455340598503,
+            178.98953721022852,
+            180.45261287708738,
+            181.06514059633724,
+            182.55625,
+            0.25000000000000017
+          ],
+          [
+            "Tailwinds",
+            146.045,
+            148.3405,
+            57.412034348708104,
+            98.71363212768074,
+            113.12631955625,
+            127.7412582760416,
+            129.15072822352195,
+            129.46760245993215,
+            129.16162009390285,
+            129.0162606664154,
+            129.0111033007606,
+            128.98930562596468,
+            129.01255778681016,
+            129.16381189173762,
+            129.39904918790384,
+            129.09520108393053,
+            128.8823006936182,
+            129.11980201672196,
+            129.29264223305995,
+            129.15508838553816,
+            129.18096547861643,
+            129.21724239220964,
+            128.89041082613264,
+            129.34306155964268,
+            128.54633017912758,
+            128.17223144526844,
+            127.3181616731549,
+            126.97591593073813,
+            125.54442662427142,
+            125.0728120946028,
+            124.12479621686958,
+            123.30187120898881,
+            122.38253832047347,
+            -0.16202171713873476
+          ]
+        ]
+      }
+    ]
+  }
+]
