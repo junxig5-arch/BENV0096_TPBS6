@@ -1,0 +1,51 @@
+P5 CCC data cleaning note
+
+Purpose
+This note documents the cleaned CCC datasets used for P5 benchmark comparison.
+
+Source files
+1. CCC7 main source:
+E:\UCL Final Essay\Data_raw\CCC Seventh Carbon Budget  Balanced Pathway data\The-Seventh-Carbon-Budget-full-dataset.xlsx
+
+2. CCC6 sensitivity source:
+E:\UCL Final Essay\Data_raw\CCC Sixth Carbon Budget chartsdata and scenario dataset\The-Sixth-Carbon-Budget-Dataset_v2.xlsx
+
+CCC7 economy-wide cleaning
+- Sheet: Economy-wide data.
+- Rows retained: country = United Kingdom; variable = Emissions: direct emissions total; unit = MtCO2e.
+- Main scenario retained for P5: Balanced Pathway.
+- Years retained: 2025-2050.
+- Output files:
+  - E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\ccc7_clean_economy_wide_direct_emissions_all_scenarios.csv
+  - E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\ccc7_clean_economy_wide_balanced_pathway.csv
+
+CCC7 sector-level cleaning
+- Sheet: Sector-level data.
+- Rows retained: country = United Kingdom; variable = Emissions: direct emissions total; unit = MtCO2e.
+- Main scenario retained for P5: Balanced Pathway.
+- Sectors include Agriculture, Aviation, Electricity supply, Engineered removals, F-gases, Fuel supply, Industry, Land use, Non-residential buildings, Residential buildings, Shipping, Surface transport, and Waste.
+- Output files:
+  - E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\ccc7_clean_sector_direct_emissions_all_scenarios.csv
+  - E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\ccc7_clean_sector_direct_emissions_balanced_pathway.csv
+  - E:\UCL Final Essay\p4_p5_local_reproduction\tables\ccc7_clean_sector_2050_summary.csv
+
+CCC7 metadata cleaning
+- Sector classification output: E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\ccc7_clean_sector_classification.csv
+- Emissions variable definitions output: E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\ccc7_clean_emissions_variable_definitions.csv
+
+CCC6 sensitivity cleaning
+- Sheet: Scenario key metrics.
+- Rows retained: Balanced Net Zero Pathway; Scenario emissions; Total emissions.
+- Role: sensitivity check only, not the main P5 benchmark.
+- Output file: E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\ccc6_clean_balanced_net_zero_pathway.csv
+
+Quality checks
+- CCC7 Balanced Pathway economy-wide series covers 2025-2050.
+- CCC7 Balanced Pathway has no duplicate economy-wide years.
+- CCC7 sector-level Balanced Pathway has 13 sectors in every year.
+- CCC7 sector sums match economy-wide totals within rounding tolerance.
+- CCC6 sensitivity series covers 2025-2050.
+- Quality check file: E:\UCL Final Essay\p4_p5_local_reproduction\tables\p5_ccc_data_cleaning_quality_checks.csv
+
+Recommended P5 use
+Use CCC7 Balanced Pathway economy-wide direct emissions as the main target-consistent benchmark. Use CCC6 only as a sensitivity check. Use CCC7 sector-level data for broad sector context and sector-alignment discussion, not for strict one-to-one attribution against DESNZ TES sectors.

@@ -1,0 +1,11 @@
+﻿output,role
+E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\p5_cleaned_desnz_ccc_annual_comparison.csv,P5 annual DESNZ vs CCC comparison from cleaned CCC data
+E:\UCL Final Essay\p4_p5_local_reproduction\tables\p5_cleaned_benchmark_year_gap_metrics.csv,P5 benchmark-year gap table
+E:\UCL Final Essay\p4_p5_local_reproduction\tables\p5_cleaned_carbon_budget_period_metrics.csv,P5 carbon-budget-period comparison using cleaned CCC data
+E:\UCL Final Essay\p4_p5_local_reproduction\tables\p5_cleaned_final_benchmark_metrics_table.csv,P5 final benchmark metrics table
+E:\UCL Final Essay\p4_p5_local_reproduction\figures\p5_cleaned_desnz_vs_ccc_annual_pathways.png,Pathway comparison figure
+E:\UCL Final Essay\p4_p5_local_reproduction\figures\p5_cleaned_desnz_vs_ccc_annual_pathways.svg,"Pathway comparison figure, SVG"
+E:\UCL Final Essay\p4_p5_local_reproduction\figures\p5_cleaned_annual_gap_vs_ccc7.png,Annual gap figure
+E:\UCL Final Essay\p4_p5_local_reproduction\figures\p5_cleaned_annual_gap_vs_ccc7.svg,"Annual gap figure, SVG"
+E:\UCL Final Essay\p4_p5_local_reproduction\tables\p5_cleaned_benchmark_comparison_quality_checks.csv,Quality checks
+E:\UCL Final Essay\p4_p5_local_reproduction\tables\p5_cleaned_benchmark_comparison_note.txt,Benchmark comparison note

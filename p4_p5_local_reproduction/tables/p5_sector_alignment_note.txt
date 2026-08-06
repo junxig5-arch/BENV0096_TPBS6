@@ -1,0 +1,22 @@
+P5 sector alignment note: DESNZ TES versus CCC Seventh Carbon Budget Balanced Pathway
+
+Purpose
+This note records whether the DESNZ Energy and Emissions Projections (EEP) TES sectors can be compared with the CCC Seventh Carbon Budget Balanced Pathway sectors. It is a methodological bridge for P5, not a full sector-by-sector attribution of the 2050 gap.
+
+Main conclusion
+The economy-wide P5 comparison is robust, but sector-level alignment is only partly one-to-one. DESNZ TES sectors are suitable as the primary structure for identifying residual emissions in the DESNZ baseline. CCC sector data should be used as a benchmark/context layer, with direct sector comparisons limited to broad matches.
+
+Direct or broadly usable matches
+Agriculture, electricity supply, fuel supply, industry, and waste can be compared at a broad sector level. These comparisons should still carry a short caveat because the underlying source-category boundaries may not be identical.
+
+Partial or cautious matches
+Buildings and product uses, domestic transport, IAS, and LULUCF are not exact one-to-one matches. CCC separates residential buildings, non-residential buildings, F-gases, surface transport, aviation, shipping, land use, and engineered removals in ways that do not map cleanly onto every DESNZ TES category.
+
+Critical caveat
+CCC has a separate Engineered removals sector in 2050 (-35.8 MtCO2e). DESNZ TES has no direct equivalent. Therefore engineered removals should be reported separately in P5/P6 and should not be folded into DESNZ LULUCF or any other DESNZ sector unless a separate accounting bridge is explicitly built.
+
+Recommended dissertation use
+Use the P5 table to state that CCC is appropriate as an economy-wide benchmark and as a broad sectoral comparator, but not as a strict sector-by-sector decomposition framework. For the next analysis step, use DESNZ TES residual emissions as the main sectoral driver evidence, and use CCC sector values selectively to show where target-consistent residual emissions are much lower.
+
+Suggested wording
+"Sector-level comparisons between the DESNZ EEP baseline and the CCC Seventh Carbon Budget Balanced Pathway are used cautiously because the two datasets do not share a fully identical sector classification. Direct broad comparisons are possible for agriculture, electricity supply, fuel supply, industry and waste. Other categories require aggregation or qualification, particularly buildings/product use, transport, IAS and land use. The CCC's engineered removals category is reported separately because it has no direct equivalent in the DESNZ TES sector baseline."

@@ -1,0 +1,6 @@
+﻿check,status,details
+CCC7 economy-wide Balanced Pathway has complete 2025-2050 coverage,PASS,missing=[]; extra=[]
+CCC7 economy-wide Balanced Pathway has no duplicate years,PASS,duplicates=0
+CCC7 sector-level Balanced Pathway has 13 sectors in every year,PASS,min_sectors=13; max_sectors=13
+CCC7 sector sums match economy-wide totals,PASS,max_abs_difference_MtCO2e=0.000000000000
+CCC6 sensitivity series covers 2025-2050,PASS,missing=[]

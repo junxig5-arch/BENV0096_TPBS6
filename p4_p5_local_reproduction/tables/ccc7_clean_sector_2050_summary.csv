@@ -1,0 +1,14 @@
+﻿scenario,country,sector,variable,variable_unit,year,emissions_MtCO2e
+Balanced Pathway,United Kingdom,Agriculture,Emissions: direct emissions total,MtCO2e,2050,26.38987159012214
+Balanced Pathway,United Kingdom,Aviation,Emissions: direct emissions total,MtCO2e,2050,22.66831879088747
+Balanced Pathway,United Kingdom,Waste,Emissions: direct emissions total,MtCO2e,2050,5.111528051034504
+Balanced Pathway,United Kingdom,Industry,Emissions: direct emissions total,MtCO2e,2050,3.565474949937183
+Balanced Pathway,United Kingdom,F-gases,Emissions: direct emissions total,MtCO2e,2050,1.602843390548949
+Balanced Pathway,United Kingdom,Fuel supply,Emissions: direct emissions total,MtCO2e,2050,1.572498303812182
+Balanced Pathway,United Kingdom,Surface transport,Emissions: direct emissions total,MtCO2e,2050,1.07020023620143
+Balanced Pathway,United Kingdom,Electricity supply,Emissions: direct emissions total,MtCO2e,2050,1.002012705927584
+Balanced Pathway,United Kingdom,Non-residential buildings,Emissions: direct emissions total,MtCO2e,2050,0.7004053523506215
+Balanced Pathway,United Kingdom,Shipping,Emissions: direct emissions total,MtCO2e,2050,0.5074981326718486
+Balanced Pathway,United Kingdom,Residential buildings,Emissions: direct emissions total,MtCO2e,2050,0.4111569279923231
+Balanced Pathway,United Kingdom,Land use,Emissions: direct emissions total,MtCO2e,2050,-29.89214684268623
+Balanced Pathway,United Kingdom,Engineered removals,Emissions: direct emissions total,MtCO2e,2050,-35.81675171465405

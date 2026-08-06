@@ -1,0 +1,53 @@
+﻿scenario,country,variable,variable_unit,year,sector_sum_MtCO2e,economy_wide_MtCO2e,sector_minus_economy_MtCO2e
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2025,413.919333154645,413.919333154645,0.0
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2026,395.9959561225685,395.9959561225685,0.0
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2027,376.8885176622839,376.8885176622839,0.0
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2028,355.0120163752691,355.0120163752691,0.0
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2029,326.85967453210475,326.8596745321047,5.684341886080802e-14
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2030,295.75707125109517,295.7570712510952,-5.684341886080802e-14
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2031,271.0543329351467,271.0543329351466,1.1368683772161603e-13
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2032,249.0409661378411,249.0409661378411,0.0
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2033,228.397777787064,228.397777787064,0.0
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2034,208.15297922474517,208.1529792247452,-2.842170943040401e-14
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2035,186.99630450537856,186.9963045053786,-2.842170943040401e-14
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2036,169.33787954191544,169.3378795419154,2.842170943040401e-14
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2037,151.33795364110205,151.337953641102,5.684341886080802e-14
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2038,135.1187452743434,135.1187452743434,0.0
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2039,121.77405537604845,121.7740553760484,5.684341886080802e-14
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2040,107.70301474475839,107.7030147447584,-1.4210854715202004e-14
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2041,91.28688604258056,91.28688604258056,0.0
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2042,77.28337835573727,77.28337835573727,0.0
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2043,65.28708323750712,65.28708323750712,0.0
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2044,54.071077847599156,54.07107784759916,-7.105427357601002e-15
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2045,42.467539135542346,42.46753913554234,7.105427357601002e-15
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2046,33.33026586671969,33.33026586671969,0.0
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2047,24.576369491958754,24.57636949195876,-7.105427357601002e-15
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2048,16.087587318061942,16.08758731806194,3.552713678800501e-15
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2049,7.895034105719944,7.895034105719957,-1.3322676295501878e-14
+Balanced Pathway,United Kingdom,Emissions: direct emissions total,MtCO2e,2050,-1.107090125854051,-1.107090125854042,-9.103828801926284e-15
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2025,434.1772575258038,434.1772575258037,5.684341886080802e-14
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2026,437.1576474159863,437.1576474159863,0.0
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2027,439.81476052416804,439.814760524168,5.684341886080802e-14
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2028,442.7670300836916,442.7670300836916,0.0
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2029,442.6652349239393,442.6652349239393,0.0
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2030,442.7830597615153,442.7830597615153,0.0
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2031,442.1291203143801,442.1291203143801,0.0
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2032,442.88060518394866,442.8806051839486,5.684341886080802e-14
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2033,446.3488302931661,446.3488302931661,0.0
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2034,450.4210754299623,450.4210754299622,1.1368683772161603e-13
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2035,454.2055699188249,454.2055699188249,0.0
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2036,457.0968233154561,457.0968233154561,0.0
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2037,460.7774668183338,460.7774668183338,0.0
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2038,464.45330116624655,464.4533011662465,5.684341886080802e-14
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2039,467.56116024724906,467.5611602472491,-5.684341886080802e-14
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2040,470.9755346594429,470.9755346594429,0.0
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2041,472.5226102314673,472.5226102314674,-1.1368683772161603e-13
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2042,474.3371882649231,474.3371882649231,0.0
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2043,476.9037067640709,476.9037067640708,5.684341886080802e-14
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2044,480.040739877611,480.040739877611,0.0
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2045,483.22287453414555,483.2228745341455,5.684341886080802e-14
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2046,485.10506911148025,485.1050691114802,5.684341886080802e-14
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2047,486.8665449349979,486.8665449349978,5.684341886080802e-14
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2048,487.52647990963857,487.5264799096386,-5.684341886080802e-14
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2049,489.0344977041697,489.0344977041697,0.0
+Baseline,United Kingdom,Emissions: direct emissions total,MtCO2e,2050,489.81200847055686,489.8120084705569,-5.684341886080802e-14

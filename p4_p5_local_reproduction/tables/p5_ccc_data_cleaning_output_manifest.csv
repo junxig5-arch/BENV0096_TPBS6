@@ -1,0 +1,13 @@
+﻿output,role
+E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\ccc7_clean_economy_wide_direct_emissions_all_scenarios.csv,"Clean CCC7 economy-wide direct emissions, all scenarios"
+E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\ccc7_clean_economy_wide_balanced_pathway.csv,Clean CCC7 Balanced Pathway economy-wide direct emissions
+E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\ccc7_clean_sector_direct_emissions_all_scenarios.csv,"Clean CCC7 sector-level direct emissions, all scenarios"
+E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\ccc7_clean_sector_direct_emissions_balanced_pathway.csv,Clean CCC7 Balanced Pathway sector-level direct emissions
+E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\ccc7_clean_sector_classification.csv,Clean CCC7 sector classification metadata
+E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\ccc7_clean_emissions_variable_definitions.csv,Clean CCC7 emissions variable definitions
+E:\UCL Final Essay\p4_p5_local_reproduction\tables\ccc7_sector_sum_validation.csv,Validation of CCC7 sector sums against economy-wide totals
+E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\ccc6_clean_balanced_net_zero_pathway.csv,Clean CCC6 Balanced Net Zero sensitivity pathway
+E:\UCL Final Essay\p4_p5_local_reproduction\tables\ccc7_clean_benchmark_years.csv,CCC7 benchmark-year values for P5
+E:\UCL Final Essay\p4_p5_local_reproduction\tables\ccc7_clean_sector_2050_summary.csv,CCC7 2050 sector summary for P5
+E:\UCL Final Essay\p4_p5_local_reproduction\tables\p5_ccc_data_cleaning_quality_checks.csv,P5 CCC data cleaning quality checks
+E:\UCL Final Essay\p4_p5_local_reproduction\tables\p5_ccc_data_cleaning_note.txt,P5 CCC data cleaning note

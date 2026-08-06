@@ -1,0 +1,8 @@
+﻿check,status,details
+Annual comparison covers 2025-2050,PASS,min_year=2025; max_year=2050; rows=26
+No missing values in main annual comparison columns,PASS,"checked DESNZ inc IAS, CCC7, and main CCC7 gap columns"
+2050 CCC7 gap matches expected value approximately,PASS,actual=325.398436382106
+2030 CCC7 gap matches expected value approximately,PASS,actual=72.211961855222
+2035 CCC7 gap matches expected value approximately,PASS,actual=154.795312497090
+CB6 CCC7 sum is available from cleaned CCC7 data,PASS,CB6_CCC7_sum=944.2228947002052
+Figures were saved,PASS,pathway_png=True; gap_png=True

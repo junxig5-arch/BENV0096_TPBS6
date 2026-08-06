@@ -1,0 +1,213 @@
+﻿Dissertation Timeline: 6 June – 1 September 2026  
+Overview of Main Phases 
+Phase Dates Main focus 
+Phase 1 6–23 June Scope confirmation, research questions, 
+accounting basis, dataset organisation and 
+literature foundation 
+Phase 2 24 June–14 July Core quantitative analysis: DESNZ baseline, 
+CCC benchmark and sectoral drivers 
+Phase 3 15–28 July Supporting comparison, 
+uncertainty/sensitivity design and drafting of 
+methods/results/literature 
+Phase 4 29 July–5 August Complete full first draft including results and 
+prepare for supervisor discussion 
+Phase 5 6–19 August Incorporate feedback, strengthen 
+discussion/conclusion and produce near-final 
+draft 
+Phase 6 20 August–1 September Final revision, formatting, reference checks, 
+proof-reading and submission buffer 
+P1. 6–9 June: Finalising research questions and workplan 
+Main tasks 
+• Consolidate Neil’s feedback from the previous meeting and follow-up email. 
+• Rewrite the research questions to make them more focused and answerable. 
+• Finalise the timeline from 6 June to 1 September, including the 5 August first-draft milestone. 
+• Prepare key questions for the next supervision meeting. 
+Expected outputs 
+• Revised research questions. 
+• Updated dissertation timeline. 
+• Clear list of questions for the next supervision meeting. 
+P2. 10–16 June: Confirming scope and organising the analytical framework 
+Main tasks 
+• Finalise the dissertation scope based on feedback. 
+• Confirm the final role of each dataset: UK final GHG emissions, DESNZ EEP, DESNZ sectoral annex, CCC pathways, NESO 
+FES and consumption-based emissions/international factors. 
+• Clean and organise existing notebooks and datasets. 
+• Resolve accounting basis issues, especially IAS inclusion/exclusion and NCA basis. 
+• Create a dataset inventory table. 
+• Define preliminary uncertainty categories: UK policy delivery, international climate action, fuel/technology costs, demand 
+reduction and electrification pace. 
+Expected outputs 
+• Final dataset inventory. 
+• Cleaned notebook structure. 
+• Accounting methodology note. 
+• Confirmed dissertation scope. 
+• Initial uncertainty category list. 
+P3. 17–23 June: Building the literature review foundation 
+Main tasks 
+• Start focused literature review on UK emissions pathway feasibility, UK net zero/emissions gap, pathway quantification, 
+uncertainty/scenario analysis and sectoral drivers. 
+• Read and summarise Neil’s recommended papers: Barrett et al. (2022), Pye et al. (2017), Rogelj et al. (2023), and Waisman 
+et al. (2019).
+
+• Identify around 15–20 highly relevant papers and reports, with 8–10 core sources prioritised for detailed reading. 
+• Begin writing short literature review notes alongside reading. 
+• Start preparing a literature review matrix. 
+Expected outputs 
+• Annotated reading list. 
+• Literature review matrix. 
+• Draft literature review structure. 
+• Short notes on key papers and relevance. 
+P4. 24–30 June: Defining the DESNZ baseline and emissions gap 
+Main tasks 
+• Finalise historical UK GHG emissions figures only where needed. 
+• Prioritise DESNZ EEP baseline analysis to 2050. 
+• Quantify projected emissions gap under the DESNZ current-policy baseline. 
+• Clarify CB6 and 2050 gap interpretation, including official NCA basis and excluding-IAS comparison. 
+• Define main emissions gap metrics: CB6 carbon-budget-period gap, 2050 annual emissions gap and cumulative gap if 
+feasible. 
+• Begin cleaning EEP sectoral projection data. 
+• Start drafting Data and Methods in parallel with analysis. 
+Expected outputs 
+• Final historical emissions figures. 
+• Final DESNZ baseline figures. 
+• Table summarising key emissions gap values. 
+• Draft Results subsection on historical trend and DESNZ baseline. 
+• Draft Data and Methods notes. 
+P5. 1–7 July: Developing the CCC benchmark comparison 
+Main tasks 
+• Extract and clean CCC pathway data. 
+• Identify the most appropriate CCC pathway for comparison. 
+• Compare DESNZ EEP baseline with CCC target-consistent pathways. 
+• Use CCC pathways as interim benchmarks, not only as a final 2050 comparison. 
+• Produce DESNZ vs CCC benchmark figures and gap estimates by year, benchmark year or carbon-budget period. 
+• Check whether CCC sector categories can be aligned with DESNZ sectors. 
+• Continue drafting the Results section as figures are produced. 
+Expected outputs 
+• DESNZ vs CCC comparison figure. 
+• CCC benchmark explanation. 
+• Table of benchmark years and emissions gaps. 
+• Draft Results subsection on baseline vs target-consistent benchmark. 
+P6. 8–14 July: Analysing sectoral drivers of the emissions gap 
+Main tasks 
+• Cover all major sectors: transport, buildings, electricity, industry, agriculture, fuel supply, waste, LULUCF and IAS where 
+relevant. 
+• Spend more analytical effort on the largest sectors: transport, buildings and electricity. 
+• Produce sectoral projections to 2050. 
+• Identify which sectors contribute most to residual emissions and the projected gap. 
+• Compare sectoral historical trends with projected sectoral trends where feasible. 
+• Continue drafting Results subsections and figure captions as figures are finalised. 
+Expected outputs 
+• Sectoral projection figures.
+
+• 2050 residual emissions ranking. 
+• Sectoral contribution table. 
+• Draft Results subsection on sectoral drivers. 
+• Updated figure captions and interpretation notes. 
+P7. 15–21 July: NESO FES, focused literature draft and uncertainty setup 
+Main tasks 
+• Review NESO Future Energy Scenarios as a supporting external modelling comparison. 
+• Identify a small number of relevant indicators for comparison with DESNZ and CCC, especially electricity demand, power-
+sector decarbonisation, electrification and hydrogen/flexibility assumptions if relevant. 
+• Decide whether NESO will be used as one simple supporting comparison figure, a short comparison table, or contextual 
+reference only. 
+• Draft 1,500–2,000 words of the Literature Review, focusing on pathway feasibility, gap quantification and uncertainty. 
+• Start formalising uncertainty/sensitivity assumptions for the 2050 emissions gap. 
+Expected outputs 
+• Short NESO comparison note. 
+• One simple DESNZ/CCC/NESO table or figure if feasible. 
+• Decision on the role of NESO. 
+• Partial Literature Review draft. 
+• Initial uncertainty/sensitivity assumptions. 
+P8. 22–28 July: Uncertainty framework, scenario design and synthesis 
+Main tasks 
+• Develop the uncertainty framework based on the “trumpet/cone” of uncertainty over time. 
+• Define key uncertainty drivers: UK policy delivery, international climate action, fuel prices, technology costs, demand 
+reduction and electrification pace. 
+• Build the 2× 2 scenario matrix: high/low UK policy delivery and high/low international climate action / technology-cost 
+environment. 
+• Decide how much can be quantified and how much should remain qualitative. 
+• If feasible, develop simple sensitivity estimates around the 2050 emissions gap. 
+• Draft Method subsection on uncertainty and scenarios. 
+• Prepare Discussion outline, including near-miss outcomes, negative emissions/credits and policy delivery uncertainty. 
+Expected outputs 
+• Uncertainty framework diagram. 
+• 2× 2 scenario matrix. 
+• Initial scenario assumptions table. 
+• Draft Method subsection on uncertainty and scenarios. 
+• Discussion outline. 
+P9. 29 July–4 August: Completing the full first draft, including results 
+Main tasks 
+• Combine historical trend, DESNZ baseline, CCC benchmark, sectoral analysis and uncertainty framework. 
+• Identify the central findings: size of the 2050 gap, sectors driving the gap, uncertainty range/scenario-dependent variation and 
+implications of delayed policy delivery. 
+• Ensure each research question has a clear answer. 
+• Complete draft Introduction, Literature Review, Data and Methods, Results, Discussion and Conclusion. 
+• Prepare all core figures, tables and captions needed for first-draft discussion. 
+• Complete an internal read-through before sending to Neil. 
+Expected outputs 
+• Complete first full draft including results by 4 August. 
+• Main findings table. 
+• Core figures and tables. 
+• Clear answer to each research question.
+
+• Draft synthesis linking results to literature. 
+P10. 5 August: First-draft discussion milestone 
+Main tasks 
+• Share the complete first draft with Neil, or bring it to the supervisor discussion, in line with programme guidance. 
+• Highlight sections where feedback is most needed: scope, results interpretation, uncertainty treatment, accounting basis and 
+discussion structure. 
+• Prepare a short list of unresolved issues for supervisor feedback. 
+Expected outputs 
+• Complete first draft sent/discussed with Neil. 
+• Feedback priorities list. 
+• Agreed revision priorities after supervisor discussion. 
+P11. 6–12 August: Incorporating feedback and strengthening weak sections 
+Main tasks 
+• Incorporate feedback from Neil where available. 
+• Strengthen Results interpretation and Discussion. 
+• Fill gaps in literature review and methods explanation. 
+• Check whether any small additional analysis is still needed. 
+• Improve consistency between RQs, methods, figures and findings. 
+Expected outputs 
+• Revised full draft. 
+• Strengthened Results and Discussion. 
+• Updated literature review and methods. 
+• List of any remaining small fixes. 
+P12. 13–19 August: Near-final draft and consistency checks 
+Main tasks 
+• Produce a near-final draft. 
+• Check research questions, methods, accounting basis, figures, tables, captions, citations, appendix materials and limitations. 
+• Finalise sectoral and uncertainty interpretation. 
+• Integrate any remaining supervisor feedback if available. 
+• Prepare final reference list structure. 
+Expected outputs 
+• Near-final draft. 
+• Finalised figures and tables. 
+• Clean reference list. 
+• Appendix structure. 
+• Final list of outstanding edits. 
+P13. 20–26 August: Final revision and formatting 
+Main tasks 
+• Revise for coherence, clarity and academic style. 
+• Complete Harvard referencing check. 
+• Check figure numbering, captions, tables, appendices and word count. 
+• Check originality, clarity and consistency of writing. 
+• Prepare final submission-format document. 
+Expected outputs 
+• Final revised dissertation draft. 
+• Formatted Word/PDF files. 
+• Final reference list.
+
+• Submission checklist draft. 
+P14. 27 August–1 September: Final checks and submission buffer 
+Main tasks 
+• Final proofreading. 
+• Final formatting and PDF export. 
+• Check submission portal requirements. 
+• Prepare backup copies. 
+• Submit dissertation by 1 September 2026, 11:00 am. 
+Expected outputs 
+• Final dissertation. 
+• Final PDF/Word submission file. 
+• Backup copy. 
+• Final checklist completed.

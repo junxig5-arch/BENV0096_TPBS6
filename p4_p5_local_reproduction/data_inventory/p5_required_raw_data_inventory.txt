@@ -1,0 +1,57 @@
+P5 raw data inventory and application note
+
+Conclusion
+The P5 analysis data are already present in Data_raw. No internet search is required for the numerical datasets at this stage.
+
+Core datasets
+
+1. CCC7 main benchmark
+File: Data_raw/CCC Seventh Carbon Budget  Balanced Pathway data/The-Seventh-Carbon-Budget-full-dataset.xlsx
+Sheet: Economy-wide data
+Confirmed contents: scenario, country, variable, variable_unit, year, value. The key extraction is scenario = Balanced Pathway, country = United Kingdom, variable = Emissions: direct emissions total, years 2025-2050, unit MtCO2e.
+P5 use: main target-consistent benchmark for the annual DESNZ vs CCC comparison, benchmark-year gaps, 2050 headline gap, and CB5-CB6 period sums.
+
+2. CCC7 sector benchmark and classification
+File: Data_raw/CCC Seventh Carbon Budget  Balanced Pathway data/The-Seventh-Carbon-Budget-full-dataset.xlsx
+Sheets: Sector-level data; Sector classification; Variable definitions
+Confirmed contents: CCC sector emissions and sector mapping. CCC sectors include Agriculture, Aviation, Electricity supply, Engineered removals, F-gases, Fuel supply, Industry, Land use, Non-residential buildings, Residential buildings, Shipping, Surface transport, and Waste.
+P5 use: check whether CCC sector categories can align with DESNZ TES sectors. Use for broad sector-level comparison only, because engineered removals and several transport/building categories do not map one-to-one to DESNZ TES sectors.
+
+3. DESNZ EEP baseline by TES sector
+File: Data_raw/Annex_A_GHG_by_TES_sector.ods
+Sheet: Reference
+Confirmed contents: GHG (All) rows for Total emissions excluding IAS, Total emissions including IAS, Net Carbon Account rows, and TES sector rows. The workbook covers 1990-2050 in MtCO2e.
+P5 use: DESNZ current-policy baseline. The including-IAS series is the main comparator against CCC economy-wide emissions; TES sector rows support residual-sector discussion and sector-alignment checks.
+
+4. DESNZ carbon-budget-period table
+File: Data_raw/A_CB6/Web_tables_EEP_2024_2050.ods
+Sheet: Table_2_1
+Confirmed contents: CB4, CB5, and CB6 carbon budget targets; projected territorial emissions excluding and including IAS; projected performance versus target. Published February 2026.
+P5 use: connect annual CCC benchmark comparison to official carbon-budget-period gap metrics, especially the CB6 gap.
+
+Supporting datasets
+
+5. CCC6 sensitivity benchmark
+File: Data_raw/CCC Sixth Carbon Budget chartsdata and scenario dataset/The-Sixth-Carbon-Budget-Dataset_v2.xlsx
+Sheet: Scenario key metrics
+Confirmed contents: Balanced Net Zero Pathway total UK scenario emissions to 2050.
+P5 use: sensitivity check only. It should not replace CCC7 as the main benchmark, because CCC7 is newer and has a cleaner economy-wide/sector-level structure.
+
+6. Official historical GHG check
+File: Data_raw/A_CB6/final-greenhouse-gas-emissions-tables-2023.xlsx
+Sheet: 1.1
+Confirmed contents: UK territorial greenhouse gas emissions by gas, 1990-2023.
+P5 use: background/accounting validation only. It supports the DESNZ historical segment and Methods wording, but it is not the CCC benchmark.
+
+Optional
+
+7. DESNZ EEP report narrative
+File: Data_raw/DESNZ Energy and Emissions Projections 2024-2050 annexes/energy-emissions-projections-report-2024-2050.pdf
+P5 use: cite or paraphrase only if Methods needs a short explanation of DESNZ projection assumptions. It is not needed for numerical CCC cleaning.
+
+Recommended next action
+The next P5 task should be to create a cleaned CCC dataset from the CCC7 workbook:
+- cleaned economy-wide CCC7 Balanced Pathway annual series;
+- cleaned CCC7 sector-level direct-emissions series;
+- optional CCC6 Balanced Net Zero annual sensitivity series;
+- a cleaning note documenting exact file, sheet, scenario, variable, years, and units.

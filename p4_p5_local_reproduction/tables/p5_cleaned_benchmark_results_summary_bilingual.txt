@@ -1,0 +1,89 @@
+﻿P5 Cleaned Benchmark Comparison - Bilingual Results Summary
+
+中文总结
+
+1. 检查结论
+本次 P5 benchmark comparison 的结果是正常的。质量检查文件显示全部检查均为 PASS，包括年度序列覆盖 2025-2050、主比较列没有缺失值、2030/2035/2050 关键 gap 与预期值一致、CB6 期间的 CCC7 汇总值可用、两张图均成功保存。
+
+需要注意的是，用户本地保存的 Complete.ipynb 文件本身没有保存 cell outputs 或 execution counts，因此不能单独依靠该 notebook 文件判断运行痕迹。但项目输出文件已经生成并通过质量检查，因此可以认为本地复现结果有效。
+
+2. 数据链条
+本步骤使用的是已经清洗后的 CCC 数据，而不是直接从 CCC 原始 workbook 临时抽取数据。主要输入包括：
+- DESNZ EEP 2024 annual baseline: desnz_annual_territorial_pathway.csv
+- CCC7 cleaned Balanced Pathway: ccc7_clean_economy_wide_balanced_pathway.csv
+- CCC6 cleaned Balanced Net Zero Pathway: ccc6_clean_balanced_net_zero_pathway.csv
+- Carbon-budget-period base metrics: carbon_budget_gap_metrics.csv
+
+这意味着 P5 的数据流程已经形成了清楚链条：CCC raw workbook -> cleaned CCC dataset -> DESNZ vs CCC benchmark comparison。
+
+3. 主要结果
+P5 主 benchmark 使用 CCC Seventh Carbon Budget Balanced Pathway。DESNZ 主比较口径使用 including-IAS emissions，因为它更接近 CCC economy-wide total pathway 的比较口径。CCC6 Balanced Net Zero Pathway 仅作为 sensitivity check。
+
+关键结果如下：
+- 2030 年，DESNZ including-IAS baseline 比 CCC7 Balanced Pathway 高 72.2 MtCO2e。
+- 2035 年，gap 扩大到 154.8 MtCO2e。
+- 2050 年，gap 达到 325.4 MtCO2e。
+- 使用 CCC6 Balanced Net Zero Pathway 作为 sensitivity check 时，2050 gap 为 325.3 MtCO2e，与 CCC7 结果几乎相同。
+- 若使用 DESNZ excluding-IAS baseline 与 CCC7 比较，2050 gap 为 291.4 MtCO2e，说明即使采用较窄 accounting scope，2050 residual gap 仍然很大。
+- 2025-2050 年 DESNZ including-IAS baseline 相对 CCC7 的累计 gap 为 4550.7 MtCO2e。该指标有解释价值，但建议作为 supplementary result，不作为主 headline。
+
+4. CB6 连接
+CCC7 Balanced Pathway 在 CB6 期间（2033-2037）的累计排放为 944.2 MtCO2e，比 CB6 statutory target 965.0 MtCO2e 低 20.8 MtCO2e。这说明 CCC7 pathway 与 CB6 水平大体一致。
+
+相比之下，DESNZ official comparison emissions 在 CB6 期间为 1702.5 MtCO2e，对应官方 CB6 gap 为 737.5 MtCO2e。因此，P5 的年度 benchmark gap 与 P4 的 CB6 official delivery gap 是同一政策差距问题的两个视角：一个从年度 target-consistent pathway 看，另一个从 statutory carbon-budget period 看。
+
+5. 图表解释
+路径对比图显示，DESNZ EEP 2024 baseline 在 2030 年后趋于平台化，到 2050 年仍保留约 324.3 MtCO2e 的 including-IAS annual emissions。相反，CCC7 Balanced Pathway 持续下降，到 2050 年接近净零（-1.1 MtCO2e）。这导致两条路径在 2030 年后持续分化。
+
+gap 图进一步说明，DESNZ including-IAS minus CCC7 的 annual gap 从 2030 年开始快速扩大，并在 2050 年达到 325.4 MtCO2e。该趋势支持论文中关于 current-policy baseline 与 target-consistent benchmark 明显偏离的核心论点。
+
+6. 建议写入论文的表达
+建议在 Results 中将 P5 结果表述为：
+"Using the cleaned CCC Seventh Carbon Budget Balanced Pathway as the target-consistent benchmark, the DESNZ EEP 2024 including-IAS baseline begins to diverge materially during the 2030s. The annual gap is 72.2 MtCO2e in 2030, widens to 154.8 MtCO2e by 2035, and reaches 325.4 MtCO2e in 2050. The CCC6 Balanced Net Zero Pathway gives a near-identical 2050 sensitivity result of 325.3 MtCO2e, indicating that the headline gap is robust to the choice of CCC benchmark."
+
+7. 限制和 caveat
+P5 的主比较应保持在 economy-wide annual emissions 层面。部门层面可以作为 broad context，但不应做严格一对一 sector attribution，因为 CCC sector categories 与 DESNZ TES sectors 并不完全一致，尤其是 engineered removals、land use、transport 和 buildings/product-use categories。
+
+
+English Summary
+
+1. Validation conclusion
+The P5 benchmark comparison results look correct. The quality-check file reports PASS for all checks: annual coverage from 2025 to 2050, no missing values in the main comparison columns, expected 2030/2035/2050 gap values, available CB6 CCC7 period sum, and successfully saved figures.
+
+One caveat is that the user-saved Complete.ipynb file does not contain saved cell outputs or execution counts, so the notebook file alone cannot prove the run history. However, the generated project outputs exist and pass all quality checks, so the local reproduction result is valid.
+
+2. Data pipeline
+This step uses the cleaned CCC datasets rather than extracting values directly from the raw CCC workbook. The main inputs are:
+- DESNZ EEP 2024 annual baseline: desnz_annual_territorial_pathway.csv
+- CCC7 cleaned Balanced Pathway: ccc7_clean_economy_wide_balanced_pathway.csv
+- CCC6 cleaned Balanced Net Zero Pathway: ccc6_clean_balanced_net_zero_pathway.csv
+- Carbon-budget-period base metrics: carbon_budget_gap_metrics.csv
+
+This establishes a clear P5 data chain: CCC raw workbook -> cleaned CCC dataset -> DESNZ vs CCC benchmark comparison.
+
+3. Main findings
+The main P5 benchmark is the CCC Seventh Carbon Budget Balanced Pathway. The primary DESNZ comparison basis is the including-IAS emissions series, because it is closer to the CCC economy-wide total pathway. The CCC Sixth Carbon Budget Balanced Net Zero Pathway is retained only as a sensitivity check.
+
+Key results:
+- In 2030, the DESNZ including-IAS baseline is 72.2 MtCO2e above the CCC7 Balanced Pathway.
+- By 2035, the gap widens to 154.8 MtCO2e.
+- By 2050, the gap reaches 325.4 MtCO2e.
+- Against the CCC6 Balanced Net Zero Pathway, the 2050 sensitivity gap is 325.3 MtCO2e, almost identical to the CCC7 result.
+- Using the narrower DESNZ excluding-IAS baseline, the 2050 gap against CCC7 is still 291.4 MtCO2e, showing that a large residual gap remains even under a narrower accounting scope.
+- The cumulative 2025-2050 DESNZ including-IAS gap against CCC7 is 4550.7 MtCO2e. This is useful as a supplementary result, but should not replace the main annual headline metrics.
+
+4. Link to CB6
+Over the CB6 period (2033-2037), the CCC7 Balanced Pathway sums to 944.2 MtCO2e, which is 20.8 MtCO2e below the statutory CB6 target of 965.0 MtCO2e. This indicates that the CCC7 pathway is broadly consistent with the CB6 level.
+
+By contrast, DESNZ official comparison emissions over CB6 are 1702.5 MtCO2e, producing an official CB6 gap of 737.5 MtCO2e. Therefore, the P5 annual benchmark gap and the P4 official CB6 delivery gap are two views of the same policy-delivery problem: one measured against a target-consistent annual pathway, and the other measured over a statutory carbon-budget period.
+
+5. Figure interpretation
+The pathway figure shows that the DESNZ EEP 2024 baseline flattens after 2030 and remains at around 324.3 MtCO2e including IAS in 2050. In contrast, the CCC7 Balanced Pathway continues to fall towards net zero, reaching -1.1 MtCO2e in 2050. This creates a widening divergence after 2030.
+
+The annual gap figure confirms that the DESNZ including-IAS minus CCC7 gap grows quickly from 2030 onward and reaches 325.4 MtCO2e in 2050. This supports the dissertation's core claim that the current-policy baseline is substantially misaligned with a target-consistent benchmark.
+
+6. Suggested Results wording
+"Using the cleaned CCC Seventh Carbon Budget Balanced Pathway as the target-consistent benchmark, the DESNZ EEP 2024 including-IAS baseline begins to diverge materially during the 2030s. The annual gap is 72.2 MtCO2e in 2030, widens to 154.8 MtCO2e by 2035, and reaches 325.4 MtCO2e in 2050. The CCC6 Balanced Net Zero Pathway gives a near-identical 2050 sensitivity result of 325.3 MtCO2e, indicating that the headline gap is robust to the choice of CCC benchmark."
+
+7. Limitations and caveats
+The main P5 comparison should remain at the economy-wide annual-emissions level. Sector-level CCC data can be used as broad context, but should not be used for strict one-to-one sector attribution, because CCC sector categories and DESNZ TES sectors do not align perfectly. The main caveats concern engineered removals, land use, transport, and buildings/product-use categories.

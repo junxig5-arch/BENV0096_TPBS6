@@ -1,0 +1,36 @@
+P5 cleaned benchmark comparison note
+
+Purpose
+This note records the P5 DESNZ-versus-CCC benchmark comparison rebuilt from cleaned CCC data.
+
+Inputs
+- DESNZ baseline: E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\desnz_annual_territorial_pathway.csv
+- CCC7 cleaned main benchmark: E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\ccc7_clean_economy_wide_balanced_pathway.csv
+- CCC6 cleaned sensitivity benchmark: E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\ccc6_clean_balanced_net_zero_pathway.csv
+- Carbon budget period base table: E:\UCL Final Essay\p4_p5_local_reproduction\tables\carbon_budget_gap_metrics.csv
+
+Main benchmark choice
+The main benchmark is the CCC Seventh Carbon Budget Balanced Pathway, using cleaned economy-wide direct emissions for the United Kingdom. CCC7 is preferred because it is the most recent target-consistent CCC pathway in the local dataset and is structured cleanly by economy-wide, sector-level, and metadata sheets.
+
+Comparison basis
+The main annual comparison uses DESNZ EEP 2024 including-IAS emissions against CCC7 economy-wide direct emissions. DESNZ excluding-IAS is retained only as an accounting sensitivity. CCC6 Balanced Net Zero Pathway is retained only as a sensitivity check.
+
+Key results
+- 2030 gap, DESNZ including IAS minus CCC7: 72.2 MtCO2e.
+- 2035 gap, DESNZ including IAS minus CCC7: 154.8 MtCO2e.
+- 2050 gap, DESNZ including IAS minus CCC7: 325.4 MtCO2e.
+- 2050 sensitivity gap against CCC6: 325.3 MtCO2e.
+- CCC7 CB6-period sum: 944.2 MtCO2e.
+- CCC7 CB6-period position relative to CB6 target: -20.8 MtCO2e.
+
+Outputs
+- Annual comparison table: E:\UCL Final Essay\p4_p5_local_reproduction\data_processed\p5_cleaned_desnz_ccc_annual_comparison.csv
+- Benchmark-year gap table: E:\UCL Final Essay\p4_p5_local_reproduction\tables\p5_cleaned_benchmark_year_gap_metrics.csv
+- Carbon-budget-period table: E:\UCL Final Essay\p4_p5_local_reproduction\tables\p5_cleaned_carbon_budget_period_metrics.csv
+- Final benchmark metrics table: E:\UCL Final Essay\p4_p5_local_reproduction\tables\p5_cleaned_final_benchmark_metrics_table.csv
+- Pathway figure: E:\UCL Final Essay\p4_p5_local_reproduction\figures\p5_cleaned_desnz_vs_ccc_annual_pathways.png
+- Gap figure: E:\UCL Final Essay\p4_p5_local_reproduction\figures\p5_cleaned_annual_gap_vs_ccc7.png
+- Quality checks: E:\UCL Final Essay\p4_p5_local_reproduction\tables\p5_cleaned_benchmark_comparison_quality_checks.csv
+
+Recommended dissertation use
+Use the CCC7 comparison as the main P5 result. Use CCC6 and excluding-IAS comparisons only as supporting robustness/accounting checks. The main text should emphasize that the DESNZ baseline diverges from the CCC target-consistent pathway from 2030 onward, with a substantially wider gap by 2035 and a large residual gap by 2050.

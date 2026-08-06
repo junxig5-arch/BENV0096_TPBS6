@@ -1,0 +1,19 @@
+﻿P5 Benchmark Metrics Note
+
+Purpose
+This note defines the main benchmark metrics for the P5 DESNZ-versus-CCC comparison. The aim is to keep the comparison focused on the research question: how far the DESNZ current-policy pathway is from target-consistent benchmarks, and when the gap begins to widen.
+
+Main benchmark choice
+The main benchmark is the CCC Seventh Carbon Budget Balanced Pathway, using the Economy-wide data sheet for the United Kingdom and the variable "Emissions: direct emissions total". This is used because it is the most recent CCC target-consistent pathway available in the local dataset and provides annual values to 2050.
+
+Main P5 metrics
+The primary P5 headline metric is the 2050 annual gap between DESNZ EEP 2024 including-IAS emissions and the CCC7 Balanced Pathway. This gap is 325.4 MtCO2e in 2050. To show that the gap is not only a distant endpoint problem, the table also includes benchmark-year gaps in 2030 and 2035. These are 72.2 MtCO2e and 154.8 MtCO2e respectively, showing that the DESNZ and CCC pathways diverge during the 2030s.
+
+Carbon-budget-period connection
+The CB6-period benchmark is included to connect P5 to the P4 carbon-budget result. CCC7 sums to 944.2 MtCO2e over 2033-2037, which is slightly below the statutory CB6 level of 965.0 MtCO2e. DESNZ official comparison emissions over the same budget period are 1,702.5 MtCO2e. This supports the interpretation that the P5 annual pathway gap and the P4 CB6 official gap are part of the same policy-delivery problem.
+
+Sensitivity and supporting metrics
+The CCC Sixth Carbon Budget Balanced Net Zero Pathway is retained only as a sensitivity check. The 2050 DESNZ including-IAS gap is 325.3 MtCO2e against CCC6, almost identical to the CCC7 result. The excluding-IAS DESNZ gap and the 2025-2050 cumulative gap are supporting metrics only. They should not replace the main CCC7 including-IAS benchmark comparison in the dissertation text.
+
+Recommended wording for Results
+Compared with the CCC Seventh Carbon Budget Balanced Pathway, the DESNZ current-policy baseline diverges increasingly after 2030. DESNZ including-IAS emissions are 368.0 MtCO2e in 2030, compared with 295.8 MtCO2e in CCC7, giving a gap of 72.2 MtCO2e. By 2035 the gap widens to 154.8 MtCO2e, and by 2050 it reaches 325.4 MtCO2e. The CCC Sixth Carbon Budget Balanced Net Zero Pathway gives a nearly identical 2050 gap of 325.3 MtCO2e, suggesting that the headline result is robust to the choice of CCC benchmark dataset.

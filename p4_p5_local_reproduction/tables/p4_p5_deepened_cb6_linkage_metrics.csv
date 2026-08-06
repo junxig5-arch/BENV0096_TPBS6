@@ -1,0 +1,7 @@
+metric,period,value_MtCO2e,interpretation
+Statutory CB6 budget,2033-2037,965.0,Reference target
+DESNZ official comparison emissions,2033-2037,"1,702.5",Current-policy baseline
+DESNZ official CB6 gap,2033-2037,737.5,P4 headline
+CCC7 balanced pathway sum,2033-2037,944.2,Target-consistent benchmark
+CCC7 vs CB6 target,2033-2037,-20.8,Benchmark is close to/statutorily below CB6
+DESNZ official emissions minus CCC7 sum,2033-2037,758.2,Policy-relevant divergence during CB6

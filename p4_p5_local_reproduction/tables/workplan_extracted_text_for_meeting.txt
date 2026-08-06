@@ -1,0 +1,201 @@
+﻿Dissertation Progress and Workplan | June Supervision Meeting  
+Junxi Gao | MSc Energy Systems and Data Analytics, UCL 
+Dissertation Progress and Workplan  
+June Supervision Meeting | Junxi Gao | MSc Energy Systems and Data Analytics, UCL  
+Purpose of this note: to confirm whether the revised research questions, literature positioning, uncertainty framework, accounting 
+basis, data plan and timeline are appropriate before moving into the next stage of analysis. 
+1. Revised Research Questions 
+The dissertation is centred on quantifying the UK 2050 emissions gap and explaining how sectoral drivers and uncertainty 
+assumptions affect that gap. 
+Question Current wording How it will be answered 
+Main RQ How large is the UK’s projected 2050 emissions gap under DESNZ 
+current-policy projections relative to target-consistent 
+benchmarks, and how do sectoral drivers and uncertainty 
+assumptions affect this gap? 
+Compare DESNZ EEP projections with CCC 
+benchmarks and selected external scenario evidence; 
+estimate the projected 2050 gap. 
+Sub-RQ1: Baseline and 
+benchmarks 
+How does the DESNZ current-policy baseline compare with CCC 
+pathways and selected external scenario evidence, such as NESO 
+FES, to 2050? 
+Use pathway comparison figures and benchmark-year 
+/ carbon-budget-period gap estimates. 
+Sub-RQ2: Sectoral 
+drivers 
+Which sectors contribute most to projected residual emissions 
+and the 2050 emissions gap? 
+Use sectoral projection analysis, residual emissions 
+ranking and sectoral contribution tables. 
+Sub-RQ3: Uncertainty How sensitive is the projected 2050 emissions gap to uncertainty 
+in UK policy delivery and international climate action, including 
+fuel and technology cost assumptions? 
+Use a structured uncertainty framework, 2x2 scenario 
+matrix and, where feasible, simple sensitivity 
+estimates. 
+2. Initial Literature Positioning 
+The four papers recommended by Neil are used to anchor the literature review and support the methodology, rather than to expa nd 
+the dissertation into a broad climate-policy review. 
+Paper Main relevance for this dissertation Where it will be used 
+Barrett et al. (2022) Demand-side assumptions can strongly affect UK 
+net-zero feasibility; useful for demand reduction, 
+transport/buildings and CDR reliance. 
+Literature review; sectoral analysis; uncertainty 
+drivers. 
+Waisman et al. (2019) Supports pathway design under deep 
+uncertainty, multiple scenarios, backcasting and 
+attention to international enabling conditions. 
+Methodology; scenario design; benchmark 
+comparison. 
+Pye et al. (2017) Frames the 2050 gap as part of a longer UK net-
+zero pathway, including post-2050 implications 
+and uncertainty around CCS/BECCS, bioenergy 
+and demand. 
+Research framing; uncertainty framework; 
+discussion of near-miss outcomes. 
+Rogelj et al. (2023) Shows that targets and implementation should 
+not be treated as the same; supports policy 
+credibility and delivery uncertainty. 
+Uncertainty framework; UK policy delivery axis; 
+targets vs implementation discussion. 
+3. Uncertainty Framework 
+Uncertainty will be treated as expanding towards 2050, similar to a “trumpet” or “cone”. The aim is not to build a full energ y system 
+model, but to interpret the DESNZ baseline within a structured range of plausible policy and technology futures. 
+3.1 Core scenario axes 
+Axis High case Low case Rationale 
+UK policy delivery Policies are implemented 
+effectively, on time and with 
+credible sectoral delivery plans. 
+Policies are delayed, weakened, 
+partially implemented or fail to 
+deliver expected reductions. 
+Distinguishes policy ambition from 
+credible delivery. 
+International climate action / fuel-
+and-technology-cost environment 
+Strong international action supports 
+faster clean technology learning, 
+favourable costs and stronger 
+supply chains. 
+Weaker international action leads to 
+slower cost reductions and less 
+favourable fuel/technology 
+assumptions. 
+Captures global fuel prices, 
+technology learning, finance, trade 
+and international cooperation. 
+3.2 2x2 scenario matrix 
+Scenario UK policy delivery International conditions Expected effect on 2050 gap 
+S1 High High Smallest projected gap; strongest 
+conditions for approaching net zero. 
+S2 High Low Moderate gap; UK delivery is strong
+
+Dissertation Progress and Workplan | June Supervision Meeting  
+Junxi Gao | MSc Energy Systems and Data Analytics, UCL 
+but international conditions make 
+delivery harder. 
+S3 Low High Moderate gap; international 
+conditions are favourable but UK 
+delivery limits progress. 
+S4 Low Low Largest projected gap; both 
+domestic delivery and international 
+conditions are unfavourable. 
+3.3 Key uncertainty drivers 
+Driver Role in the dissertation 
+Policy delivery and credibility Whether targets are backed by credible plans and near-term 
+implementation. 
+International enabling conditions Fuel prices, technology learning, supply chains, finance and technology 
+transfer. 
+Demand reduction Especially relevant to transport/buildings and the scale of residual 
+emissions. 
+Electrification pace and electricity-system expansion Links transport, heating and parts of industry to power-sector 
+decarbonisation and capacity needs. 
+CCS, BECCS, negative emissions and bioenergy Relevant if residual emissions remain in 2050 or net zero is achieved after 
+2050. 
+Sectoral implementation differences All sectors are covered, with deeper treatment of transport, buildings and 
+electricity. 
+Accounting scope and international emissions IAS and consumption-based emissions affect interpretation, but are not the 
+main quantitative focus. 
+Use in analysis: the DESNZ-CCC gap will be estimated first. The uncertainty framework will then be used to interpret how that gap 
+could change under different assumptions. Where feasible, simple sensitivity estimates will be added; otherwise, the scenario  matrix 
+will structure the discussion. 
+4. Accounting Methodology Note 
+The accounting basis must be explicit because UK carbon budget performance, historical emissions and projection series do not  
+always use the same treatment of International Aviation and Shipping (IAS). 
+Purpose Accounting basis Reason 
+Official carbon budget performance DESNZ Net Carbon Account (NCA) basis Matches the official method used to assess 
+carbon budget performance. 
+Historical-to-projection trend figures Territorial emissions excluding IAS Provides a consistent time-series comparison and 
+avoids mixing accounting boundaries. 
+CB6 gap interpretation Report both official NCA-based and excluding-IAS 
+values where relevant 
+Makes the difference transparent and avoids 
+treating different accounting questions as 
+conflicting results. 
+International / imported emissions Discussion or limitation only Relevant to wider UK climate responsibility, but 
+not the main basis for UK carbon budgets or 
+DESNZ EEP. 
+Working decision: use the official DESNZ NCA basis for policy conclusions on carbon budget performance, while using excluding -IAS 
+territorial emissions for consistent historical-projection trend visualisation. Where the distinction matters, especially for CB6, both 
+values will be reported and explained.
+
+Dissertation Progress and Workplan | June Supervision Meeting  
+Junxi Gao | MSc Energy Systems and Data Analytics, UCL 
+5. Data and Analysis Plan 
+The dissertation will use a data-led approach centred on official UK emissions data, DESNZ projections, CCC benchmarks and sectoral 
+analysis. NESO FES and consumption-based emissions will be supporting evidence only if they can be integrated without expanding 
+the scope too much. 
+Dataset / source Role Status Planned output 
+UK final GHG emissions statistics, 
+1990-2023 
+Historical baseline and sectoral 
+context. 
+Initial analysis completed. Historical trend and sectoral 
+comparison. 
+DESNZ EEP 2024-2050 Main current-policy baseline for 
+emissions gap. 
+Initial analysis started. DESNZ pathway and 2050 / CB6 gap 
+estimates. 
+DESNZ EEP sectoral annex Sectoral projections and residual 
+emissions. 
+Started; needs cleaning/checking. 2050 residual emissions ranking and 
+sectoral contribution figures. 
+CCC pathways Target-consistent / interim 
+benchmark. 
+Next step. DESNZ vs CCC comparison and gap 
+estimates. 
+NESO Future Energy Scenarios Supporting external scenario 
+comparison. 
+Next step. Short table or one supporting figure 
+if feasible. 
+Consumption-based / imported 
+emissions 
+International context and limitation. Optional / later. Discussion point or small supporting 
+comparison if time allows. 
+5.1 Planned outputs 
+Output Purpose 
+Historical UK GHG emissions trend, 1990-2023 Establish historical context. 
+Sectoral emissions comparison, 1990 vs 2023 Identify historical changes and residual sectors. 
+DESNZ current-policy pathway to 2050 Estimate baseline projected pathway. 
+DESNZ vs CCC benchmark comparison Quantify gap against target-consistent pathway. 
+2050 sectoral residual emissions ranking Identify sectors contributing most to remaining emissions. 
+2x2 uncertainty scenario matrix / simple sensitivity table Structure uncertainty and show possible variation in the gap. 
+5.2 Sectoral treatment 
+Treatment level Sectors Reason 
+Detailed focus Transport, buildings, electricity Major sectors and central to the transition 
+pathway. 
+Medium coverage Industry, agriculture Important residual sectors, but less detailed than 
+the main three. 
+Light coverage Waste, fuel supply, LULUCF, IAS where relevant Included for completeness and accounting 
+consistency. 
+Cross-cutting issue Non-CO2 emissions Discussed where relevant, especially agriculture 
+and waste. 
+6. Questions 
+1. Are the revised research questions focused and answerable enough? 
+2. Is the dual-basis accounting approach appropriate? 
+3. Is the 2x2 uncertainty framework suitable, or should the uncertainty drivers be simplified?  
+4. Should NESO FES remain a supporting comparison rather than a core benchmark?  
+5. Should consumption-based emissions remain mainly in the discussion, or should I add a small supporting analysis?  
+6. Does the timeline from June to 1 September look realistic, especially the aim of completing a full first draft including 
+results by early August?

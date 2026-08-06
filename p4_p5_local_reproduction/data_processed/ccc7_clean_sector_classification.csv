@@ -1,0 +1,1510 @@
+﻿IPCC Code,IPCC Source Name,IPCC Activity Name,National comunication sector,CCC sector,CCC subsector
+1A1aiii,Heat supply,Gas oil,Energy Supply,Industry,Industry
+1A1aiii,Heat supply,Landfill gas,Energy Supply,Industry,Industry
+1A1aiii,Heat supply,Sewage gas,Energy Supply,Industry,Industry
+1A1ai,Miscellaneous industrial/commercial combustion,MSW,Energy Supply,Industry,Industry
+1A1ai,Power stations,Burning oil,Energy Supply,Electricity supply,Electricity supply
+1A1ai,Power stations,Coal,Energy Supply,Electricity supply,Electricity supply
+1A1ai,Power stations,Fuel oil,Energy Supply,Electricity supply,Electricity supply
+1A1ai,Power stations,Gas oil,Energy Supply,Electricity supply,Electricity supply
+1A1ai,Power stations,Landfill gas,Energy Supply,Electricity supply,Electricity supply
+1A1ai,Power stations,Liquid bio-fuels,Energy Supply,Electricity supply,Electricity supply
+1A1ai,Power stations,MSW,Energy Supply,Waste,Energy from waste
+1A1ai,Power stations,Natural gas,Energy Supply,Electricity supply,Electricity supply
+1A1ai,Power stations,Orimulsion,Energy Supply,Electricity supply,Electricity supply
+1A1ai,Power stations,Petroleum coke,Energy Supply,Electricity supply,Electricity supply
+1A1ai,Power stations,Poultry litter,Energy Supply,Electricity supply,Electricity supply
+1A1ai,Power stations,Scrap tyres,Energy Supply,Electricity supply,Electricity supply
+1A1ai,Power stations,Sewage gas,Energy Supply,Electricity supply,Electricity supply
+1A1ai,Power stations,Sour gas,Energy Supply,Electricity supply,Electricity supply
+1A1ai,Power stations,Straw,Energy Supply,Electricity supply,Electricity supply
+1A1ai,Power stations,Waste oils,Energy Supply,Electricity supply,Electricity supply
+1A1ai,Power stations,Wood,Energy Supply,Electricity supply,Electricity supply
+1A1b,Refineries - combustion,Fuel oil,Energy Supply,Fuel supply,Fossil fuel supply
+1A1b,Refineries - combustion,Gas oil,Energy Supply,Fuel supply,Fossil fuel supply
+1A1b,Refineries - combustion,LPG,Energy Supply,Fuel supply,Fossil fuel supply
+1A1b,Refineries - combustion,Naphtha,Energy Supply,Fuel supply,Fossil fuel supply
+1A1b,Refineries - combustion,Natural gas,Energy Supply,Fuel supply,Fossil fuel supply
+1A1b,Refineries - combustion,OPG,Energy Supply,Fuel supply,Fossil fuel supply
+1A1b,Refineries - combustion,Petrol,Energy Supply,Fuel supply,Fossil fuel supply
+1A1b,Refineries - combustion,Petroleum coke,Energy Supply,Fuel supply,Fossil fuel supply
+1A1b,Refineries - combustion,Refinery miscellaneous,Energy Supply,Fuel supply,Fossil fuel supply
+1A1ci,Coke production,Blast furnace gas,Energy Supply,Industry,Industry
+1A1ci,Coke production,Coke oven gas,Energy Supply,Industry,Industry
+1A1ci,Coke production,Colliery methane,Energy Supply,Industry,Industry
+1A1ci,Coke production,Natural gas,Energy Supply,Industry,Industry
+1A1cii,Gas terminal: fuel combustion,Gas oil,Energy Supply,Fuel supply,Fossil fuel supply
+1A1cii,Gas terminal: fuel combustion,Natural gas,Energy Supply,Fuel supply,Fossil fuel supply
+1A1ciii,Collieries - combustion,Coal,Energy Supply,Fuel supply,Fossil fuel supply
+1A1ciii,Collieries - combustion,Colliery methane,Energy Supply,Fuel supply,Fossil fuel supply
+1A1ciii,Collieries - combustion,Natural gas,Energy Supply,Fuel supply,Fossil fuel supply
+1A1ciii,Gas production,Colliery methane,Energy Supply,Fuel supply,Fossil fuel supply
+1A1ciii,Gas production,LPG,Energy Supply,Fuel supply,Fossil fuel supply
+1A1ciii,Gas production,Natural gas,Energy Supply,Fuel supply,Fossil fuel supply
+1A1ciii,Nuclear fuel production,Natural gas,Energy Supply,Fuel supply,Fossil fuel supply
+1A1cii,Oil terminal: fuel combustion,Gas oil,Energy Supply,Fuel supply,Fossil fuel supply
+1A1cii,Oil terminal: fuel combustion,Natural gas,Energy Supply,Fuel supply,Fossil fuel supply
+1A1cii,Upstream Gas Production - fuel combustion,Gas oil,Energy Supply,Fuel supply,Fossil fuel supply
+1A1cii,Upstream Gas Production - fuel combustion,Natural gas,Energy Supply,Fuel supply,Fossil fuel supply
+1A1cii,Upstream Oil Production - fuel combustion,Gas oil,Energy Supply,Fuel supply,Fossil fuel supply
+1A1cii,Upstream Oil Production - fuel combustion,Natural gas,Energy Supply,Fuel supply,Fossil fuel supply
+1A1ci,Solid smokeless fuel production,Coke,Energy Supply,Fuel supply,Fossil fuel supply
+1A2a,Iron and steel - combustion plant,Coal,Business,Industry,Industry
+1A2a,Iron and steel - combustion plant,Coke,Business,Industry,Industry
+1A2a,Iron and steel - combustion plant,Fuel oil,Business,Industry,Industry
+1A2a,Iron and steel - combustion plant,Gas oil,Business,Industry,Industry
+1A2a,Iron and steel - combustion plant,LPG,Business,Industry,Industry
+1A2a,Iron and steel - combustion plant,Natural gas,Business,Industry,Industry
+1A2b,Autogeneration - exported to grid,Coal,Business,Industry,Industry
+1A2b,Autogenerators,Coal,Business,Industry,Industry
+1A2b,Non-Ferrous Metal (combustion),Coal,Business,Industry,Industry
+1A2b,Non-Ferrous Metal (combustion),Fuel oil,Business,Industry,Industry
+1A2b,Non-Ferrous Metal (combustion),Gas oil,Business,Industry,Industry
+1A2b,Non-Ferrous Metal (combustion),Natural gas,Business,Industry,Industry
+1A2c,Chemicals (combustion),Biogas,Business,Industry,Industry
+1A2c,Chemicals (combustion),Biomass,Business,Industry,Industry
+1A2c,Chemicals (combustion),Coal,Business,Industry,Industry
+1A2c,Chemicals (combustion),Fuel oil,Business,Industry,Industry
+1A2c,Chemicals (combustion),Gas oil,Business,Industry,Industry
+1A2c,Chemicals (combustion),Natural gas,Business,Industry,Industry
+1A2d,"Pulp, Paper and Print (combustion)",Biogas,Business,Industry,Industry
+1A2d,"Pulp, Paper and Print (combustion)",Biomass,Business,Industry,Industry
+1A2d,"Pulp, Paper and Print (combustion)",Coal,Business,Industry,Industry
+1A2d,"Pulp, Paper and Print (combustion)",Fuel oil,Business,Industry,Industry
+1A2d,"Pulp, Paper and Print (combustion)",Gas oil,Business,Industry,Industry
+1A2d,"Pulp, Paper and Print (combustion)",Natural gas,Business,Industry,Industry
+1A2e,"Food & drink, tobacco (combustion)",Biogas,Business,Industry,Industry
+1A2e,"Food & drink, tobacco (combustion)",Biomass,Business,Industry,Industry
+1A2e,"Food & drink, tobacco (combustion)",Coal,Business,Industry,Industry
+1A2e,"Food & drink, tobacco (combustion)",Fuel oil,Business,Industry,Industry
+1A2e,"Food & drink, tobacco (combustion)",Gas oil,Business,Industry,Industry
+1A2e,"Food & drink, tobacco (combustion)",Natural gas,Business,Industry,Industry
+1A2f,Cement production - combustion,Coal,Business,Industry,Industry
+1A2f,Cement production - combustion,Fuel oil,Business,Industry,Industry
+1A2f,Cement production - combustion,Gas oil,Business,Industry,Industry
+1A2f,Cement production - combustion,Natural gas,Business,Industry,Industry
+1A2f,Cement production - combustion,Petroleum coke,Business,Industry,Industry
+1A2f,Cement production - combustion,Scrap tyres,Business,Industry,Industry
+1A2f,Cement production - combustion,Waste,Business,Industry,Industry
+1A2f,Cement production - combustion,Waste oils,Business,Industry,Industry
+1A2f,Cement production - combustion,Waste solvent,Business,Industry,Industry
+1A2f,Lime production - non decarbonising,Coal,Business,Industry,Industry
+1A2f,Lime production - non decarbonising,Coke,Business,Industry,Industry
+1A2f,Lime production - non decarbonising,Natural gas,Business,Industry,Industry
+1A2f,Mineral products (other): combustion,Biomass,Business,Industry,Industry
+1A2f,Other industrial combustion,Scrap tyres,Business,Industry,Industry
+1A2giii,NRMM: Mining and Quarrying,Gas oil,Business,Industry,Industry
+1A2gviii,Autogeneration - exported to grid,Natural gas,Business,Industry,Industry
+1A2gviii,Autogenerators,Biogas,Energy Supply,Industry,Industry
+1A2gviii,Autogenerators,Liquid bio-fuels,Business,Industry,Industry
+1A2gviii,Autogenerators,Natural gas,Business,Industry,Industry
+1A2gviii,Mechanical Engineering (combustion),Biomass,Business,Industry,Industry
+1A2gviii,Other industrial combustion,Biogas,Business,Industry,Industry
+1A2gviii,Other industrial combustion,Biomass,Business,Industry,Industry
+1A2gviii,Other industrial combustion,Burning oil,Business,Industry,Industry
+1A2gviii,Other industrial combustion,Coal,Business,Industry,Industry
+1A2gviii,Other industrial combustion,Coke,Business,Industry,Industry
+1A2gviii,Other industrial combustion,Coke oven gas,Business,Industry,Industry
+1A2gviii,Other industrial combustion,Colliery methane,Business,Industry,Industry
+1A2gviii,Other industrial combustion,Fuel oil,Business,Industry,Industry
+1A2gviii,Other industrial combustion,Gas oil,Business,Industry,Industry
+1A2gviii,Other industrial combustion,Liquid bio-fuels,Business,Industry,Industry
+1A2gviii,Other industrial combustion,LPG,Business,Industry,Industry
+1A2gviii,Other industrial combustion,Lubricants,Business,Industry,Industry
+1A2gviii,Other industrial combustion,Natural gas,Business,Industry,Industry
+1A2gviii,Other industrial combustion,OPG,Business,Industry,Industry
+1A2gviii,Other industrial combustion,Petroleum coke,Business,Industry,Industry
+1A2gviii,Other industrial combustion,SSF,Business,Industry,Industry
+1A2gviii,Other industrial combustion,Waste solvent,Business,Industry,Industry
+1A2gviii,Other industrial combustion,Wood,Business,Industry,Industry
+1A2gvii,NRMM: Generators,Gas oil,Business,Industry,Industry
+1A2gvii,NRMM: Generators,Petrol,Business,Industry,Industry
+1A2gvii,NRMM: Other Industry,Gas oil,Business,Industry,Industry
+1A2gvii,NRMM: Other Industry,Petrol,Business,Industry,Industry
+1A2gvii,NRMM: Waste,Gas oil,Business,Industry,Industry
+1A2gv,NRMM: Construction,Gas oil,Business,Industry,Industry
+1A2gv,NRMM: Construction,Petrol,Business,Industry,Industry
+1A3a,Aircraft - domestic cruise,Aviation spirit,Transport,Aviation,Domestic aviation
+1A3a,Aircraft - domestic cruise,Aviation turbine fuel,Transport,Aviation,Domestic aviation
+1A3a,Aircraft - domestic cruise,Sustainable Aviation Fuel (SAF) - bio based,Transport,Aviation,Domestic aviation
+1A3a,Aircraft - domestic take off and landing,Aviation spirit,Transport,Aviation,Domestic aviation
+1A3a,Aircraft - domestic take off and landing,Aviation turbine fuel,Transport,Aviation,Domestic aviation
+1A3a,Aircraft - domestic take off and landing,Sustainable Aviation Fuel (SAF) - bio based,Transport,Aviation,Domestic aviation
+1A3biii,Road transport - buses and coaches - motorway driving,DERV,Transport,Surface transport,Bus
+1A3biii,Road transport - buses and coaches - rural driving,DERV,Transport,Surface transport,Bus
+1A3biii,Road transport - buses and coaches - urban driving,DERV,Transport,Surface transport,Bus
+1A3biii,Road transport - general,Natural gas,Transport,Surface transport,HGV
+1A3biii,Road transport - HGV articulated - motorway driving,DERV,Transport,Surface transport,HGV
+1A3biii,Road transport - HGV articulated - rural driving,DERV,Transport,Surface transport,HGV
+1A3biii,Road transport - HGV articulated - urban driving,DERV,Transport,Surface transport,HGV
+1A3biii,Road transport - HGV rigid - motorway driving,DERV,Transport,Surface transport,HGV
+1A3biii,Road transport - HGV rigid - rural driving,DERV,Transport,Surface transport,HGV
+1A3biii,Road transport - HGV rigid - urban driving,DERV,Transport,Surface transport,HGV
+1A3bii,Road transport - LGVs - cold start,DERV,Transport,Surface transport,Van
+1A3bii,Road transport - LGVs - cold start,Petrol,Transport,Surface transport,Van
+1A3bii,Road transport - LGVs - motorway driving,DERV,Transport,Surface transport,Van
+1A3bii,Road transport - LGVs - motorway driving,Petrol,Transport,Surface transport,Van
+1A3bii,Road transport - LGVs - rural driving,DERV,Transport,Surface transport,Van
+1A3bii,Road transport - LGVs - rural driving,Petrol,Transport,Surface transport,Van
+1A3bii,Road transport - LGVs - urban driving,DERV,Transport,Surface transport,Van
+1A3bii,Road transport - LGVs - urban driving,Petrol,Transport,Surface transport,Van
+1A3bi,Road transport - cars - cold start,DERV,Transport,Surface transport,Car
+1A3bi,Road transport - cars - cold start,Petrol,Transport,Surface transport,Car
+1A3bi,Road transport - cars - motorway driving,DERV,Transport,Surface transport,Car
+1A3bi,Road transport - cars - motorway driving,Petrol,Transport,Surface transport,Car
+1A3bi,Road transport - cars - rural driving,DERV,Transport,Surface transport,Car
+1A3bi,Road transport - cars - rural driving,Petrol,Transport,Surface transport,Car
+1A3bi,Road transport - cars - urban driving,DERV,Transport,Surface transport,Car
+1A3bi,Road transport - cars - urban driving,Petrol,Transport,Surface transport,Car
+1A3biv,Road transport - mopeds (<50cc 2st) - urban driving,Lubricants,Transport,Surface transport,Other surface transport
+1A3biv,Road transport - mopeds (<50cc 2st) - urban driving,Petrol,Transport,Surface transport,Motorcycle
+1A3biv,Road transport - motorcycle (>50cc 2st) - urban driving,Petrol,Transport,Surface transport,Motorcycle
+1A3biv,Road transport - motorcycle (>50cc 4st) - motorway driving,Petrol,Transport,Surface transport,Motorcycle
+1A3biv,Road transport - motorcycle (>50cc 4st) - rural driving,Petrol,Transport,Surface transport,Motorcycle
+1A3biv,Road transport - motorcycle (>50cc 4st) - urban driving,Petrol,Transport,Surface transport,Motorcycle
+1A3bv,Road transport - all vehicles biofuels use,Biodiesel,Transport,Surface transport,HGV
+1A3bv,Road transport - all vehicles biofuels use,Bio-MTBE,Transport,Surface transport,Car
+1A3bv,Road transport - all vehicles LPG use,LPG,Transport,Surface transport,HGV
+1A3c,Rail - coal,Coal,Transport,Surface transport,Rail
+1A3c,Railways - freight,Gas oil,Transport,Surface transport,Rail
+1A3c,Railways - intercity,Gas oil,Transport,Surface transport,Rail
+1A3c,Railways - regional,Gas oil,Transport,Surface transport,Rail
+1A3d,Inland goods-carrying vessels,Gas oil,Transport,Shipping,Domestic shipping
+1A3d,"Motorboats / workboats (e.g. canal boats, dredgers, service boats, tourist boats, river boats)",DERV,Transport,Shipping,Domestic shipping
+1A3d,"Motorboats / workboats (e.g. canal boats, dredgers, service boats, tourist boats, river boats)",Gas oil,Transport,Shipping,Domestic shipping
+1A3d,"Motorboats / workboats (e.g. canal boats, dredgers, service boats, tourist boats, river boats)",Petrol,Transport,Shipping,Domestic shipping
+1A3d,Personal watercraft e.g. jet ski,Petrol,Transport,Shipping,Domestic shipping
+1A3d,Sailing boats with auxiliary engines,DERV,Transport,Shipping,Domestic shipping
+1A3d,Shipping - coastal,Fuel oil,Transport,Shipping,Domestic shipping
+1A3d,Shipping - coastal,Gas oil,Transport,Shipping,Domestic shipping
+1A3eii,NRMM: Airport,Gas oil,Transport,Surface transport,Other surface transport
+1A3eii,NRMM: Refrigerated Transport,Gas oil,Transport,Surface transport,Other surface transport
+1A3eii,NRMM: Sea Ports,Gas oil,Transport,Surface transport,Other surface transport
+1A4aii,NRMM: Forklifts,Gas oil,Business,Industry,Industry
+1A4aii,NRMM: Forklifts,LPG,Business,Industry,Industry
+1A4ai,Miscellaneous industrial/commercial combustion,Biogas,Business,Non-residential buildings,Commercial
+1A4ai,Miscellaneous industrial/commercial combustion,Biomass,Business,Non-residential buildings,Commercial
+1A4ai,Miscellaneous industrial/commercial combustion,Burning oil,Business,Non-residential buildings,Commercial
+1A4ai,Miscellaneous industrial/commercial combustion,Coal,Business,Non-residential buildings,Commercial
+1A4ai,Miscellaneous industrial/commercial combustion,Fuel oil,Business,Non-residential buildings,Commercial
+1A4ai,Miscellaneous industrial/commercial combustion,Gas oil,Business,Non-residential buildings,Commercial
+1A4ai,Miscellaneous industrial/commercial combustion,Natural gas,Business,Non-residential buildings,Commercial
+1A4ai,Public sector combustion,Biomass,Public,Non-residential buildings,Public
+1A4ai,Public sector combustion,Burning oil,Public,Non-residential buildings,Public
+1A4ai,Public sector combustion,Coal,Public,Non-residential buildings,Public
+1A4ai,Public sector combustion,Coke,Public,Non-residential buildings,Public
+1A4ai,Public sector combustion,Fuel oil,Public,Non-residential buildings,Public
+1A4ai,Public sector combustion,Gas oil,Public,Non-residential buildings,Public
+1A4ai,Public sector combustion,Natural gas,Public,Non-residential buildings,Public
+1A4ai,Railways - stationary combustion,Burning oil,Transport,Surface transport,Rail
+1A4ai,Railways - stationary combustion,Fuel oil,Transport,Surface transport,Rail
+1A4ai,Railways - stationary combustion,Natural gas,Transport,Surface transport,Rail
+1A4bi,Domestic Boiler,Anthracite,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Boiler,Coal,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Boiler,Coke,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Boiler,LPG,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Boiler,Petroleum coke,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Boiler,SSF,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - Basic,Anthracite,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - Basic,Coal,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - Basic,Coke,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - Basic,Petroleum coke,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - Basic,SSF,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - Basic,Wood - Dry,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - Basic,Wood - Seasoned,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - Basic,Wood - Wet,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - EcoDesign,Anthracite,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - EcoDesign,Coal,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - EcoDesign,Petroleum coke,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - EcoDesign,SSF,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - EcoDesign,Wood - Dry,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - EcoDesign,Wood - Seasoned,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - EcoDesign,Wood - Wet,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - Upgraded,Anthracite,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - Upgraded,Coal,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - Upgraded,Coke,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - Upgraded,Petroleum coke,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - Upgraded,SSF,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - Upgraded,Wood - Dry,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - Upgraded,Wood - Seasoned,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Closed Stove - Upgraded,Wood - Wet,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic combustion,Petroleum coke in SSF,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Cooking and Other,Burning oil,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Cooking and Other,Fuel oil,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Cooking and Other,Gas oil,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Cooking and Other,Natural gas,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Fireplace - Standard,Coal,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Fireplace - Standard,Coke,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Fireplace - Standard,Peat,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Fireplace - Standard,Petroleum coke,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Fireplace - Standard,SSF,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Fireplace - Standard,Wood - Dry,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Fireplace - Standard,Wood - Seasoned,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Fireplace - Standard,Wood - Wet,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Outdoor,Charcoal,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Outdoor,Coal,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Space Heater,Burning oil,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Space Heater,Fuel oil,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Space Heater,Gas oil,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Space Heater,Natural gas,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Water Heater,Burning oil,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Water Heater,Fuel oil,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Water Heater,Gas oil,Residential,Residential buildings,Existing residential buildings
+1A4bi,Domestic Water Heater,Natural gas,Residential,Residential buildings,Existing residential buildings
+1A4bii,House and garden machinery,DERV,Residential,Residential buildings,Existing residential buildings
+1A4bii,House and garden machinery,Petrol,Residential,Residential buildings,Existing residential buildings
+1A4ci,Agriculture - stationary combustion,Biogas,Agriculture,Agriculture,Stationary and mobile combustion
+1A4ci,Agriculture - stationary combustion,Biomass,Agriculture,Agriculture,Stationary and mobile combustion
+1A4ci,Agriculture - stationary combustion,Burning oil,Agriculture,Agriculture,Stationary and mobile combustion
+1A4ci,Agriculture - stationary combustion,Coal,Agriculture,Agriculture,Stationary and mobile combustion
+1A4ci,Agriculture - stationary combustion,Fuel oil,Agriculture,Agriculture,Stationary and mobile combustion
+1A4ci,Agriculture - stationary combustion,Gas oil,Agriculture,Agriculture,Stationary and mobile combustion
+1A4ci,Agriculture - stationary combustion,Natural gas,Agriculture,Agriculture,Stationary and mobile combustion
+1A4ci,Agriculture - stationary combustion,Straw,Agriculture,Agriculture,Stationary and mobile combustion
+1A4cii,Forestry Machinery,Gas oil,Agriculture,Agriculture,Stationary and mobile combustion
+1A4cii,Forestry Machinery,Petrol,Agriculture,Agriculture,Stationary and mobile combustion
+1A4ciii,Fishing vessels,Fuel oil,Transport,Shipping,Domestic shipping
+1A4ciii,Fishing vessels,Gas oil,Transport,Shipping,Domestic shipping
+1A4cii,NRMM: Agriculture,Gas oil,Agriculture,Agriculture,Stationary and mobile combustion
+1A5b,Aircraft - military,Aviation spirit,Transport,Aviation,Military aviation
+1A5b,Aircraft - military,Aviation turbine fuel,Transport,Aviation,Military aviation
+1A5b,Shipping - naval,Gas oil,Transport,Shipping,Naval shipping
+1B1a1i,Deep-mined coal,Coal produced,Energy Supply,Fuel supply,Fossil fuel supply
+1B1a1ii,Coal storage and transport,Deep mined coal production,Energy Supply,Fuel supply,Fossil fuel supply
+1B1a1iii,Closed Coal Mines,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B1a2i,Open-cast coal,Coal produced,Energy Supply,Fuel supply,Fossil fuel supply
+1B1b,Charcoal production,Charcoal produced,Energy Supply,Fuel supply,Fossil fuel supply
+1B1b,Coke production,Coke produced,Energy Supply,Industry,Industry
+1B1b,Iron and steel - flaring,Coke oven gas,Energy Supply,Industry,Industry
+1B1b,Solid smokeless fuel production,Coal,Energy Supply,Fuel supply,Fossil fuel supply
+1B1b,Solid smokeless fuel production,SSF produced,Energy Supply,Fuel supply,Fossil fuel supply
+1B2a1,Onshore oil well exploration (conventional),Number of wells per year,Energy Supply,Fuel supply,Fossil fuel supply
+1B2a1,Upstream Oil Production - Offshore Well Testing,Exploration drilling :amount of gas flared,Energy Supply,Fuel supply,Fossil fuel supply
+1B2a2,Oil Terminal: Direct Process,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2a2,Oil Terminal: Other Fugitives,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2a2,Onshore oil production (conventional),Crude oil,Energy Supply,Fuel supply,Fossil fuel supply
+1B2a2,Petroleum processes,Oil production,Energy Supply,Fuel supply,Fossil fuel supply
+1B2a2,Upstream Oil Production - fugitive emissions,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2a2,Upstream Oil Production: direct process emissions,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2a3,Oil transport fugitives: pipelines (onshore),Crude oil,Energy Supply,Fuel supply,Fossil fuel supply
+1B2a3,Oil transport fugitives: road tankers,Crude oil,Energy Supply,Fuel supply,Fossil fuel supply
+1B2a3,Upstream Oil Production - Offshore Oil Loading,Crude oil,Energy Supply,Fuel supply,Fossil fuel supply
+1B2a3,Upstream Oil Production - Onshore Oil Loading,Crude oil,Energy Supply,Fuel supply,Fossil fuel supply
+1B2a4,Upstream Oil Production - Oil terminal storage,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2a6,Abandoned oil wells (offshore),Number of wells per year,Energy Supply,Fuel supply,Fossil fuel supply
+1B2a6,Abandoned oil wells (onshore),Number of wells per year,Energy Supply,Fuel supply,Fossil fuel supply
+1B2b1,Upstream Gas Production - Offshore Well Testing,Exploration drilling :amount of gas flared,Energy Supply,Fuel supply,Fossil fuel supply
+1B2b1,Well exploration (unconventional gas): all sources,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2b2,Onshore natural gas gathering,Natural gas production (million m3/yr),Energy Supply,Fuel supply,Fossil fuel supply
+1B2b2,Onshore natural gas production (conventional),Natural gas production (million m3/yr),Energy Supply,Fuel supply,Fossil fuel supply
+1B2b3,Gas Terminal: Direct Process,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2b3,Gas Terminal: Other Fugitives,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2b3,Upstream Gas Production - fugitive emissions,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2b3,Upstream Gas Production: direct process emissions,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2b4,Gas leakage,Natural Gas (transmission leakage),Energy Supply,Fuel supply,Fossil fuel supply
+1B2b4,Upstream Gas Production - Gas terminal storage,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2b5,Gas leakage,Natural Gas (leakage at point of use),Energy Supply,Fuel supply,Fossil fuel supply
+1B2b5,Gas leakage,Natural gas supply,Energy Supply,Fuel supply,Fossil fuel supply
+1B2c1ii,Gas Terminal: Venting,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2c1ii,Upstream Gas Production - venting,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2c1i,Oil Terminal: Venting,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2c1i,Upstream Oil Production - venting,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2c2ii,Gas Terminal: Gas Flaring,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2c2ii,Upstream Gas Production - flaring,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2c2i,Oil Terminal: Gas Flaring,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2c2i,Onshore oil production: gas flaring,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2c2i,Upstream Oil Production - flaring,Non-fuel combustion,Energy Supply,Fuel supply,Fossil fuel supply
+1B2d,Flue Gas Treatment (neutralisation),Sodium Bicarbonate,Industrial processes,Industry,Industry
+2A1,Cement - decarbonising,Clinker production,Industrial processes,Industry,Industry
+2A2,Lime production - decarbonising,Limestone,Industrial processes,Industry,Industry
+2A3,Glass - general,Dolomite,Industrial processes,Industry,Industry
+2A3,Glass - general,Glass-making additives,Industrial processes,Industry,Industry
+2A3,Glass - general,Limestone,Industrial processes,Industry,Industry
+2A3,Glass - general,Soda ash,Industrial processes,Industry,Industry
+2A4a,Brick manufacture - all types,Bricks,Industrial processes,Industry,Industry
+2A4a,Brick manufacture - Fletton,Fletton bricks,Industrial processes,Industry,Industry
+2A4a,Other ceramics,Clays & shales,Industrial processes,Industry,Industry
+2A4b,Non Energy Use: chemical feedstock,Soda ash,Industrial processes,Industry,Industry
+2A4b,Other emissive applications of Soda Ash,Soda ash,Industrial processes,Industry,Industry
+2A4d,Bread baking,Sodium Bicarbonate,Industrial processes,Industry,Industry
+2A4d,Other emissive applications of Sodium Bicarbonate,Sodium Bicarbonate,Industrial processes,Industry,Industry
+2A4d,Power stations - FGD,Gypsum produced,Energy Supply,Industry,Industry
+2A4d,Unknown applications of Sodium Bicarbonate,Sodium Bicarbonate,Industrial processes,Industry,Industry
+2B10,Chemical industry - general,Process emission,Industrial processes,Industry,Industry
+2B1,Ammonia production - combustion,Natural gas,Business,Industry,Industry
+2B1,Ammonia production - feedstock use of gas,Natural gas,Industrial processes,Industry,Industry
+2B2,Nitric acid production,Acid production,Industrial processes,Industry,Industry
+2B3,Adipic acid production,Adipic acid produced,Industrial processes,Industry,Industry
+2B6,Chemical industry - titanium dioxide,Coke,Industrial processes,Industry,Industry
+2B6,Chemical industry - titanium dioxide,Petroleum coke,Industrial processes,Industry,Industry
+2B7,Chemical industry - soda ash,Soda ash produced,Industrial processes,Industry,Industry
+2B8a,Chemical industry - methanol,Methanol,Industrial processes,Industry,Industry
+2B8a,Methanol production - combustion,Natural gas,Business,Industry,Industry
+2B8b,Chemical industry - ethylene,Ethylene,Industrial processes,Industry,Industry
+2B8c,Chemical Industry - ethylene dichloride,Ethylene dichloride,Industrial processes,Industry,Industry
+2B8d,Chemical industry - ethylene oxide,Ethylene oxide,Industrial processes,Industry,Industry
+2B8e,Chemical industry - acrylonitrile,Acrylonitrile,Industrial processes,Industry,Industry
+2B8f,Chemical industry - carbon black,Carbon black capacity,Industrial processes,Industry,Industry
+2B8g,Chemicals (combustion),OPG,Business,Industry,Industry
+2B9a1,Halocarbons production - by-product,Non-fuel combustion,Industrial processes,F-gases,Other F-gases
+2B9b3,Halocarbons production - fugitive,Non-fuel combustion,Industrial processes,F-gases,Other F-gases
+2C1a,Basic oxygen furnaces,Dolomite,Industrial processes,Industry,Industry
+2C1a,Electric arc furnaces,Petroleum coke,Industrial processes,Industry,Industry
+2C1a,Electric arc furnaces,Steel production (electric arc),Industrial processes,Industry,Industry
+2C1a,Ladle arc furnaces,Steel production (oxygen converters),Industrial processes,Industry,Industry
+2C1b,Blast furnaces,Blast furnace gas,Business,Industry,Industry
+2C1b,Blast furnaces,Coke oven gas,Business,Industry,Industry
+2C1b,Blast furnaces,LPG,Business,Industry,Industry
+2C1b,Blast furnaces,Natural gas,Business,Industry,Industry
+2C1b,Iron and steel - combustion plant,Blast furnace gas,Business,Industry,Industry
+2C1b,Iron and steel - combustion plant,Coke oven gas,Business,Industry,Industry
+2C1b,Iron and steel - flaring,Blast furnace gas,Industrial processes,Industry,Industry
+2C1d,Sinter production,Coke,Industrial processes,Industry,Industry
+2C1d,Sinter production,Dolomite,Industrial processes,Industry,Industry
+2C1d,Sinter production,Limestone,Industrial processes,Industry,Industry
+2C3a,Primary aluminium production - general,Primary aluminium production,Industrial processes,Industry,Industry
+2C3b,Primary aluminium production - PFC emissions,Primary aluminium production,Industrial processes,F-gases,Other F-gases
+2C4,Magnesium cover gas,Non-fuel combustion,Industrial processes,F-gases,Other F-gases
+2C6,Non-ferrous metal processes,Coke,Industrial processes,Industry,Industry
+2D1,Agricultural engines,Lubricants,Agriculture,Agriculture,Stationary and mobile combustion
+2D1,Industrial engines,Lubricants,Business,Industry,Industry
+2D1,Marine engines,Lubricants,Transport,Shipping,Domestic shipping
+2D1,Road vehicle engines,Lubricants,Transport,Surface transport,Other surface transport
+2D2,Non-aerosol products - household products,Petroleum waxes,Residential,Residential buildings,Existing residential buildings
+2D3,Non Energy Use: petroleum coke,Petroleum coke,Business,Industry,Industry
+2D3,Road transport - urea,Urea consumption,Transport,Surface transport,HGV
+2E1,Electronics - HFC,Non-fuel combustion,Business,F-gases,Other F-gases
+2E1,Electronics - NF3,Non-fuel combustion,Business,F-gases,Other F-gases
+2F1a,"Commercial Refrigeration: Commercial central systems, chill",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, chill",Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, chill",Halocarbon bank: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, chill",Halocarbon bank: HFC-152a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, chill",Halocarbon bank: HFC-32,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, chill",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, chill",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, chill",Halocarbon in products at disposal: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, chill",Halocarbon in products at disposal: HFC-152a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, chill",Halocarbon in products at disposal: HFC-32,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, chill",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, chill",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, chill",Halocarbon used for manufacturing: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, chill",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, frozen",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, frozen",Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, frozen",Halocarbon bank: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, frozen",Halocarbon bank: HFC-32,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, frozen",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, frozen",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, frozen",Halocarbon in products at disposal: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, frozen",Halocarbon in products at disposal: HFC-32,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, frozen",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, frozen",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, frozen",Halocarbon used for manufacturing: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial central systems, frozen",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, chill",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, chill",Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, chill",Halocarbon bank: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, chill",Halocarbon bank: HFC-152a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, chill",Halocarbon bank: HFC-32,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, chill",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, chill",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, chill",Halocarbon in products at disposal: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, chill",Halocarbon in products at disposal: HFC-152a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, chill",Halocarbon in products at disposal: HFC-32,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, chill",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, chill",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, chill",Halocarbon used for manufacturing: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, chill",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, frozen",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, frozen",Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, frozen",Halocarbon bank: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, frozen",Halocarbon bank: HFC-32,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, frozen",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, frozen",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, frozen",Halocarbon in products at disposal: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, frozen",Halocarbon in products at disposal: HFC-32,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, frozen",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, frozen",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, frozen",Halocarbon used for manufacturing: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial condensing units, frozen",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, chill",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, chill",Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, chill",Halocarbon bank: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, chill",Halocarbon bank: HFC-32,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, chill",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, chill",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, chill",Halocarbon in products at disposal: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, chill",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, chill",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, chill",Halocarbon used for manufacturing: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, chill",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, frozen",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, frozen",Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, frozen",Halocarbon bank: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, frozen",Halocarbon bank: HFC-32,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, frozen",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, frozen",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, frozen",Halocarbon in products at disposal: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, frozen",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, frozen",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, frozen",Halocarbon used for manufacturing: HFC-143a,Business,F-gases,Refrigeration
+2F1a,"Commercial Refrigeration: Commercial integral systems, frozen",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Refrigeration
+2F1b,Domestic Refrigeration: Domestic freezers,Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1b,Domestic Refrigeration: Domestic freezers,Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1b,Domestic Refrigeration: Domestic refrigerators and freezers,Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1b,Domestic Refrigeration: Domestic refrigerators and freezers,Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, large",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, large",Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, large",Halocarbon bank: HFC-152a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, large",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, large",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, large",Halocarbon in products at disposal: HFC-152a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, large",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, mid-size",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, mid-size",Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, mid-size",Halocarbon bank: HFC-152a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, mid-size",Halocarbon bank: HFC-32,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, mid-size",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, mid-size",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, mid-size",Halocarbon in products at disposal: HFC-152a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, mid-size",Halocarbon in products at disposal: HFC-32,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, mid-size",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, mid-size",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial chillers, mid-size",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, chill",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, chill",Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, chill",Halocarbon bank: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, chill",Halocarbon bank: HFC-152a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, chill",Halocarbon bank: HFC-32,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, chill",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, chill",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, chill",Halocarbon in products at disposal: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, chill",Halocarbon in products at disposal: HFC-152a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, chill",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, chill",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, chill",Halocarbon used for manufacturing: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, chill",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, frozen",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, frozen",Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, frozen",Halocarbon bank: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, frozen",Halocarbon bank: HFC-32,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, frozen",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, frozen",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, frozen",Halocarbon in products at disposal: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, frozen",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, frozen",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, frozen",Halocarbon used for manufacturing: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, large, frozen",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, chill",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, chill",Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, chill",Halocarbon bank: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, chill",Halocarbon bank: HFC-152a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, chill",Halocarbon bank: HFC-32,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, chill",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, chill",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, chill",Halocarbon in products at disposal: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, chill",Halocarbon in products at disposal: HFC-152a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, chill",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, chill",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, chill",Halocarbon used for manufacturing: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, chill",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, frozen",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, frozen",Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, frozen",Halocarbon bank: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, frozen",Halocarbon bank: HFC-32,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, frozen",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, frozen",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, frozen",Halocarbon in products at disposal: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, frozen",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, frozen",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, frozen",Halocarbon used for manufacturing: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, mid-size, frozen",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, chill",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, chill",Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, chill",Halocarbon bank: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, chill",Halocarbon bank: HFC-152a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, chill",Halocarbon bank: HFC-32,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, chill",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, chill",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, chill",Halocarbon in products at disposal: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, chill",Halocarbon in products at disposal: HFC-152a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, chill",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, chill",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, chill",Halocarbon used for manufacturing: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, chill",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, frozen",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, frozen",Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, frozen",Halocarbon bank: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, frozen",Halocarbon bank: HFC-32,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, frozen",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, frozen",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, frozen",Halocarbon in products at disposal: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, frozen",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, frozen",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, frozen",Halocarbon used for manufacturing: HFC-143a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial DX systems, small, frozen",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial flooded systems, large, chill",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial flooded systems, large, chill",Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial flooded systems, large, chill",Halocarbon bank: HFC-152a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial flooded systems, large, chill",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial flooded systems, large, chill",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial flooded systems, large, chill",Halocarbon in products at disposal: HFC-152a,Business,F-gases,Refrigeration
+2F1c,"Industrial Refrigeration: Industrial flooded systems, large, chill",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for large trucks, iso-containers",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for large trucks, iso-containers",Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for large trucks, iso-containers",Halocarbon bank: HFC-143a,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for large trucks, iso-containers",Halocarbon bank: HFC-32,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for large trucks, iso-containers",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for large trucks, iso-containers",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for large trucks, iso-containers",Halocarbon in products at disposal: HFC-143a,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for large trucks, iso-containers",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for large trucks, iso-containers",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for large trucks, iso-containers",Halocarbon used for manufacturing: HFC-143a,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for large trucks, iso-containers",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Refrigeration
+2F1d,Transport Refrigeration: Systems for marine vessels,Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1d,Transport Refrigeration: Systems for marine vessels,Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1d,Transport Refrigeration: Systems for marine vessels,Halocarbon bank: HFC-143a,Business,F-gases,Refrigeration
+2F1d,Transport Refrigeration: Systems for marine vessels,Halocarbon bank: HFC-152a,Business,F-gases,Refrigeration
+2F1d,Transport Refrigeration: Systems for marine vessels,Halocarbon bank: HFC-32,Business,F-gases,Refrigeration
+2F1d,Transport Refrigeration: Systems for marine vessels,Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1d,Transport Refrigeration: Systems for marine vessels,Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1d,Transport Refrigeration: Systems for marine vessels,Halocarbon in products at disposal: HFC-143a,Business,F-gases,Refrigeration
+2F1d,Transport Refrigeration: Systems for marine vessels,Halocarbon in products at disposal: HFC-152a,Business,F-gases,Refrigeration
+2F1d,Transport Refrigeration: Systems for marine vessels,Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1d,Transport Refrigeration: Systems for marine vessels,Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1d,Transport Refrigeration: Systems for marine vessels,Halocarbon used for manufacturing: HFC-143a,Business,F-gases,Refrigeration
+2F1d,Transport Refrigeration: Systems for marine vessels,Halocarbon used for manufacturing: HFC-32,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for vans, light trucks",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for vans, light trucks",Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for vans, light trucks",Halocarbon bank: HFC-143a,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for vans, light trucks",Halocarbon bank: HFC-32,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for vans, light trucks",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for vans, light trucks",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for vans, light trucks",Halocarbon in products at disposal: HFC-143a,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for vans, light trucks",Halocarbon in products at disposal: HFC-32,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for vans, light trucks",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for vans, light trucks",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for vans, light trucks",Halocarbon used for manufacturing: HFC-143a,Business,F-gases,Refrigeration
+2F1d,"Transport Refrigeration: Systems for vans, light trucks",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Refrigeration
+2F1e,"Mobile Air-Conditioning: MAC systems - buses, trains",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1e,"Mobile Air-Conditioning: MAC systems - buses, trains",Halocarbon bank: HFC-134a,Business,F-gases,Air conditioning
+2F1e,"Mobile Air-Conditioning: MAC systems - buses, trains",Halocarbon bank: HFC-32,Business,F-gases,Air conditioning
+2F1e,"Mobile Air-Conditioning: MAC systems - buses, trains",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1e,"Mobile Air-Conditioning: MAC systems - buses, trains",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Air conditioning
+2F1e,"Mobile Air-Conditioning: MAC systems - buses, trains",Halocarbon in products at disposal: HFC-32,Business,F-gases,Air conditioning
+2F1e,"Mobile Air-Conditioning: MAC systems - buses, trains",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1e,"Mobile Air-Conditioning: MAC systems - buses, trains",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Air conditioning
+2F1e,"Mobile Air-Conditioning: MAC systems - buses, trains",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Air conditioning
+2F1e,"Mobile Air-Conditioning: MAC systems - cars, vans, cabs",Halocarbon bank: HFC-134a,Business,F-gases,Air conditioning
+2F1e,"Mobile Air-Conditioning: MAC systems - cars, vans, cabs",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Air conditioning
+2F1e,"Mobile Air-Conditioning: MAC systems - cars, vans, cabs",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, large",Halocarbon bank: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, large",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, large",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, mid-size",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC chillers, mid-size",Halocarbon bank: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, mid-size",Halocarbon bank: HFC-152a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, mid-size",Halocarbon bank: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, mid-size",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC chillers, mid-size",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, mid-size",Halocarbon in products at disposal: HFC-152a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, mid-size",Halocarbon in products at disposal: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, mid-size",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC chillers, mid-size",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, mid-size",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, small",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC chillers, small",Halocarbon bank: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, small",Halocarbon bank: HFC-152a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, small",Halocarbon bank: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, small",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC chillers, small",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, small",Halocarbon in products at disposal: HFC-152a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, small",Halocarbon in products at disposal: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, small",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC chillers, small",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC chillers, small",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Air conditioning
+2F1f,Stationary Air-Conditioning: AC integral systems (e.g. window units),Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1f,Stationary Air-Conditioning: AC integral systems (e.g. window units),Halocarbon bank: HFC-134a,Business,F-gases,Air conditioning
+2F1f,Stationary Air-Conditioning: AC integral systems (e.g. window units),Halocarbon bank: HFC-32,Business,F-gases,Air conditioning
+2F1f,Stationary Air-Conditioning: AC integral systems (e.g. window units),Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1f,Stationary Air-Conditioning: AC integral systems (e.g. window units),Halocarbon in products at disposal: HFC-134a,Business,F-gases,Air conditioning
+2F1f,Stationary Air-Conditioning: AC integral systems (e.g. window units),Halocarbon in products at disposal: HFC-32,Business,F-gases,Air conditioning
+2F1f,Stationary Air-Conditioning: AC integral systems (e.g. window units),Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1f,Stationary Air-Conditioning: AC integral systems (e.g. window units),Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Air conditioning
+2F1f,Stationary Air-Conditioning: AC integral systems (e.g. window units),Halocarbon used for manufacturing: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC roof-top units, large",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC roof-top units, large",Halocarbon bank: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC roof-top units, large",Halocarbon bank: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC roof-top units, large",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC roof-top units, large",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC roof-top units, large",Halocarbon in products at disposal: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC roof-top units, large",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC roof-top units, large",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC roof-top units, large",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC roof-top units, small",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC roof-top units, small",Halocarbon bank: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC roof-top units, small",Halocarbon bank: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC roof-top units, small",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC roof-top units, small",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC roof-top units, small",Halocarbon in products at disposal: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC roof-top units, small",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC roof-top units, small",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC roof-top units, small",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, large",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC split systems, large",Halocarbon bank: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, large",Halocarbon bank: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, large",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC split systems, large",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, large",Halocarbon in products at disposal: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, large",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC split systems, large",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, large",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, mid-size",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC split systems, mid-size",Halocarbon bank: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, mid-size",Halocarbon bank: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, mid-size",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC split systems, mid-size",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, mid-size",Halocarbon in products at disposal: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, mid-size",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC split systems, mid-size",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, mid-size",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, small",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC split systems, small",Halocarbon bank: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, small",Halocarbon bank: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, small",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC split systems, small",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, small",Halocarbon in products at disposal: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, small",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC split systems, small",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC split systems, small",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC VRF systems, small",Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC VRF systems, small",Halocarbon bank: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC VRF systems, small",Halocarbon bank: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC VRF systems, small",Halocarbon in products at disposal: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC VRF systems, small",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC VRF systems, small",Halocarbon in products at disposal: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC VRF systems, small",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Refrigeration
+2F1f,"Stationary Air-Conditioning: AC VRF systems, small",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: AC VRF systems, small",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Air conditioning
+2F1f,"Stationary Air-Conditioning: Heat pumps, large",Halocarbon bank: HFC-125,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, large",Halocarbon bank: HFC-134a,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, large",Halocarbon bank: HFC-32,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, large",Halocarbon in products at disposal: HFC-125,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, large",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, large",Halocarbon in products at disposal: HFC-32,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, large",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, large",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, large",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, mid-size",Halocarbon bank: HFC-125,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, mid-size",Halocarbon bank: HFC-134a,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, mid-size",Halocarbon bank: HFC-32,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, mid-size",Halocarbon in products at disposal: HFC-125,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, mid-size",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, mid-size",Halocarbon in products at disposal: HFC-32,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, mid-size",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, mid-size",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, mid-size",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, small",Halocarbon bank: HFC-125,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, small",Halocarbon bank: HFC-134a,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, small",Halocarbon bank: HFC-32,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, small",Halocarbon in products at disposal: HFC-125,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, small",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, small",Halocarbon in products at disposal: HFC-32,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, small",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, small",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, small",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, very small (domestic)",Halocarbon bank: HFC-125,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, very small (domestic)",Halocarbon bank: HFC-134a,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, very small (domestic)",Halocarbon bank: HFC-32,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, very small (domestic)",Halocarbon in products at disposal: HFC-125,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, very small (domestic)",Halocarbon in products at disposal: HFC-134a,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, very small (domestic)",Halocarbon in products at disposal: HFC-32,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, very small (domestic)",Halocarbon used for manufacturing: HFC-125,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, very small (domestic)",Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Heat pumps
+2F1f,"Stationary Air-Conditioning: Heat pumps, very small (domestic)",Halocarbon used for manufacturing: HFC-32,Business,F-gases,Heat pumps
+2F2a,Closed foams,Halocarbon bank: HFC-134a,Business,F-gases,Other F-gases
+2F2a,Closed foams,Halocarbon bank: HFC-152a,Business,F-gases,Other F-gases
+2F2a,Closed foams,Halocarbon bank: HFC-227ea,Business,F-gases,Other F-gases
+2F2a,Closed foams,Halocarbon bank: HFC-245fa,Business,F-gases,Other F-gases
+2F2a,Closed foams,Halocarbon bank: HFC-365mfc,Business,F-gases,Other F-gases
+2F2a,Closed foams,Halocarbon in products at disposal: HFC-227ea,Business,F-gases,Other F-gases
+2F2a,Closed foams,Halocarbon in products at disposal: HFC-245fa,Business,F-gases,Other F-gases
+2F2a,Closed foams,Halocarbon in products at disposal: HFC-365mfc,Business,F-gases,Other F-gases
+2F2a,Closed foams,Halocarbon used for manufacturing: HFC-134a,Business,F-gases,Other F-gases
+2F2a,Closed foams,Halocarbon used for manufacturing: HFC-152a,Business,F-gases,Other F-gases
+2F2a,Closed foams,Halocarbon used for manufacturing: HFC-227ea,Business,F-gases,Other F-gases
+2F2a,Closed foams,Halocarbon used for manufacturing: HFC-245fa,Business,F-gases,Other F-gases
+2F2a,Closed foams,Halocarbon used for manufacturing: HFC-365mfc,Business,F-gases,Other F-gases
+2F2b,One Component Foams,Non-fuel combustion,Business,F-gases,Other F-gases
+2F3,Firefighting,Halocarbon bank: C4F10,Business,F-gases,Other F-gases
+2F3,Firefighting,Halocarbon bank: HFC-227ea,Business,F-gases,Other F-gases
+2F3,Firefighting,Halocarbon in products at disposal: C4F10,Business,F-gases,Other F-gases
+2F3,Firefighting,Halocarbon in products at disposal: HFC-227ea,Business,F-gases,Other F-gases
+2F3,Firefighting,Halocarbon used for manufacturing: C4F10,Business,F-gases,Other F-gases
+2F4a,Metered dose inhalers,Halocarbon bank: HFC-134a,Residential,F-gases,Metered-dose inhalers
+2F4a,Metered dose inhalers,Halocarbon bank: HFC-227ea,Residential,F-gases,Metered-dose inhalers
+2F4b,Aerosols other than metered dose inhalers,Halocarbon bank: HFC-134a,Residential,F-gases,Other F-gases
+2F4b,Aerosols other than metered dose inhalers,Halocarbon bank: HFC-152a,Residential,F-gases,Other F-gases
+2F5,Precision cleaning,Halocarbon use: HFC-43-10mee,Business,F-gases,Other F-gases
+2F6b,F-gas handling,Non-fuel combustion,Business,F-gases,Other F-gases
+2F6b,Transport and distribution of refrigerants,Halocarbon bank: HFC-125,Business,F-gases,Refrigeration
+2F6b,Transport and distribution of refrigerants,Halocarbon bank: HFC-134a,Business,F-gases,Refrigeration
+2F6b,Transport and distribution of refrigerants,Halocarbon bank: HFC-143a,Business,F-gases,Refrigeration
+2F6b,Transport and distribution of refrigerants,Halocarbon bank: HFC-152a,Business,F-gases,Refrigeration
+2F6b,Transport and distribution of refrigerants,Halocarbon bank: HFC-227ea,Business,F-gases,Refrigeration
+2F6b,Transport and distribution of refrigerants,Halocarbon bank: HFC-32,Business,F-gases,Refrigeration
+2G1,Electrical insulation,Halocarbon bank: SF6,Business,F-gases,Other F-gases
+2G2a,Airborne Warning And Control Systems,Active Aircraft,Business,F-gases,Other F-gases
+2G2b,Particle accelerators,Halocarbon use: SF6,Business,F-gases,Other F-gases
+2G2e,Electronics and shoes,Non-fuel combustion,Business,F-gases,Other F-gases
+2G2e,Tracer gas,Halocarbon use: SF6,Business,F-gases,Other F-gases
+2G3a,N2O use as an anaesthetic,Population,Business,Non-residential buildings,Public
+2G3b,Other food - cream consumption,Process emission,Industrial processes,Industry,Industry
+2G3b,Recreational use of N2O,Process emission,Residential,Industry,Industry
+2G4,Chemical Industry - other process sources,Process emission,Industrial processes,Industry,Industry
+3A1a,Enteric,Dairy - Dairy Cows,Agriculture,Agriculture,Enteric fermentation
+3A1b,Enteric,Other cattle - Beef females for slaughter,Agriculture,Agriculture,Enteric fermentation
+3A1b,Enteric,Other cattle - Bulls for breeding,Agriculture,Agriculture,Enteric fermentation
+3A1b,Enteric,Other cattle - Cereal fed bull,Agriculture,Agriculture,Enteric fermentation
+3A1b,Enteric,Other cattle - Cows,Agriculture,Agriculture,Enteric fermentation
+3A1b,Enteric,Other cattle - Dairy Calves Female,Agriculture,Agriculture,Enteric fermentation
+3A1b,Enteric,Other cattle - Dairy In Calf Heifers,Agriculture,Agriculture,Enteric fermentation
+3A1b,Enteric,Other cattle - Dairy Replacements Female,Agriculture,Agriculture,Enteric fermentation
+3A1b,Enteric,Other cattle - Heifers for breeding,Agriculture,Agriculture,Enteric fermentation
+3A1b,Enteric,Other cattle - Steers,Agriculture,Agriculture,Enteric fermentation
+3A2,Enteric,Sheep - Ewe,Agriculture,Agriculture,Enteric fermentation
+3A2,Enteric,Sheep - Lamb,Agriculture,Agriculture,Enteric fermentation
+3A2,Enteric,Sheep - Ram,Agriculture,Agriculture,Enteric fermentation
+3A3,Enteric,Pig - Boar,Agriculture,Agriculture,Enteric fermentation
+3A3,Enteric,Pig - Fattening Pig < 20 kg,Agriculture,Agriculture,Enteric fermentation
+3A3,Enteric,Pig - Fattening Pig > 80 kg,Agriculture,Agriculture,Enteric fermentation
+3A3,Enteric,Pig - Fattening Pig 20 to 80 kg,Agriculture,Agriculture,Enteric fermentation
+3A3,Enteric,Pig - Gilt,Agriculture,Agriculture,Enteric fermentation
+3A3,Enteric,Pig - Sow,Agriculture,Agriculture,Enteric fermentation
+3A4,Enteric,Agricultural Horses,Agriculture,Agriculture,Enteric fermentation
+3A4,Enteric,Deer,Agriculture,Agriculture,Enteric fermentation
+3A4,Enteric,Domestic Horses,Agriculture,Agriculture,Enteric fermentation
+3A4,Enteric,Goats,Agriculture,Agriculture,Enteric fermentation
+3A4,Enteric,Professional Horses,Agriculture,Agriculture,Enteric fermentation
+3B11a,Digestate,Dairy - Dairy Cows,Agriculture,Agriculture,Waste and manure management
+3B11a,Excreta,Dairy - Dairy Cows,Agriculture,Agriculture,Waste and manure management
+3B11a,Managed Manure,Dairy - Dairy Cows,Agriculture,Agriculture,Waste and manure management
+3B11b,Digestate,Other cattle - Beef females for slaughter,Agriculture,Agriculture,Waste and manure management
+3B11b,Digestate,Other cattle - Bulls for breeding,Agriculture,Agriculture,Waste and manure management
+3B11b,Digestate,Other cattle - Cereal fed bull,Agriculture,Agriculture,Waste and manure management
+3B11b,Digestate,Other cattle - Cows,Agriculture,Agriculture,Waste and manure management
+3B11b,Digestate,Other cattle - Dairy Calves Female,Agriculture,Agriculture,Waste and manure management
+3B11b,Digestate,Other cattle - Dairy In Calf Heifers,Agriculture,Agriculture,Waste and manure management
+3B11b,Digestate,Other cattle - Dairy Replacements Female,Agriculture,Agriculture,Waste and manure management
+3B11b,Digestate,Other cattle - Heifers for breeding,Agriculture,Agriculture,Waste and manure management
+3B11b,Digestate,Other cattle - Steers,Agriculture,Agriculture,Waste and manure management
+3B11b,Excreta,Other cattle - Beef females for slaughter,Agriculture,Agriculture,Waste and manure management
+3B11b,Excreta,Other cattle - Bulls for breeding,Agriculture,Agriculture,Waste and manure management
+3B11b,Excreta,Other cattle - Cereal fed bull,Agriculture,Agriculture,Waste and manure management
+3B11b,Excreta,Other cattle - Cows,Agriculture,Agriculture,Waste and manure management
+3B11b,Excreta,Other cattle - Dairy Calves Female,Agriculture,Agriculture,Waste and manure management
+3B11b,Excreta,Other cattle - Dairy In Calf Heifers,Agriculture,Agriculture,Waste and manure management
+3B11b,Excreta,Other cattle - Dairy Replacements Female,Agriculture,Agriculture,Waste and manure management
+3B11b,Excreta,Other cattle - Heifers for breeding,Agriculture,Agriculture,Waste and manure management
+3B11b,Excreta,Other cattle - Steers,Agriculture,Agriculture,Waste and manure management
+3B11b,Managed Manure,Other cattle - Beef females for slaughter,Agriculture,Agriculture,Waste and manure management
+3B11b,Managed Manure,Other cattle - Bulls for breeding,Agriculture,Agriculture,Waste and manure management
+3B11b,Managed Manure,Other cattle - Cereal fed bull,Agriculture,Agriculture,Waste and manure management
+3B11b,Managed Manure,Other cattle - Cows,Agriculture,Agriculture,Waste and manure management
+3B11b,Managed Manure,Other cattle - Dairy Calves Female,Agriculture,Agriculture,Waste and manure management
+3B11b,Managed Manure,Other cattle - Dairy In Calf Heifers,Agriculture,Agriculture,Waste and manure management
+3B11b,Managed Manure,Other cattle - Dairy Replacements Female,Agriculture,Agriculture,Waste and manure management
+3B11b,Managed Manure,Other cattle - Heifers for breeding,Agriculture,Agriculture,Waste and manure management
+3B11b,Managed Manure,Other cattle - Steers,Agriculture,Agriculture,Waste and manure management
+3B12,Excreta,Sheep - Ewe,Agriculture,Agriculture,Waste and manure management
+3B12,Excreta,Sheep - Lamb,Agriculture,Agriculture,Waste and manure management
+3B12,Excreta,Sheep - Ram,Agriculture,Agriculture,Waste and manure management
+3B12,Managed Manure,Sheep - Ewe,Agriculture,Agriculture,Waste and manure management
+3B12,Managed Manure,Sheep - Lamb,Agriculture,Agriculture,Waste and manure management
+3B12,Managed Manure,Sheep - Ram,Agriculture,Agriculture,Waste and manure management
+3B13,Digestate,Pig - Boar,Agriculture,Agriculture,Waste and manure management
+3B13,Digestate,Pig - Fattening Pig < 20 kg,Agriculture,Agriculture,Waste and manure management
+3B13,Digestate,Pig - Fattening Pig > 80 kg,Agriculture,Agriculture,Waste and manure management
+3B13,Digestate,Pig - Fattening Pig 20 to 80 kg,Agriculture,Agriculture,Waste and manure management
+3B13,Digestate,Pig - Gilt,Agriculture,Agriculture,Waste and manure management
+3B13,Digestate,Pig - Sow,Agriculture,Agriculture,Waste and manure management
+3B13,Excreta,Pig - Boar,Agriculture,Agriculture,Waste and manure management
+3B13,Excreta,Pig - Fattening Pig < 20 kg,Agriculture,Agriculture,Waste and manure management
+3B13,Excreta,Pig - Fattening Pig > 80 kg,Agriculture,Agriculture,Waste and manure management
+3B13,Excreta,Pig - Fattening Pig 20 to 80 kg,Agriculture,Agriculture,Waste and manure management
+3B13,Excreta,Pig - Gilt,Agriculture,Agriculture,Waste and manure management
+3B13,Excreta,Pig - Sow,Agriculture,Agriculture,Waste and manure management
+3B13,Managed Manure,Pig - Boar,Agriculture,Agriculture,Waste and manure management
+3B13,Managed Manure,Pig - Fattening Pig < 20 kg,Agriculture,Agriculture,Waste and manure management
+3B13,Managed Manure,Pig - Fattening Pig > 80 kg,Agriculture,Agriculture,Waste and manure management
+3B13,Managed Manure,Pig - Fattening Pig 20 to 80 kg,Agriculture,Agriculture,Waste and manure management
+3B13,Managed Manure,Pig - Gilt,Agriculture,Agriculture,Waste and manure management
+3B13,Managed Manure,Pig - Sow,Agriculture,Agriculture,Waste and manure management
+3B14,Digestate,Poultry - Breeding Flock,Agriculture,Agriculture,Waste and manure management
+3B14,Digestate,Poultry - Broilers,Agriculture,Agriculture,Waste and manure management
+3B14,Digestate,Poultry - Ducks,Agriculture,Agriculture,Waste and manure management
+3B14,Digestate,Poultry - Geese,Agriculture,Agriculture,Waste and manure management
+3B14,Digestate,Poultry - Growing Pullets,Agriculture,Agriculture,Waste and manure management
+3B14,Digestate,Poultry - Laying Hens,Agriculture,Agriculture,Waste and manure management
+3B14,Digestate,Poultry - Other,Agriculture,Agriculture,Waste and manure management
+3B14,Digestate,Poultry - Turkeys,Agriculture,Agriculture,Waste and manure management
+3B14,Excreta,Agricultural Horses,Agriculture,Agriculture,Waste and manure management
+3B14,Excreta,Deer,Agriculture,Agriculture,Waste and manure management
+3B14,Excreta,Domestic Horses,Agriculture,Agriculture,Waste and manure management
+3B14,Excreta,Goats,Agriculture,Agriculture,Waste and manure management
+3B14,Excreta,Poultry - Breeding Flock,Agriculture,Agriculture,Waste and manure management
+3B14,Excreta,Poultry - Broilers,Agriculture,Agriculture,Waste and manure management
+3B14,Excreta,Poultry - Ducks,Agriculture,Agriculture,Waste and manure management
+3B14,Excreta,Poultry - Geese,Agriculture,Agriculture,Waste and manure management
+3B14,Excreta,Poultry - Growing Pullets,Agriculture,Agriculture,Waste and manure management
+3B14,Excreta,Poultry - Laying Hens,Agriculture,Agriculture,Waste and manure management
+3B14,Excreta,Poultry - Other,Agriculture,Agriculture,Waste and manure management
+3B14,Excreta,Poultry - Turkeys,Agriculture,Agriculture,Waste and manure management
+3B14,Excreta,Professional Horses,Agriculture,Agriculture,Waste and manure management
+3B14,Managed Manure,Agricultural Horses,Agriculture,Agriculture,Waste and manure management
+3B14,Managed Manure,Deer,Agriculture,Agriculture,Waste and manure management
+3B14,Managed Manure,Domestic Horses,Agriculture,Agriculture,Waste and manure management
+3B14,Managed Manure,Goats,Agriculture,Agriculture,Waste and manure management
+3B14,Managed Manure,Poultry - Breeding Flock,Agriculture,Agriculture,Waste and manure management
+3B14,Managed Manure,Poultry - Broilers,Agriculture,Agriculture,Waste and manure management
+3B14,Managed Manure,Poultry - Ducks,Agriculture,Agriculture,Waste and manure management
+3B14,Managed Manure,Poultry - Geese,Agriculture,Agriculture,Waste and manure management
+3B14,Managed Manure,Poultry - Growing Pullets,Agriculture,Agriculture,Waste and manure management
+3B14,Managed Manure,Poultry - Laying Hens,Agriculture,Agriculture,Waste and manure management
+3B14,Managed Manure,Poultry - Other,Agriculture,Agriculture,Waste and manure management
+3B14,Managed Manure,Poultry - Turkeys,Agriculture,Agriculture,Waste and manure management
+3B14,Managed Manure,Professional Horses,Agriculture,Agriculture,Waste and manure management
+3B21a,Dairy - Dairy Cows - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B21b,Other cattle - Beef females for slaughter - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B21b,Other cattle - Bulls for breeding - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B21b,Other cattle - Cereal fed bull - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B21b,Other cattle - Cows - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B21b,Other cattle - Dairy Calves Female - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B21b,Other cattle - Dairy In Calf Heifers - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B21b,Other cattle - Dairy Replacements Female - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B21b,Other cattle - Heifers for breeding - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B21b,Other cattle - Steers - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B22,Sheep - Ewe - Direct,Storage,Agriculture,Agriculture,Waste and manure management
+3B22,Sheep - Lamb - Direct,Storage,Agriculture,Agriculture,Waste and manure management
+3B22,Sheep - Ram - Direct,Storage,Agriculture,Agriculture,Waste and manure management
+3B23,Pig - Boar - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B23,Pig - Fattening Pig < 20 kg - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B23,Pig - Fattening Pig > 80 kg - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B23,Pig - Fattening Pig 20 to 80 kg - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B23,Pig - Gilt - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B23,Pig - Sow - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B24,Agricultural Horses - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B24,Deer - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B24,Domestic Horses - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B24,Goats - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B24,Poultry - Breeding Flock - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B24,Poultry - Broilers - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B24,Poultry - Ducks - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B24,Poultry - Geese - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B24,Poultry - Growing Pullets - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B24,Poultry - Laying Hens - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B24,Poultry - Other - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B24,Poultry - Turkeys - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B24,Professional Horses - Direct,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Agricultural Horses - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Agricultural Horses - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Agricultural Horses - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Dairy - Dairy Cows - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Dairy - Dairy Cows - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Dairy - Dairy Cows - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Dairy - Dairy Cows - Indirect Deposition,Yarding,Agriculture,Agriculture,Waste and manure management
+3B25,Dairy - Dairy Cows - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Deer - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Deer - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Deer - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Domestic Horses - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Domestic Horses - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Domestic Horses - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Goats - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Goats - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Goats - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Beef females for slaughter - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Beef females for slaughter - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Beef females for slaughter - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Beef females for slaughter - Indirect Deposition,Yarding,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Beef females for slaughter - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Bulls for breeding - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Bulls for breeding - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Bulls for breeding - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Bulls for breeding - Indirect Deposition,Yarding,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Bulls for breeding - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Cereal fed bull - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Cereal fed bull - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Cereal fed bull - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Cereal fed bull - Indirect Deposition,Yarding,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Cereal fed bull - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Cows - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Cows - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Cows - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Cows - Indirect Deposition,Yarding,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Cows - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Dairy Calves Female - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Dairy Calves Female - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Dairy Calves Female - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Dairy Calves Female - Indirect Deposition,Yarding,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Dairy Calves Female - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Dairy In Calf Heifers - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Dairy In Calf Heifers - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Dairy In Calf Heifers - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Dairy In Calf Heifers - Indirect Deposition,Yarding,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Dairy In Calf Heifers - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Dairy Replacements Female - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Dairy Replacements Female - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Dairy Replacements Female - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Dairy Replacements Female - Indirect Deposition,Yarding,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Dairy Replacements Female - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Heifers for breeding - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Heifers for breeding - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Heifers for breeding - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Heifers for breeding - Indirect Deposition,Yarding,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Heifers for breeding - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Steers - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Steers - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Steers - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Steers - Indirect Deposition,Yarding,Agriculture,Agriculture,Waste and manure management
+3B25,Other cattle - Steers - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Boar - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Boar - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Boar - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Boar - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Fattening Pig < 20 kg - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Fattening Pig < 20 kg - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Fattening Pig < 20 kg - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Fattening Pig < 20 kg - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Fattening Pig > 80 kg - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Fattening Pig > 80 kg - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Fattening Pig > 80 kg - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Fattening Pig > 80 kg - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Fattening Pig 20 to 80 kg - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Fattening Pig 20 to 80 kg - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Fattening Pig 20 to 80 kg - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Fattening Pig 20 to 80 kg - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Gilt - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Gilt - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Gilt - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Gilt - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Sow - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Sow - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Sow - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Pig - Sow - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Breeding Flock - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Breeding Flock - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Breeding Flock - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Breeding Flock - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Broilers - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Broilers - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Broilers - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Broilers - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Ducks - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Ducks - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Ducks - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Ducks - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Geese - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Geese - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Geese - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Geese - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Growing Pullets - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Growing Pullets - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Growing Pullets - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Growing Pullets - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Laying Hens - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Laying Hens - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Laying Hens - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Laying Hens - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Other - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Other - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Other - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Other - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Turkeys - Digestate Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Turkeys - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Turkeys - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Poultry - Turkeys - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Professional Horses - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Professional Horses - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Professional Horses - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Sheep - Ewe - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Sheep - Ewe - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Sheep - Ewe - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Sheep - Lamb - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Sheep - Lamb - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Sheep - Lamb - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Sheep - Ram - Indirect Deposition,Housing,Agriculture,Agriculture,Waste and manure management
+3B25,Sheep - Ram - Indirect Deposition,Storage,Agriculture,Agriculture,Waste and manure management
+3B25,Sheep - Ram - Indirect Leach,Storage,Agriculture,Agriculture,Waste and manure management
+3D11,Arable - Direct,Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D11,Arable - Direct,Ammonium Sulphate and Diammonium Phosphate Application,Agriculture,Agriculture,Soils
+3D11,Arable - Direct,Calcium Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D11,Arable - Direct,Other Nitrogen Including Compounds Application,Agriculture,Agriculture,Soils
+3D11,Arable - Direct,Urea Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D11,Arable - Direct,Urea Application,Agriculture,Agriculture,Soils
+3D11,Grass - Direct,Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D11,Grass - Direct,Ammonium Sulphate and Diammonium Phosphate Application,Agriculture,Agriculture,Soils
+3D11,Grass - Direct,Calcium Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D11,Grass - Direct,Other Nitrogen Including Compounds Application,Agriculture,Agriculture,Soils
+3D11,Grass - Direct,Urea Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D11,Grass - Direct,Urea Application,Agriculture,Agriculture,Soils
+3D12a,Agricultural Horses - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Dairy - Dairy Cows - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Deer - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Domestic Horses - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Goats - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Other cattle - Beef females for slaughter - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Other cattle - Bulls for breeding - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Other cattle - Cereal fed bull - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Other cattle - Cows - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Other cattle - Dairy Calves Female - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Other cattle - Dairy In Calf Heifers - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Other cattle - Dairy Replacements Female - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Other cattle - Heifers for breeding - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Other cattle - Steers - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Pig - Boar - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Pig - Fattening Pig < 20 kg - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Pig - Fattening Pig > 80 kg - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Pig - Fattening Pig 20 to 80 kg - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Pig - Gilt - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Pig - Sow - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Poultry - Breeding Flock - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Poultry - Broilers - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Poultry - Ducks - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Poultry - Geese - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Poultry - Growing Pullets - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Poultry - Laying Hens - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Poultry - Other - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Poultry - Turkeys - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Professional Horses - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Sheep - Ewe - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Sheep - Lamb - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12a,Sheep - Ram - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12b,Sewage Sludge Cake - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12b,Sewage Sludge Liquid - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Beef females for slaughter - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Boar - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Broilers - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Bulls for breeding - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Cereal fed bull - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Cows - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Crop Digestates - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Dairy Calves Female - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Dairy Cows - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Dairy In Calf Heifers - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Dairy Replacements Female - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Fattening Pig < 20 kg - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Fattening Pig > 80 kg - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Fattening Pig 20 to 80 kg - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Food Digestates - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Gilt - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Heifers for breeding - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Laying Hens - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Other organic residue Digestates - Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Poultry - Breeding Flock - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Poultry - Ducks - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Poultry - Geese - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Poultry - Growing Pullets - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Poultry - Other - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Sow - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Steers - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D12c,Turkeys - Digestate Direct,Spreading,Agriculture,Agriculture,Soils
+3D13,Agricultural Horses - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Dairy - Dairy Cows - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Deer - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Domestic Horses - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Goats - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Other cattle - Beef females for slaughter - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Other cattle - Bulls for breeding - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Other cattle - Cereal fed bull - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Other cattle - Cows - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Other cattle - Dairy Calves Female - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Other cattle - Dairy In Calf Heifers - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Other cattle - Dairy Replacements Female - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Other cattle - Heifers for breeding - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Other cattle - Steers - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Pig - Boar - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Pig - Fattening Pig < 20 kg - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Pig - Fattening Pig > 80 kg - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Pig - Fattening Pig 20 to 80 kg - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Pig - Gilt - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Pig - Sow - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Poultry - Breeding Flock - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Poultry - Broilers - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Poultry - Ducks - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Poultry - Geese - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Poultry - Growing Pullets - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Poultry - Laying Hens - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Poultry - Other - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Poultry - Turkeys - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Professional Horses - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Sheep - Ewe - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Sheep - Lamb - Direct,Grazing,Agriculture,Agriculture,Soils
+3D13,Sheep - Ram - Direct,Grazing,Agriculture,Agriculture,Soils
+3D14,Arable - Direct,Ammonium Nitrate Residue,Agriculture,Agriculture,Soils
+3D14,Arable - Direct,Ammonium Sulphate and Diammonium Phosphate Residue,Agriculture,Agriculture,Soils
+3D14,Arable - Direct,Calcium Ammonium Nitrate Residue,Agriculture,Agriculture,Soils
+3D14,Arable - Direct,No Nitrogen Fertiliser Applied Residue,Agriculture,Agriculture,Soils
+3D14,Arable - Direct,Other Nitrogen Including Compounds Residue,Agriculture,Agriculture,Soils
+3D14,Arable - Direct,Urea Ammonium Nitrate Residue,Agriculture,Agriculture,Soils
+3D14,Arable - Direct,Urea Residue,Agriculture,Agriculture,Soils
+3D14,Grass - Direct,Ammonium Nitrate Residue,Agriculture,Agriculture,Soils
+3D14,Grass - Direct,Ammonium Sulphate and Diammonium Phosphate Residue,Agriculture,Agriculture,Soils
+3D14,Grass - Direct,Calcium Ammonium Nitrate Residue,Agriculture,Agriculture,Soils
+3D14,Grass - Direct,No Nitrogen Fertiliser Applied Residue,Agriculture,Agriculture,Soils
+3D14,Grass - Direct,Other Nitrogen Including Compounds Residue,Agriculture,Agriculture,Soils
+3D14,Grass - Direct,Urea Ammonium Nitrate Residue,Agriculture,Agriculture,Soils
+3D14,Grass - Direct,Urea Residue,Agriculture,Agriculture,Soils
+3D15,Cropland management,Mineralisation,Agriculture,Agriculture,Soils
+3D16,Managed Histosols,Land area,Agriculture,Agriculture,Soils
+3D21,Agricultural Horses - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Agricultural Horses - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Arable - Indirect Deposition,Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D21,Arable - Indirect Deposition,Ammonium Sulphate and Diammonium Phosphate Application,Agriculture,Agriculture,Soils
+3D21,Arable - Indirect Deposition,Calcium Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D21,Arable - Indirect Deposition,Other Nitrogen Including Compounds Application,Agriculture,Agriculture,Soils
+3D21,Arable - Indirect Deposition,Urea Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D21,Arable - Indirect Deposition,Urea Application,Agriculture,Agriculture,Soils
+3D21,Crop Digestates - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Dairy - Dairy Cows - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Dairy - Dairy Cows - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Dairy - Dairy Cows - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Deer - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Deer - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Domestic Horses - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Domestic Horses - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Food Digestates - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Goats - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Goats - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Grass - Indirect Deposition,Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D21,Grass - Indirect Deposition,Ammonium Sulphate and Diammonium Phosphate Application,Agriculture,Agriculture,Soils
+3D21,Grass - Indirect Deposition,Calcium Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D21,Grass - Indirect Deposition,Other Nitrogen Including Compounds Application,Agriculture,Agriculture,Soils
+3D21,Grass - Indirect Deposition,Urea Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D21,Grass - Indirect Deposition,Urea Application,Agriculture,Agriculture,Soils
+3D21,Other cattle - Beef females for slaughter - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other cattle - Beef females for slaughter - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Other cattle - Beef females for slaughter - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other cattle - Bulls for breeding - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other cattle - Bulls for breeding - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Other cattle - Bulls for breeding - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other cattle - Cereal fed bull - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other cattle - Cereal fed bull - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Other cattle - Cereal fed bull - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other cattle - Cows - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other cattle - Cows - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Other cattle - Cows - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other cattle - Dairy Calves Female - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other cattle - Dairy Calves Female - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Other cattle - Dairy Calves Female - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other cattle - Dairy In Calf Heifers - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other cattle - Dairy In Calf Heifers - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Other cattle - Dairy In Calf Heifers - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other cattle - Dairy Replacements Female - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other cattle - Dairy Replacements Female - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Other cattle - Dairy Replacements Female - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other cattle - Heifers for breeding - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other cattle - Heifers for breeding - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Other cattle - Heifers for breeding - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other cattle - Steers - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other cattle - Steers - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Other cattle - Steers - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Other organic residue Digestates - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Pig - Boar - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Pig - Boar - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Pig - Boar - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Pig - Fattening Pig < 20 kg - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Pig - Fattening Pig < 20 kg - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Pig - Fattening Pig < 20 kg - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Pig - Fattening Pig > 80 kg - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Pig - Fattening Pig > 80 kg - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Pig - Fattening Pig > 80 kg - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Pig - Fattening Pig 20 to 80 kg - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Pig - Fattening Pig 20 to 80 kg - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Pig - Fattening Pig 20 to 80 kg - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Pig - Gilt - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Pig - Gilt - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Pig - Gilt - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Pig - Sow - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Pig - Sow - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Pig - Sow - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Poultry - Breeding Flock - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Poultry - Breeding Flock - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Poultry - Breeding Flock - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Poultry - Broilers - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Poultry - Broilers - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Poultry - Broilers - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Poultry - Ducks - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Poultry - Ducks - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Poultry - Ducks - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Poultry - Geese - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Poultry - Geese - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Poultry - Geese - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Poultry - Growing Pullets - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Poultry - Growing Pullets - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Poultry - Growing Pullets - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Poultry - Laying Hens - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Poultry - Laying Hens - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Poultry - Laying Hens - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Poultry - Other - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Poultry - Other - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Poultry - Other - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Poultry - Turkeys - Digestate Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Poultry - Turkeys - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Poultry - Turkeys - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Professional Horses - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Professional Horses - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Sewage Sludge Cake - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Sewage Sludge Liquid - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Sheep - Ewe - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Sheep - Ewe - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Sheep - Lamb - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Sheep - Lamb - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D21,Sheep - Ram - Indirect Deposition,Grazing,Agriculture,Agriculture,Soils
+3D21,Sheep - Ram - Indirect Deposition,Spreading,Agriculture,Agriculture,Soils
+3D22,Agricultural Horses - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Agricultural Horses - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Arable - Indirect Leach,Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D22,Arable - Indirect Leach,Ammonium Sulphate and Diammonium Phosphate Application,Agriculture,Agriculture,Soils
+3D22,Arable - Indirect Leach,Calcium Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D22,Arable - Indirect Leach,Other Nitrogen Including Compounds Application,Agriculture,Agriculture,Soils
+3D22,Arable - Indirect Leach,Urea Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D22,Arable - Indirect Leach,Urea Application,Agriculture,Agriculture,Soils
+3D22,Arable - Residue Indirect Leach,Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D22,Arable - Residue Indirect Leach,Ammonium Sulphate and Diammonium Phosphate Application,Agriculture,Agriculture,Soils
+3D22,Arable - Residue Indirect Leach,Calcium Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D22,Arable - Residue Indirect Leach,No Nitrogen Fertiliser Applied,Agriculture,Agriculture,Soils
+3D22,Arable - Residue Indirect Leach,Other Nitrogen Including Compounds Application,Agriculture,Agriculture,Soils
+3D22,Arable - Residue Indirect Leach,Urea Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D22,Arable - Residue Indirect Leach,Urea Application,Agriculture,Agriculture,Soils
+3D22,Crop Digestates - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Cropland management,Mineralisation - indirect leach,Agriculture,Agriculture,Soils
+3D22,Dairy - Dairy Cows - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Dairy - Dairy Cows - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Dairy - Dairy Cows - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Deer - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Deer - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Domestic Horses - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Domestic Horses - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Food Digestates - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Goats - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Goats - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Grass - Indirect Leach,Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D22,Grass - Indirect Leach,Ammonium Sulphate and Diammonium Phosphate Application,Agriculture,Agriculture,Soils
+3D22,Grass - Indirect Leach,Calcium Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D22,Grass - Indirect Leach,Other Nitrogen Including Compounds Application,Agriculture,Agriculture,Soils
+3D22,Grass - Indirect Leach,Urea Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D22,Grass - Indirect Leach,Urea Application,Agriculture,Agriculture,Soils
+3D22,Grass - Residue Indirect Leach,Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D22,Grass - Residue Indirect Leach,Ammonium Sulphate and Diammonium Phosphate Application,Agriculture,Agriculture,Soils
+3D22,Grass - Residue Indirect Leach,Calcium Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D22,Grass - Residue Indirect Leach,No Nitrogen Fertiliser Applied,Agriculture,Agriculture,Soils
+3D22,Grass - Residue Indirect Leach,Other Nitrogen Including Compounds Application,Agriculture,Agriculture,Soils
+3D22,Grass - Residue Indirect Leach,Urea Ammonium Nitrate Application,Agriculture,Agriculture,Soils
+3D22,Grass - Residue Indirect Leach,Urea Application,Agriculture,Agriculture,Soils
+3D22,Other cattle - Beef females for slaughter - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other cattle - Beef females for slaughter - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Other cattle - Beef females for slaughter - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other cattle - Bulls for breeding - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other cattle - Bulls for breeding - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Other cattle - Bulls for breeding - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other cattle - Cereal fed bull - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other cattle - Cereal fed bull - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Other cattle - Cereal fed bull - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other cattle - Cows - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other cattle - Cows - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Other cattle - Cows - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other cattle - Dairy Calves Female - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other cattle - Dairy Calves Female - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Other cattle - Dairy Calves Female - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other cattle - Dairy In Calf Heifers - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other cattle - Dairy In Calf Heifers - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Other cattle - Dairy In Calf Heifers - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other cattle - Dairy Replacements Female - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other cattle - Dairy Replacements Female - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Other cattle - Dairy Replacements Female - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other cattle - Heifers for breeding - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other cattle - Heifers for breeding - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Other cattle - Heifers for breeding - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other cattle - Steers - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other cattle - Steers - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Other cattle - Steers - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Other organic residue Digestates - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Pig - Boar - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Pig - Boar - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Pig - Boar - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Pig - Fattening Pig < 20 kg - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Pig - Fattening Pig < 20 kg - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Pig - Fattening Pig < 20 kg - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Pig - Fattening Pig > 80 kg - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Pig - Fattening Pig > 80 kg - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Pig - Fattening Pig > 80 kg - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Pig - Fattening Pig 20 to 80 kg - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Pig - Fattening Pig 20 to 80 kg - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Pig - Fattening Pig 20 to 80 kg - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Pig - Gilt - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Pig - Gilt - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Pig - Gilt - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Pig - Sow - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Pig - Sow - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Pig - Sow - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Poultry - Breeding Flock - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Poultry - Breeding Flock - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Poultry - Breeding Flock - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Poultry - Broilers - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Poultry - Broilers - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Poultry - Broilers - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Poultry - Ducks - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Poultry - Ducks - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Poultry - Ducks - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Poultry - Geese - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Poultry - Geese - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Poultry - Geese - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Poultry - Growing Pullets - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Poultry - Growing Pullets - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Poultry - Growing Pullets - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Poultry - Laying Hens - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Poultry - Laying Hens - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Poultry - Laying Hens - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Poultry - Other - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Poultry - Other - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Poultry - Other - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Poultry - Turkeys - Digestate Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Poultry - Turkeys - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Poultry - Turkeys - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Professional Horses - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Professional Horses - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Sewage Sludge Cake - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Sewage Sludge Liquid - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Sheep - Ewe - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Sheep - Ewe - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Sheep - Lamb - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Sheep - Lamb - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3D22,Sheep - Ram - Indirect Leach,Grazing,Agriculture,Agriculture,Soils
+3D22,Sheep - Ram - Indirect Leach,Spreading,Agriculture,Agriculture,Soils
+3F11,Field burning,Wheat residue,Agriculture,Agriculture,Other agriculture
+3F12,Field burning,Barley residue,Agriculture,Agriculture,Other agriculture
+3F14,Field burning,Oats residue,Agriculture,Agriculture,Other agriculture
+3F5,Field burning,Linseed residue,Agriculture,Agriculture,Other agriculture
+3G1,Liming,Limestone,Agriculture,Agriculture,Soils
+3G2,Liming,Dolomite,Agriculture,Agriculture,Soils
+3H,Fertiliser Application,Urea Application,Agriculture,Agriculture,Soils
+4A1,Forestry - Forest Land remaining Forest Land - Carbon stock change,Forest land remaining forest land,"Land use, land use change and forestry",Land use,Forestry
+4A1,Other LULUCF,Forest miscellaneous,"Land use, land use change and forestry",Land use,Other land use
+4A1,Peatland - Forest Land remaining Forest Land - Carbon stock change,Forest drained,"Land use, land use change and forestry",Land use,Forestry
+4A2,Forestry - Cropland converted to Forest Land - Carbon stock change,Land converted to forest land,"Land use, land use change and forestry",Land use,Forestry
+4A2,Forestry - Cropland converted to Forest Land - Direct N2O emissions from N Mineralization/Immobilization,Land converted to forest land,"Land use, land use change and forestry",Land use,Forestry
+4A2,Forestry - Direct N2O emission from N fertilisation of forest land,Land converted to forest land,"Land use, land use change and forestry",Land use,Forestry
+4A2,Forestry - Grassland converted to Forest Land - Carbon stock change,Land converted to forest land,"Land use, land use change and forestry",Land use,Forestry
+4A2,Forestry - Grassland converted to Forest Land - Direct N2O emissions from N Mineralization/Immobilization,Land converted to forest land,"Land use, land use change and forestry",Land use,Forestry
+4A2,Forestry - Settlements converted to Forest Land - Carbon stock change,Land converted to forest land,"Land use, land use change and forestry",Land use,Forestry
+4A2,Forestry - Settlements converted to Forest Land - Direct N2O emissions from N Mineralization/Immobilization,Land converted to forest land,"Land use, land use change and forestry",Land use,Forestry
+4A2,Peatland - Cropland converted to Forest Land - Carbon stock change,Forest drained,"Land use, land use change and forestry",Land use,Forestry
+4A2,Peatland - Grassland converted to Forest Land - Carbon stock change,Forest drained,"Land use, land use change and forestry",Land use,Forestry
+4A2,Peatland - Settlements converted to Forest Land - Carbon stock change,Forest drained,"Land use, land use change and forestry",Land use,Forestry
+4A,Forestry - Forest Land - Drainage and rewetting and other management of organic and mineral soils,Forest land remaining forest land,"Land use, land use change and forestry",Land use,Forestry
+4A,Peatland - Forest Land - Drainage and rewetting and other management of organic and mineral soils,Forest drained,"Land use, land use change and forestry",Land use,Forestry
+4B1,Bioenergy crops,Miscanthus,"Land use, land use change and forestry",Land use,Bioenergy crops
+4B1,Bioenergy crops,Short rotation coppice,"Land use, land use change and forestry",Land use,Bioenergy crops
+4B1,Cropland mineral soils change,Cropland remaining cropland,"Land use, land use change and forestry",Land use,Cropland
+4B1,Other LULUCF - Cropland remaining Cropland - Biomass Burning - Wildfires,Cropland miscellaneous,"Land use, land use change and forestry",Land use,Other land use
+4B1,Other LULUCF - Cropland remaining Cropland - Carbon stock change,Cropland miscellaneous,"Land use, land use change and forestry",Land use,Other land use
+4B1,Peatland - Cropland - Drainage and rewetting and other management of organic and mineral soils,Cropland drained,"Land use, land use change and forestry",Land use,Cropland
+4B1,Peatland - Cropland remaining Cropland - Carbon stock change,Cropland drained,"Land use, land use change and forestry",Land use,Cropland
+4B2,Cropland mineral soils change,Settlement converted to cropland,"Land use, land use change and forestry",Land use,Cropland
+4B2,Cropland mineral soils under LUC - Grassland converted to Cropland - Carbon stock change,Grassland converted to cropland,"Land use, land use change and forestry",Land use,Cropland
+4B2,Cropland mineral soils under LUC - Grassland converted to Cropland - Direct N2O emissions from N Mineralization/Immobilization,Grassland converted to cropland,"Land use, land use change and forestry",Land use,Cropland
+4B2,Forestry - Forest Land converted to Cropland - Biomass Burning - Controlled Burning,Land converted from forest land,"Land use, land use change and forestry",Land use,Forestry
+4B2,Forestry - Forest Land converted to Cropland - Carbon stock change,Land converted from forest land,"Land use, land use change and forestry",Land use,Cropland
+4B2,Forestry - Forest Land converted to Cropland - Direct N2O emissions from N Mineralization/Immobilization,Land converted from forest land,"Land use, land use change and forestry",Land use,Cropland
+4B2,Other LULUCF - Grassland converted to Cropland - Carbon stock change,Cropland miscellaneous,"Land use, land use change and forestry",Land use,Other land use
+4B2,Other LULUCF - Settlements converted to Cropland - Carbon stock change,Cropland miscellaneous,"Land use, land use change and forestry",Land use,Other land use
+4B2,Peatland - Forest Land converted to Cropland - Carbon stock change,Cropland drained,"Land use, land use change and forestry",Land use,Cropland
+4C1,Grassland mineral soils under LUC - Grassland remaining Grassland - Carbon stock change,Grassland remaining grassland,"Land use, land use change and forestry",Land use,Grassland
+4C1,Grassland mineral soils under LUC - Grassland remaining Grassland - Direct N2O emissions from N Mineralization/Immobilization,Grassland remaining grassland,"Land use, land use change and forestry",Land use,Grassland
+4C1,Other LULUCF - Grassland remaining Grassland - Biomass Burning - Wildfires,Grassland miscellaneous,"Land use, land use change and forestry",Land use,Other land use
+4C1,Other LULUCF - Grassland remaining Grassland - Carbon stock change,Grassland miscellaneous,"Land use, land use change and forestry",Land use,Other land use
+4C1,Peatland - Grassland remaining Grassland - Carbon stock change,Eroding modified bog drained,"Land use, land use change and forestry",Land use,Grassland
+4C1,Peatland - Grassland remaining Grassland - Carbon stock change,Eroding modified bog undrained,"Land use, land use change and forestry",Land use,Grassland
+4C1,Peatland - Grassland remaining Grassland - Carbon stock change,Extensive grassland drained,"Land use, land use change and forestry",Land use,Grassland
+4C1,Peatland - Grassland remaining Grassland - Carbon stock change,Intensive grassland drained,"Land use, land use change and forestry",Land use,Grassland
+4C1,Peatland - Grassland remaining Grassland - Carbon stock change,Modified bog drained,"Land use, land use change and forestry",Land use,Grassland
+4C1,Peatland - Grassland remaining Grassland - Carbon stock change,Modified bog undrained,"Land use, land use change and forestry",Land use,Grassland
+4C1,Peatland - Grassland remaining Grassland - Carbon stock change,Rewetted bog,"Land use, land use change and forestry",Land use,Grassland
+4C1,Peatland - Grassland remaining Grassland - Carbon stock change,Rewetted fen,"Land use, land use change and forestry",Land use,Grassland
+4C1,Peatland - Grassland remaining Grassland - Carbon stock change,Rewetted modified bog,"Land use, land use change and forestry",Land use,Grassland
+4C2,Forestry - Forest Land converted to Grassland - Biomass Burning - Controlled Burning,Land converted from forest land,"Land use, land use change and forestry",Land use,Forestry
+4C2,Forestry - Forest Land converted to Grassland - Carbon stock change,Land converted from forest land,"Land use, land use change and forestry",Land use,Grassland
+4C2,Forestry - Forest Land converted to Grassland - Direct N2O emissions from N Mineralization/Immobilization,Land converted from forest land,"Land use, land use change and forestry",Land use,Grassland
+4C2,Grassland mineral soils change,Cropland converted to grassland,"Land use, land use change and forestry",Land use,Grassland
+4C2,Grassland mineral soils change,Settlement converted to grassland,"Land use, land use change and forestry",Land use,Grassland
+4C2,Other LULUCF - Cropland converted to Grassland - Carbon stock change,Grassland miscellaneous,"Land use, land use change and forestry",Land use,Other land use
+4C2,Other LULUCF - Settlements converted to Grassland - Carbon stock change,Grassland miscellaneous,"Land use, land use change and forestry",Land use,Other land use
+4C2,Peatland - Forest Land converted to Grassland - Carbon stock change,Extensive grassland drained,"Land use, land use change and forestry",Land use,Grassland
+4C,Peatland - Grassland - Drainage and rewetting and other management of organic and mineral soils,Eroding modified bog drained,"Land use, land use change and forestry",Land use,Wetland
+4C,Peatland - Grassland - Drainage and rewetting and other management of organic and mineral soils,Eroding modified bog undrained,"Land use, land use change and forestry",Land use,Wetland
+4C,Peatland - Grassland - Drainage and rewetting and other management of organic and mineral soils,Extensive grassland drained,"Land use, land use change and forestry",Land use,Grassland
+4C,Peatland - Grassland - Drainage and rewetting and other management of organic and mineral soils,Intensive grassland drained,"Land use, land use change and forestry",Land use,Grassland
+4C,Peatland - Grassland - Drainage and rewetting and other management of organic and mineral soils,Modified bog drained,"Land use, land use change and forestry",Land use,Wetland
+4C,Peatland - Grassland - Drainage and rewetting and other management of organic and mineral soils,Modified bog undrained,"Land use, land use change and forestry",Land use,Wetland
+4C,Peatland - Grassland - Drainage and rewetting and other management of organic and mineral soils,Rewetted bog,"Land use, land use change and forestry",Land use,Wetland
+4C,Peatland - Grassland - Drainage and rewetting and other management of organic and mineral soils,Rewetted fen,"Land use, land use change and forestry",Land use,Wetland
+4C,Peatland - Grassland - Drainage and rewetting and other management of organic and mineral soils,Rewetted modified bog,"Land use, land use change and forestry",Land use,Wetland
+4,Cropland mineral soils under LUC - Indirect N2O - Nitrogen Leaching and Run-off,Grassland converted to cropland,"Land use, land use change and forestry",Land use,Forestry
+4D1,Peatland - Other Wetlands Remaining Other Wetlands - Carbon stock change,Industrial extraction,"Land use, land use change and forestry",Land use,Wetland
+4D1,Peatland - Other Wetlands Remaining Other Wetlands - Carbon stock change,Near-natural bog,"Land use, land use change and forestry",Land use,Wetland
+4D1,Peatland - Other Wetlands Remaining Other Wetlands - Carbon stock change,Near-natural fen,"Land use, land use change and forestry",Land use,Wetland
+4D1,Peatland - Other Wetlands Remaining Other Wetlands - Carbon stock change,Rewetted bog,"Land use, land use change and forestry",Land use,Wetland
+4D1,Peatland - Other Wetlands Remaining Other Wetlands - Carbon stock change,Rewetted fen,"Land use, land use change and forestry",Land use,Wetland
+4D1,Peatland - Peat Extraction Remaining Peat Extraction - Carbon stock change,Domestic extraction,"Land use, land use change and forestry",Land use,Wetland
+4D1,Peatland - Peat Extraction Remaining Peat Extraction - Carbon stock change,Industrial extraction,"Land use, land use change and forestry",Land use,Wetland
+4D2,Forestry - Forest Land converted to Other Wetlands - Biomass Burning - Controlled Burning,Land converted from forest land,"Land use, land use change and forestry",Land use,Forestry
+4D2,Forestry - Forest Land converted to Other Wetlands - Carbon stock change,Land converted from forest land,"Land use, land use change and forestry",Land use,Wetland
+4D2,Other LULUCF - Grassland converted to flooded land - Carbon stock change,Wetland miscellaneous,"Land use, land use change and forestry",Land use,Other land use
+4D2,Peatland - Cropland converted to Other Wetlands - Carbon stock change,Rewetted fen,"Land use, land use change and forestry",Land use,Wetland
+4D2,Peatland - Forest Land converted to Other Wetlands - Carbon stock change,Rewetted bog,"Land use, land use change and forestry",Land use,Wetland
+4D2,Peatland - Land converted for Peat Extraction - Carbon stock change,Domestic extraction,"Land use, land use change and forestry",Land use,Wetland
+4D2,Peatland - Land converted for Peat Extraction - Carbon stock change,Industrial extraction,"Land use, land use change and forestry",Land use,Wetland
+4D,Peatland - Wetlands - Drainage and rewetting and other management of organic and mineral soils,Domestic extraction,"Land use, land use change and forestry",Land use,Wetland
+4D,Peatland - Wetlands - Drainage and rewetting and other management of organic and mineral soils,Industrial extraction,"Land use, land use change and forestry",Land use,Wetland
+4D,Peatland - Wetlands - Drainage and rewetting and other management of organic and mineral soils,Near-natural bog,"Land use, land use change and forestry",Land use,Wetland
+4D,Peatland - Wetlands - Drainage and rewetting and other management of organic and mineral soils,Near-natural fen,"Land use, land use change and forestry",Land use,Wetland
+4D,Peatland - Wetlands - Drainage and rewetting and other management of organic and mineral soils,Rewetted bog,"Land use, land use change and forestry",Land use,Wetland
+4D,Peatland - Wetlands - Drainage and rewetting and other management of organic and mineral soils,Rewetted fen,"Land use, land use change and forestry",Land use,Wetland
+4E1,Peatland - Settlements remaining Settlements - Carbon stock change,Settlement drained,"Land use, land use change and forestry",Land use,Settlements
+4E1,Settlement - Settlements remaining Settlements - Carbon stock change,Settlement remaining settlement,"Land use, land use change and forestry",Land use,Settlements
+4E1,Settlement - Settlements remaining Settlements - Direct N2O emissions from N Mineralization/Immobilization,Settlement remaining settlement,"Land use, land use change and forestry",Land use,Settlements
+4E2,Forestry - Forest Land converted to Settlements - Biomass Burning - Controlled Burning,Land converted from forest land,"Land use, land use change and forestry",Land use,Forestry
+4E2,Forestry - Forest Land converted to Settlements - Carbon stock change,Land converted from forest land,"Land use, land use change and forestry",Land use,Settlements
+4E2,Forestry - Forest Land converted to Settlements - Direct N2O emissions from N Mineralization/Immobilization,Land converted from forest land,"Land use, land use change and forestry",Land use,Forestry
+4E2,Peatland - Forest Land converted to Settlements - Carbon stock change,Settlement drained,"Land use, land use change and forestry",Land use,Settlements
+4E2,Settlement - Cropland converted to Settlements - Carbon stock change,Land converted to settlement,"Land use, land use change and forestry",Land use,Settlements
+4E2,Settlement - Cropland converted to Settlements - Direct N2O emissions from N Mineralization/Immobilization,Land converted to settlement,"Land use, land use change and forestry",Land use,Settlements
+4E2,Settlement - Grassland converted to Settlements - Carbon stock change,Land converted to settlement,"Land use, land use change and forestry",Land use,Settlements
+4E2,Settlement - Grassland converted to Settlements - Direct N2O emissions from N Mineralization/Immobilization,Land converted to settlement,"Land use, land use change and forestry",Land use,Settlements
+4E,Peatland - Settlements - Drainage and rewetting and other management of organic and mineral soils,Settlement drained,"Land use, land use change and forestry",Land use,Settlements
+4,Forestry - Indirect N2O - Atmospheric Deposition,Land converted to forest land,"Land use, land use change and forestry",Land use,Forestry
+4,Forestry - Indirect N2O - Nitrogen Leaching and Run-off,Land converted from forest land,"Land use, land use change and forestry",Land use,Forestry
+4,Forestry - Indirect N2O - Nitrogen Leaching and Run-off,Land converted to forest land,"Land use, land use change and forestry",Land use,Forestry
+4G,Forestry - HWP Produced and Consumed Domestically - Carbon stock change,Harvested wood products,"Land use, land use change and forestry",Land use,Forestry
+4G,Forestry - HWP Produced and Exported - Carbon stock change,Harvested wood products,"Land use, land use change and forestry",Land use,Forestry
+4,Grassland mineral soils under LUC - Indirect N2O - Nitrogen Leaching and Run-off,Grassland remaining grassland,"Land use, land use change and forestry",Land use,Forestry
+4,Settlement - Indirect N2O - Nitrogen Leaching and Run-off,Land converted to settlement,"Land use, land use change and forestry",Land use,Forestry
+4,Settlement - Indirect N2O - Nitrogen Leaching and Run-off,Settlement remaining settlement,"Land use, land use change and forestry",Land use,Forestry
+5A1a,Landfill,Non-fuel combustion,Waste Management,Waste,Landfill
+5B1a,Composting (at household),Biological waste,Residential,Waste,Composting
+5B1a,Mechanical Biological Treatment - Composting,Biological waste,Waste Management,Waste,Composting
+5B1a,Total composting (non-household),Biological waste,Waste Management,Waste,Composting
+5B2a,Anaerobic Digestion (other),Biological waste,Waste Management,Waste,Other waste
+5B2a,Mechanical Biological Treatment - Anaerobic Digestion,Biological waste,Waste Management,Waste,Other waste
+5C1.1b,Incineration - sewage sludge,Sewage sludge combustion,Waste Management,Waste,Incineration
+5C1.2a,Incineration,MSW,Waste Management,Waste,Incineration
+5C1.2b,Incineration - chemical waste,Chemical waste,Waste Management,Waste,Incineration
+5C1.2b,Incineration - clinical waste,Clinical waste,Waste Management,Waste,Incineration
+5C2.1b,Small-scale waste burning,Waste,Residential,Residential buildings,Existing residential buildings
+5C2.2b,Accidental fires - dwellings,Mass burnt,Residential,Residential buildings,Existing residential buildings
+5C2.2b,Accidental fires - other buildings,Mass burnt,Business,Non-residential buildings,Commercial
+5C2.2b,Accidental fires - vehicles,Mass burnt,Residential,Surface transport,Other surface transport
+5D1,Sewage sludge decomposition in private systems,Non-fuel domestic,Waste Management,Waste,Wastewater
+5D1,Sewage sludge decomposition,Non-fuel domestic,Waste Management,Waste,Wastewater
+5D2,Industrial Waste Water Treatment,Non-fuel combustion,Waste Management,Waste,Wastewater

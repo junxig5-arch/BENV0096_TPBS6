@@ -1,0 +1,24 @@
+﻿P4 Accounting Basis Note
+
+Purpose
+This note explains the accounting basis used in the P4 DESNZ baseline and carbon-budget gap analysis. The purpose is to avoid mixing different emissions scopes when interpreting the DESNZ current-policy pathway, official carbon-budget performance, and the 2050 baseline.
+
+Accounting choices
+
+1. Historical and DESNZ annual pathway
+For the continuous historical-projection pathway, the analysis uses territorial greenhouse gas emissions excluding international aviation and shipping (IAS). This is because the official final UK GHG emissions series for 1990-2023 is consistent with the historical segment of DESNZ EEP Annex A excluding-IAS totals. The local reproducibility check shows a maximum difference of only 0.0024 MtCO2e between UK final GHG Table 1.1 and DESNZ Annex A excluding-IAS history, which is negligible for this dissertation.
+
+2. Official carbon-budget performance
+For carbon-budget-period performance, the analysis uses DESNZ Web Table 2.1 and follows the official comparison basis reported there. CB4 and CB5 are compared on an excluding-IAS basis, while CB6 is compared on a Net Carbon Account / including-IAS basis. Therefore, the main P4 policy-delivery metric is the official CB6 projected gap of 737.5 MtCO2e over 2033-2037.
+
+3. Accounting caveat
+The CB6 excluding-IAS gap is also reported as a supporting accounting caveat. It is 546.6 MtCO2e, which shows that the projected CB6 shortfall remains large even on a narrower territorial excluding-IAS basis. However, this is not the official CB6 comparison basis and should not replace the official 737.5 MtCO2e headline metric.
+
+4. Link to P5 CCC benchmark comparison
+For the annual DESNZ versus CCC benchmark comparison in P5, the DESNZ including-IAS series is used as the main comparator because it is closer to the CCC economy-wide total pathway. The excluding-IAS series remains useful for the historical territorial trend, but the including-IAS series is more appropriate when comparing with CCC total emissions pathways.
+
+Recommended wording for Methods
+The analysis separates three accounting uses. First, territorial emissions excluding IAS are used for the continuous historical-projection pathway, because the official UK final GHG series for 1990-2023 is consistent with the historical segment of DESNZ EEP Annex A excluding-IAS totals. Second, official carbon-budget performance is assessed using DESNZ Web Table 2.1 and its reported comparison basis: CB4 and CB5 exclude IAS, while CB6 uses the Net Carbon Account / including-IAS basis. Third, the DESNZ including-IAS annual pathway is used for the main comparison with CCC economy-wide pathways in P5. This separation ensures that accounting-scope differences are treated transparently rather than interpreted as substantive emissions differences.
+
+Recommended wording for Results
+On the official DESNZ carbon-budget comparison basis, the UK is projected to remain within CB4 and CB5 but to exceed CB6 substantially. DESNZ projects official comparison emissions of 1,702.5 MtCO2e against a CB6 budget of 965.0 MtCO2e, implying a projected CB6 gap of 737.5 MtCO2e over 2033-2037. On a narrower territorial excluding-IAS basis, the CB6 gap is smaller, at 546.6 MtCO2e, but remains substantial. The accounting distinction therefore changes the size of the estimated gap but not the conclusion that current-policy projections fall well short of the sixth carbon budget.
