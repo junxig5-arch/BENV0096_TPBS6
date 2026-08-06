@@ -1,0 +1,11 @@
+check,status
+p7_target_achievement_year_estimates.csv exists,PASS
+p7_external_conditions_evidence_table.csv exists,PASS
+P7_Target_Achievement_Year_and_External_Conditions_Addendum.docx exists,PASS
+P5_P7_Meeting_Evidence_Pack_for_Neil_Deduplicated_Deepened_TargetYear.docx exists,PASS
+addendum contains 2075.6,PASS
+addendum contains 2198.5,PASS
+addendum contains no finite crossing,PASS
+addendum contains external conditions,PASS
+addendum contains Falling Behind,PASS
+Falling Behind missed target,PASS

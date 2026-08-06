@@ -1,0 +1,5 @@
+quadrant_id,scenario_name,uk_policy_delivery,external_conditions,median_net,min_net,max_net,near_count
+U1,Aligned transition,High,Supportive,52.63308848890749,25.165050947381133,83.08905552191979,2
+U2,Domestic delivery under external constraints,High,Constrained,138.12370458332663,107.66773755031429,168.57967161633894,0
+U3,Weak delivery despite supportive conditions,Low,Supportive,209.68494013746292,179.22897310445063,240.1409071704753,0
+U4,Delayed transition risk,Low,Constrained,310.40353974838825,279.947572715376,340.85950678140057,0

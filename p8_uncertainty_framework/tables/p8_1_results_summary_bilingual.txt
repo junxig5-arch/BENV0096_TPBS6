@@ -1,0 +1,15 @@
+P8-1 result summary
+
+The historical benchmark suggests that the UK reduced territorial greenhouse gas emissions by an average of 12.1 MtCO2e/year between 1990 and 2025, and by 13.9 MtCO2e/year between 2018 and 2025. This gives a delivered-rate benchmark for judging future pathways.
+
+Against this benchmark, the DESNZ current-policy baseline is not simply high in 2050; it also slows sharply after 2035. Its 2035-2050 average annual reduction is only 1.2 MtCO2e/year when including IAS, far below the recent historical benchmark. By contrast, the CCC Seventh Carbon Budget Balanced Pathway requires about 12.5 MtCO2e/year over 2035-2050, which is demanding but broadly comparable to the economy-wide pace previously delivered over some historical windows.
+
+This does not prove that the CCC pathway is easy or automatically feasible, because earlier reductions benefited from structural changes such as power-sector decarbonisation and easier abatement opportunities. However, it strengthens the interpretation that the DESNZ baseline represents a post-2035 delivery slowdown, while the CCC pathway represents continued delivery at a historically recognisable but sectorally more difficult pace.
+
+P8-1 结果总结
+
+历史基准显示，英国1990-2025年的领土口径温室气体排放平均每年下降约 12.1 MtCO2e，2018-2025年平均每年下降约 13.9 MtCO2e。这个结果可以作为判断未来路径减排速度是否合理的历史参照。
+
+与这个历史参照相比，DESNZ current-policy baseline 的问题不只是2050年残余排放高，而是2035年之后明显放缓。若包含国际航空和航运，其2035-2050年平均每年只下降约 1.2 MtCO2e，显著低于近期历史减排速度。相比之下，CCC 第七碳预算 Balanced Pathway 在2035-2050年需要平均每年下降约 12.5 MtCO2e，这一速度有挑战，但并没有明显超出英国历史上部分时期已经实现过的经济整体减排速度。
+
+这并不意味着CCC路径容易实现，因为过去的减排包含电力部门去煤化等相对较容易的结构性变化，未来剩余部门可能更难减排。但它强化了一个论文判断：DESNZ baseline 体现的是2035年后的delivery slowdown，而CCC路径则代表一种历史上可识别、但部门层面更困难的持续减排速度。

@@ -1,0 +1,13 @@
+pathway,case,year,total_energy_cost_gbp_bn_2025_prices,source_sheet
+Holistic Transition,Base case,2050,222.4534006613455,EA.12
+Holistic Transition,Low case,2050,194.02957272430044,EA.12
+Holistic Transition,High case,2050,241.83702642322268,EA.12
+Hydrogen Evolution,Base case,2050,269.98671476042415,EA.12
+Hydrogen Evolution,Low case,2050,218.00292893309853,EA.12
+Hydrogen Evolution,High case,2050,307.6391039977216,EA.12
+Electric Engagement,Base case,2050,237.10311748043284,EA.12
+Electric Engagement,Low case,2050,205.4072112086138,EA.12
+Electric Engagement,High case,2050,258.04940793608637,EA.12
+Falling Behind,Base case,2050,248.80069515357303,EA.12
+Falling Behind,Low case,2050,206.98248917568296,EA.12
+Falling Behind,High case,2050,283.4623538617561,EA.12

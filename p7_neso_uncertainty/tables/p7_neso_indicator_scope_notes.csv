@@ -1,0 +1,5 @@
+decision,note
+NESO role,"NESO FES 2025 is used as supporting external modelling context, not as the main target-consistent benchmark."
+Main benchmark remains CCC7,CCC7 remains the dissertation's principal target-consistent benchmark; NESO supports pathway-feasibility discussion.
+Ten Year Forecast handling,Ten Year Forecast is retained where available but treated as optional because it does not provide full 2050 values for all indicators.
+First P7 cut-off,Only seven clean indicators are extracted in this first notebook. Additional NESO indicators should be added only if they directly support the dissertation argument.

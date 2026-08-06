@@ -1,0 +1,36 @@
+indicator_id,theme,unit,pathway,2030,2035,2040,2050
+neso_electric_vehicle_stock,Road transport electrification,million vehicles,Electric Engagement,11.224874999999999,26.109322,38.318045,41.269768
+neso_electric_vehicle_stock,Road transport electrification,million vehicles,Falling Behind,8.612985,18.661732,31.542509,42.715638
+neso_electric_vehicle_stock,Road transport electrification,million vehicles,Holistic Transition,11.320749,26.259235,38.351053,39.355685
+neso_electric_vehicle_stock,Road transport electrification,million vehicles,Hydrogen Evolution,11.148671,25.993655999999998,38.265845,43.593689
+neso_electric_vehicle_stock,Road transport electrification,million vehicles,Ten Year Forecast,9.041126,20.184278,,
+neso_heat_pump_electricity_demand,Buildings and heat electrification,TWh,Electric Engagement,8.066,20.471,36.482,59.601
+neso_heat_pump_electricity_demand,Buildings and heat electrification,TWh,Falling Behind,5.736,12.293,19.079,30.938000000000002
+neso_heat_pump_electricity_demand,Buildings and heat electrification,TWh,Holistic Transition,7.617999999999999,20.07,34.742,54.778999999999996
+neso_heat_pump_electricity_demand,Buildings and heat electrification,TWh,Hydrogen Evolution,8.155,19.359,31.04,49.076
+neso_heat_pump_electricity_demand,Buildings and heat electrification,TWh,Ten Year Forecast,6.444,13.858,,
+neso_hydrogen_dispatchable_capacity,Hydrogen and dispatchable power,GW,Electric Engagement,0.0,0.99582475,8.598139699999999,27.5201275
+neso_hydrogen_dispatchable_capacity,Hydrogen and dispatchable power,GW,Falling Behind,0.0,0.0,0.0,0.0
+neso_hydrogen_dispatchable_capacity,Hydrogen and dispatchable power,GW,Holistic Transition,0.1446808,2.5673820000000003,5.847551900000001,26.0818942
+neso_hydrogen_dispatchable_capacity,Hydrogen and dispatchable power,GW,Hydrogen Evolution,0.04733801,7.071530200000001,17.818042000000002,29.963227
+neso_hydrogen_dispatchable_capacity,Hydrogen and dispatchable power,GW,Ten Year Forecast,0.0,0.382,,
+neso_power_intensity_excluding_beccs,Power-sector decarbonisation,gCO2/kWh,Electric Engagement,15.56940304,9.862779391,2.088071412,1.464933214
+neso_power_intensity_excluding_beccs,Power-sector decarbonisation,gCO2/kWh,Falling Behind,79.85683941,31.03112778,31.37559087,30.91350409
+neso_power_intensity_excluding_beccs,Power-sector decarbonisation,gCO2/kWh,Holistic Transition,14.2997328,5.642311479,1.960131607,1.22780844
+neso_power_intensity_excluding_beccs,Power-sector decarbonisation,gCO2/kWh,Hydrogen Evolution,24.01062919,5.181413551,2.642844074,4.315329826
+neso_power_intensity_excluding_beccs,Power-sector decarbonisation,gCO2/kWh,Ten Year Forecast,49.40676939,30.18508039,,
+neso_storage_connection_capacity,System flexibility,GW,Electric Engagement,29.010382,41.175346000000005,48.184282,57.023014
+neso_storage_connection_capacity,System flexibility,GW,Falling Behind,22.9017575,25.857998900000002,28.6203586,30.69427
+neso_storage_connection_capacity,System flexibility,GW,Holistic Transition,28.4714407,40.338295,48.650301,55.845479
+neso_storage_connection_capacity,System flexibility,GW,Hydrogen Evolution,23.5219847,32.2165468,37.461330000000004,44.386731
+neso_storage_connection_capacity,System flexibility,GW,Ten Year Forecast,27.398446900000003,37.088745,,
+neso_total_electricity_demand,Electricity demand,TWh,Electric Engagement,344.803,450.076,616.965,784.736
+neso_total_electricity_demand,Electricity demand,TWh,Falling Behind,323.698,372.906,433.613,558.75
+neso_total_electricity_demand,Electricity demand,TWh,Holistic Transition,339.295,433.422,563.928,705.2230000000001
+neso_total_electricity_demand,Electricity demand,TWh,Hydrogen Evolution,334.918,464.34700000000004,594.439,797.12
+neso_total_electricity_demand,Electricity demand,TWh,Ten Year Forecast,330.877,396.764,,
+neso_total_emissions,Emissions,MtCO2e,Electric Engagement,307.56661543789045,192.1302062145837,103.66194666905811,-1.933207016434831
+neso_total_emissions,Emissions,MtCO2e,Falling Behind,370.3230348061266,306.4901654912034,260.13130657908596,187.0019736209977
+neso_total_emissions,Emissions,MtCO2e,Holistic Transition,295.7046580790213,184.774510699065,101.02458778777155,-5.5139002384095255
+neso_total_emissions,Emissions,MtCO2e,Hydrogen Evolution,307.43407586774765,203.66363558960913,118.27140610357004,-0.0484816822259555
+neso_total_emissions,Emissions,MtCO2e,Ten Year Forecast,341.59469901319903,273.79267470564514,,

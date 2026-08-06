@@ -1,0 +1,6 @@
+check,expected,actual,status
+sector_count,9 DESNZ TES / memo sectors,9,PASS
+selected_years_available,"1990, 2008, 2018, 2023, 2030, 2035, 2050","1990, 2008, 2018, 2023, 2030, 2035, 2050",PASS
+uncertainty_band_order,accelerated <= delayed for all sectors,True,PASS
+driver_matrix_complete,all sectors scored for all drivers,True,PASS
+figures_saved_as_jpg,3 jpg figures,True / True / True,PASS

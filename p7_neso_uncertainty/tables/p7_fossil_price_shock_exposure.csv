@@ -1,0 +1,13 @@
+case,year_or_pathway,change_in_energy_cost_pct_gdp,source_sheet
+Low prices,2022 historical shock,-0.007356439141559324,EA.16
+Low prices,Falling Behind 2050,-0.0021711872717367184,EA.16
+Low prices,Holistic Transition 2050,-0.0005708523365822709,EA.16
+High prices,2022 historical shock,0.006886664720128558,EA.16
+High prices,Falling Behind 2050,0.002012596611395489,EA.16
+High prices,Holistic Transition 2050,0.00045058509257931085,EA.16
+2022 price shock,2022 historical shock,0.018395042837023312,EA.16
+2022 price shock,Falling Behind 2050,0.011380489961870244,EA.16
+2022 price shock,Holistic Transition 2050,0.0030103741004712846,EA.16
+2022 price shock minus High prices,2022 historical shock,0.011508378116894754,EA.16
+2022 price shock minus High prices,Falling Behind 2050,0.009367893350474756,EA.16
+2022 price shock minus High prices,Holistic Transition 2050,0.0025597890078919738,EA.16

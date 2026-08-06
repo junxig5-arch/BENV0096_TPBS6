@@ -1,0 +1,13 @@
+check,status,detail
+linkage_input_exists,True,E:\UCL Final Essay\p8_uncertainty_framework\tables\p8_2_sector_linkage_driver_matrix.csv
+uncertainty_input_exists,True,E:\UCL Final Essay\p8_uncertainty_framework\tables\p8_2_sector_uncertainty_band_2050.csv
+rate_input_exists,True,E:\UCL Final Essay\p8_uncertainty_framework\tables\p8_2_sector_rate_anchor_metrics.csv
+sector_count,True,9 rows
+unique_sectors,True,9 unique sectors
+driver_scores_between_0_and_2,True,0=low/not material; 1=moderate; 2=high
+no_missing_2050_residual,True,DESNZ central 2050 residual present
+similarity_matrix_symmetric,True,cosine similarity
+similarity_diagonal_one,True,self-similarity
+figure_created_p8_4_linkage_score_vs_residual.jpg,True,E:\UCL Final Essay\p8_uncertainty_framework\figures\p8_4_linkage_score_vs_residual.jpg
+figure_created_p8_4_sector_dependency_similarity_heatmap.jpg,True,E:\UCL Final Essay\p8_uncertainty_framework\figures\p8_4_sector_dependency_similarity_heatmap.jpg
+figure_created_p8_4_linkage_weighted_residual_ranking.jpg,True,E:\UCL Final Essay\p8_uncertainty_framework\figures\p8_4_linkage_weighted_residual_ranking.jpg

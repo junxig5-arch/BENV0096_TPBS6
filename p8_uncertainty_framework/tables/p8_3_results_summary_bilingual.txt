@@ -1,0 +1,15 @@
+P8-3 result summary
+
+P8-3 converts the uncertainty framework into a transparent 2x2 scenario matrix and twelve mini-scenarios. The matrix combines UK policy delivery strength with external technology, fuel and supply-chain conditions. The resulting 2050 residuals are not forecasts; they are stylised stress tests built from the P8-2 sectoral uncertainty bands.
+
+The aligned-transition quadrant (U1) has the lowest residual emissions after default offsets, with a median net 2050 residual of about 52.6 MtCO2e. The delayed-transition quadrant (U4) has the highest residual, with a median net 2050 residual of about 310.4 MtCO2e. This supports the dissertation argument that favourable global technology conditions are helpful but cannot substitute for domestic delivery; weak UK delivery still produces a large residual gap even when external conditions are supportive.
+
+The negative-emissions / credits stress test shows why Neil's 10/50 MtCO2e question matters. With 50 MtCO2e of offsets, the share of mini-scenarios that become on-time or near-miss outcomes is: U1: 67%; U2: 0%; U3: 0%; U4: 0%. This should be presented cautiously: offsets can shrink residual gaps, but they do not remove the need for sectoral mitigation, especially in buildings, transport, industry, agriculture and IAS.
+
+P8-3 结果总结
+
+P8-3 把 uncertainty framework 转化为一个清晰的 2x2 scenario matrix 和 12 个 mini-scenarios。矩阵结合了 UK policy delivery 强弱和 external technology/fuel/supply-chain conditions 好坏。这里的 2050 残余排放不是预测，而是基于 P8-2 部门不确定性区间构造的 stylised stress test。
+
+Aligned-transition 象限 U1 的残余排放最低，默认 offsets 后 2050 年 median net residual 约为 52.6 MtCO2e。Delayed-transition 象限 U4 的残余排放最高，median net residual 约为 310.4 MtCO2e。这支持论文的核心判断：有利的全球技术和成本条件很有帮助，但不能替代英国国内政策交付；如果 UK delivery 弱，即使外部条件有利，也仍然会留下较大的 residual gap。
+
+Negative emissions / credits stress test 说明 Neil 提到的 10/50 MtCO2e 问题很重要。在 50 MtCO2e offsets 情况下，各象限中变成 on-time 或 near-miss 的 mini-scenarios 比例为：U1: 67%; U2: 0%; U3: 0%; U4: 0%。这需要谨慎表述：offsets 可以缩小缺口，但不能替代部门减排，尤其是 buildings、transport、industry、agriculture 和 IAS。

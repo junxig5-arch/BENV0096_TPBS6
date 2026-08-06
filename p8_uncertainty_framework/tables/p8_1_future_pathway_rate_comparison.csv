@@ -1,0 +1,10 @@
+pathway,period,start_emissions_MtCO2e,end_emissions_MtCO2e,avg_annual_reduction_MtCO2e_per_year,ratio_to_1990_2025_historical_rate,ratio_to_2018_2025_historical_rate,interpretive_judgement
+DESNZ current-policy baseline excluding IAS,2025-2030,363.150082905754,327.713982125617,7.087220156027399,0.5846977300054327,0.5089772036866502,broadly comparable to recent historical delivery
+DESNZ current-policy baseline excluding IAS,2030-2035,327.713982125617,303.407283864246,4.861339652274205,0.4010619392220753,0.34912292942970796,much slower than recent historical delivery
+DESNZ current-policy baseline excluding IAS,2035-2050,303.407283864246,290.244906276984,0.8774918391507981,0.07239333266843989,0.06301812737805156,much slower than recent historical delivery
+DESNZ current-policy baseline including IAS,2025-2030,405.820995243062,367.969033106317,7.570392427348997,0.6245595833165711,0.5436767990346296,broadly comparable to recent historical delivery
+DESNZ current-policy baseline including IAS,2030-2035,367.969033106317,341.791617002469,5.235483220769595,0.43192889274959323,0.3759924979033463,much slower than recent historical delivery
+DESNZ current-policy baseline including IAS,2035-2050,341.791617002469,324.291346256252,1.1666847164144694,0.09625182939172901,0.08378686021762316,much slower than recent historical delivery
+CCC Seventh Carbon Budget Balanced Pathway,2025-2030,413.919333154645,295.7570712510952,23.632452380709957,1.949684214298193,1.6971928717018923,faster than recent historical delivery
+CCC Seventh Carbon Budget Balanced Pathway,2030-2035,295.7570712510952,186.9963045053786,21.752153349143327,1.7945589957661539,1.5621569447640808,faster than recent historical delivery
+CCC Seventh Carbon Budget Balanced Pathway,2035-2050,186.9963045053786,-1.107090125854042,12.54022630874884,1.0345723280860795,0.9005913714697469,broadly comparable to recent historical delivery

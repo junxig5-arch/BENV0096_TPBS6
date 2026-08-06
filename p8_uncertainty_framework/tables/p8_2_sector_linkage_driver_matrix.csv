@@ -1,0 +1,10 @@
+tes_sector,clean_power_dependency,electrification_infrastructure,hydrogen_ccus_dependency,demand_behaviour,land_bio_nonco2,international_fuel_technology,removals_credits_accounting,rank_2050_residual
+Buildings and product uses,2,2,0,2,0,1,1,1
+Domestic Transport,2,2,0,2,0,1,1,2
+Industry,1,1,2,1,0,2,2,3
+Electricity supply,2,1,1,1,0,1,1,4
+Agriculture,0,0,0,2,2,1,2,5
+IAS,0,0,1,2,0,2,2,6
+Fuel supply,1,1,1,1,0,2,1,7
+Waste,0,0,0,1,1,0,1,8
+LULUCF,0,0,0,1,2,1,2,9

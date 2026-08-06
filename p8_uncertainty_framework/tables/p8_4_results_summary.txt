@@ -1,0 +1,15 @@
+P8-4 Sector linkage deepening summary
+
+Main interpretation:
+1. The largest linkage-weighted residual priority is Buildings and product uses, with a 2050 residual of 84.6 MtCO2e, a system linkage score of 8, and 27.6% of the linkage-weighted residual index.
+2. The top three linkage-weighted priorities are Buildings and product uses, Industry, Domestic Transport. This supports a dissertation discussion that gives more attention to cross-sector constraints, not only sector ranking.
+3. The strongest dependency-profile pair is Buildings and product uses and Domestic Transport (similarity 1.00). This is useful evidence for Neil's question about whether some sectors move together.
+4. The coupled electrification block accounts for 175.4 MtCO2e of central 2050 residual emissions and 55.6% of the linkage-weighted residual index.
+
+How to use in the dissertation:
+- Use the scatter plot to show that high residual emissions and high transition coupling are not the same concept.
+- Use the similarity heatmap to support the claim that buildings, domestic transport and electricity should be discussed as linked electrification systems.
+- Use the linkage-weighted residual ranking to prioritise which residual sectors need deeper policy discussion.
+
+Caveat:
+The analysis is based on expert-coded dependency scores from the existing P8-2 framework. It is a transparent diagnostic framework, not a causal estimate.

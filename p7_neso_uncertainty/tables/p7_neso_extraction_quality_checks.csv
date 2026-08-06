@@ -1,0 +1,13 @@
+check,status,details
+NESO workbook found,PASS,E:\UCL Final Essay\Data_raw\NESO Future Energy Scenarios 2025 Data Workbook\Future Energy Scenarios 2025 Data Workbook V006.xlsx
+WS2 loaded,PASS,106 data rows
+ED1 loaded,PASS,250 data rows
+ES1 loaded,PASS,620 data rows
+ED5 loaded,PASS,315 data rows
+ED7 loaded,PASS,1297 data rows
+FLX1 loaded,PASS,180 data rows
+Core FES pathways present,PASS,"Electric Engagement, Falling Behind, Holistic Transition, Hydrogen Evolution"
+Expected indicators extracted,PASS,7 indicators extracted
+No duplicate indicator-pathway-year rows,PASS,duplicates=0
+Core pathway 2050 values available,PASS,missing core 2050 values=0
+Ten Year Forecast treated as optional,PASS,Ten Year Forecast has 7 missing 2050 values; this is acceptable because it is not a full 2050 pathway.

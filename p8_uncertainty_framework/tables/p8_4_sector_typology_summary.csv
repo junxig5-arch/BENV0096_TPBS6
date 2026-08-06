@@ -1,0 +1,6 @@
+linkage_typology,sectors,sector_count,central_2050_residual_MtCO2e,central_gap_vs_ccc7_2050_MtCO2e,linkage_weighted_residual_index,share_of_linkage_weighted_residual_pct
+Coupled electrification block,Buildings and product uses; Domestic Transport; Electricity supply,3,175.3895144733708,170.5895144733708,1362.1603594802227,55.64064376607231
+Industrial hydrogen-CCUS block,Industry,1,47.3748288570278,43.7748288570278,426.3734597132502,17.416226818012305
+International fuel and technology block,IAS; Fuel supply,2,47.28654662676,22.486546626760003,331.00582638732,13.520711524404518
+Land and non-CO2 residual block,Agriculture; LULUCF,2,42.55917863001712,46.05917863001712,293.55562851343024,11.990970107127376
+Lower-coupling residual block,Waste,1,11.6812776690764,6.5812776690764,35.043833007229196,1.4314477843834776

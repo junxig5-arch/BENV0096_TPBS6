@@ -1,0 +1,11 @@
+source,type,role,url,download_priority
+DESNZ EEP 2024-2050,Official dataset / processed local CSV,Current-policy baseline and missed-target estimate,https://www.gov.uk/government/publications/energy-and-emissions-projections-2024-to-2050,Required for full replication
+CCC Seventh Carbon Budget dataset/report,Official advisory dataset/report,CCC7 target-consistent benchmark,https://www.theccc.org.uk/publication/the-seventh-carbon-budget/,Required for full replication
+NESO FES 2025 Data Workbook,Official data workbook,Annual NESO scenario emissions and indicators,https://www.neso.energy/document/364561/download,Required for full replication
+NESO FES 2025 main report,Official report PDF,Scenario definitions and pathway context,https://www.neso.energy/document/364541/download,Recommended evidence file
+NESO FES 2025 Economics Annex,Official technical annex PDF,"Cost, fossil-price exposure and pathway economics evidence",https://www.neso.energy/document/374246/download,Recommended evidence file
+NESO FES 2025 Economics Assumptions,Official economics workbook,Assumptions and data bibliography for economics analysis,https://www.neso.energy/document/374256/download,Recommended for deeper cost replication
+NESO FES documents page,Official landing page,Stable index for report/workbook downloads,https://www.neso.energy/publications/future-energy-scenarios-fes/fes-documents,Use when direct links change
+IEA World Energy Investment 2024,Official report/web chapter,Clean energy investment and wind/solar productivity evidence,https://www.iea.org/reports/world-energy-investment-2024/overview-and-key-findings,Evidence source only
+IEA Renewables 2024,Official report/web chapter,Solar module price and renewable deployment constraints evidence,https://www.iea.org/reports/renewables-2024,Evidence source only
+IRENA Renewable Power Generation Costs in 2024,Official report PDF,Renewable LCOE competitiveness evidence,https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2025/Jul/IRENA_TEC_RPGC_in_2024_Summary_2025.pdf,Evidence source only

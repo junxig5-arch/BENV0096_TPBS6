@@ -1,0 +1,6 @@
+check,expected,actual,status
+matrix_quadrants,4 quadrants,4,PASS
+mini_scenario_count,12 mini-scenarios,12,PASS
+credit_stress_cases,36 rows = 12 scenarios x 3 offset cases,36,PASS
+no_missing_net_residuals,no NA values,True,PASS
+figures_saved_as_jpg,3 jpg figures,True / True / True,PASS

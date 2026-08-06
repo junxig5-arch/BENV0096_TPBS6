@@ -1,0 +1,15 @@
+P8-2 result summary
+
+P8-2 converts the P6 sectoral ranking into an uncertainty and linkage framework. The largest DESNZ 2050 residual sectors remain Buildings and product uses, Domestic Transport, Industry, Electricity supply, but the interpretation is no longer only a static ranking. The rate-anchor comparison shows whether each sector's projected 2023-2050 reduction is consistent with, slower than, or reversed relative to historical delivered rates.
+
+Two points are especially important for the dissertation. First, electricity, domestic transport, and buildings form a coupled electrification cluster: they can move together if clean power, infrastructure, and end-use uptake align. Second, agriculture, IAS, parts of industry, waste, and LULUCF are less directly solved by clean electricity and therefore remain important near-miss or residual-emissions risks.
+
+The stylised 2050 sensitivity band should not be presented as a probability forecast. Its value is interpretive: it shows where the DESNZ central estimate may be vulnerable to delivery slowdown, and where faster historical-rate delivery could shrink residual emissions. Sectors flagged for slowdown or reversal include Buildings and product uses, LULUCF, Domestic Transport, Industry, Electricity supply, IAS, Fuel supply, Waste. This provides a direct bridge from P6 to the P8 uncertainty framework and prepares the next step: the 2x2 scenario matrix and near-miss mini-scenarios.
+
+P8-2 结果总结
+
+P8-2 把 P6 的部门残余排放排名转化为“不确定性和部门联动框架”。DESNZ 2050 年残余排放最高的部门仍然是 Buildings and product uses, Domestic Transport, Industry, Electricity supply，但现在解释不再只是静态排名，而是进一步判断每个部门 2023-2050 年的 projected reduction 是否与历史实际减排速度相符、明显放缓，或出现反向变化。
+
+两个点对论文尤其关键。第一，电力、国内交通、建筑/产品使用构成一个相互联动的 electrification cluster：如果清洁电力、基础设施和终端技术采用同时推进，它们可以一起改善。第二，农业、IAS、部分工业、废弃物和 LULUCF 不能主要靠清洁电力解决，因此会成为 near-miss 或 residual-emissions 风险。
+
+这里的 2050 sensitivity band 不能当作概率预测。它的作用是解释性：展示 DESNZ central estimate 在哪些部门容易受 delivery slowdown 影响，以及如果延续较快历史减排速度，哪些残余排放可能收缩。被标记为放缓或反向变化的部门包括 Buildings and product uses, LULUCF, Domestic Transport, Industry, Electricity supply, IAS, Fuel supply, Waste。这一步把 P6 连接到 P8 uncertainty framework，并为下一步 2x2 scenario matrix 和 near-miss mini-scenarios 做准备。

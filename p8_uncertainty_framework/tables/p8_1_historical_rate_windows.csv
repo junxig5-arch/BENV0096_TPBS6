@@ -1,0 +1,5 @@
+window,interpretive_label,start_year,end_year,start_emissions_MtCO2e,end_emissions_MtCO2e,absolute_reduction_MtCO2e,avg_annual_reduction_MtCO2e_per_year,implied_zero_year_if_linear_continues,method_note
+1990-2025,Long-run historical benchmark,1990,2025,790.824096885605,366.583172504636,424.2409243809689,12.121169268027684,2055.2432186531364,Linear delivered-rate benchmark; not a forecast.
+2008-2025,Post-Climate Change Act benchmark,2008,2025,652.675948841047,366.583172504636,286.09277633641096,16.82898684331829,2046.7828426581832,Linear delivered-rate benchmark; not a forecast.
+2018-2025,Recent net-zero-era benchmark,2018,2025,464.054219798798,366.583172504636,97.47104729416196,13.924435327737424,2051.3266095806703,Linear delivered-rate benchmark; not a forecast.
+2019-2025,Recent pre-pandemic-to-current check,2019,2025,447.513592986062,366.583172504636,80.93042048142598,13.488403413570998,2052.1776548539324,Linear delivered-rate benchmark; not a forecast.

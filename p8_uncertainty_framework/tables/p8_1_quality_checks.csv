@@ -1,0 +1,5 @@
+check,expected,actual,status
+historical_year_range,1990-2025,1990-2025,PASS
+historical_total_declines_1990_2025,2025 lower than 1990,790.8 -> 366.6,PASS
+p5_required_years_available,"2025, 2030, 2035, 2050","2025, 2030, 2035, 2050",PASS
+figures_saved_as_jpg,2 jpg figures,True / True,PASS
