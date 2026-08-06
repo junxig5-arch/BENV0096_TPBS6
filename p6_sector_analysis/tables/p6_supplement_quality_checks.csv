@@ -1,0 +1,12 @@
+check,status
+p6_supplement_historical_projected_sector_selected_years.csv exists,PASS
+p6_supplement_historical_projection_transition_metrics.csv exists,PASS
+p6_supplement_desnz_ccc_broad_sector_bridge_2050.csv exists,PASS
+p6_supplement_historical_projected_top_sectors_docx_safe.jpg exists,PASS
+p6_supplement_desnz_ccc_broad_sector_bridge_docx_safe.jpg exists,PASS
+P6_Supplement_Historical_Trends_and_Sector_Bridge.docx exists,PASS
+P6_supplement_historical_sector_bridge_local_reproducible.ipynb exists,PASS
+doc contains Historical-To-Projection,PASS
+doc contains Cautious DESNZ-CCC,PASS
+doc contains not as an exact sectoral gap decomposition,PASS
+doc contains Buildings and product uses,PASS

@@ -1,0 +1,11 @@
+desnz_tes_sector,desnz_2050_MtCO2e,ccc7_broad_group,ccc7_2050_MtCO2e,broad_difference_DESNZ_minus_CCC7_MtCO2e,alignment_type,interpretation_note
+Agriculture,38.2005567333275,Agriculture,26.38987159012214,11.810685143205362,Direct,Broadly comparable.
+Buildings and product uses,84.5503891046146,Residential + non-residential buildings + F-gases,2.7144056708918938,81.8359834337227,Aggregate / partial,DESNZ product uses and CCC F-gases/buildings are only a broad bridge.
+Domestic Transport,49.8833690620126,Surface transport,1.07020023620143,48.81316882581117,Partial,DESNZ domestic transport and CCC surface transport are close but not identical boundaries.
+Electricity supply,40.9557563067436,Electricity supply,1.002012705927584,39.95374360081602,Direct,Broadly comparable direct sector.
+Fuel supply,13.2401066474921,Fuel supply,1.572498303812182,11.667608343679918,Direct,Broadly comparable direct sector.
+Industry,47.3748288570278,Industry,3.565474949937183,43.80935390709062,Direct / broad,Broadly comparable but sector definitions may still differ.
+Waste,11.6812776690764,Waste,5.111528051034504,6.569749618041896,Direct / broad,Broadly comparable direct sector.
+IAS,34.0464399792679,Aviation + Shipping,23.175816923559317,10.870623055708585,Aggregate / partial,IAS bunker definitions and CCC aviation/shipping should be treated cautiously.
+LULUCF,4.35862189668962,Land use,-29.89214684268623,34.25076873937585,Partial / not one-to-one,CCC land use is negative in 2050; removals treatment is a major boundary issue.
+No direct DESNZ TES equivalent,,Engineered removals,-35.81675171465405,,CCC-only,CCC engineered removals have no direct DESNZ TES-sector equivalent.

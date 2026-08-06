@@ -1,0 +1,55 @@
+tes_sector,year,value_MtCO2e,segment,source
+Buildings and product uses,1990,109.75340041993684,historical,DESNZ final GHG statistics Table 1.2
+Buildings and product uses,2008,113.31990311427268,historical,DESNZ final GHG statistics Table 1.2
+Buildings and product uses,2023,78.4758175684127,historical,DESNZ final GHG statistics Table 1.2
+Buildings and product uses,2030,82.162375325639,projection,DESNZ EEP 2024 Annex A TES projection
+Buildings and product uses,2035,81.7199740582081,projection,DESNZ EEP 2024 Annex A TES projection
+Buildings and product uses,2050,84.5503891046146,projection,DESNZ EEP 2024 Annex A TES projection
+Domestic Transport,1990,129.25500892132945,historical,DESNZ final GHG statistics Table 1.2
+Domestic Transport,2008,134.17385493147802,historical,DESNZ final GHG statistics Table 1.2
+Domestic Transport,2023,111.81468771558546,historical,DESNZ final GHG statistics Table 1.2
+Domestic Transport,2030,94.662372105314,projection,DESNZ EEP 2024 Annex A TES projection
+Domestic Transport,2035,71.1945407765974,projection,DESNZ EEP 2024 Annex A TES projection
+Domestic Transport,2050,49.8833690620126,projection,DESNZ EEP 2024 Annex A TES projection
+Industry,1990,155.21018337201727,historical,DESNZ final GHG statistics Table 1.2
+Industry,2008,92.82509810741216,historical,DESNZ final GHG statistics Table 1.2
+Industry,2023,53.051080641484496,historical,DESNZ final GHG statistics Table 1.2
+Industry,2030,40.1178138899444,projection,DESNZ EEP 2024 Annex A TES projection
+Industry,2035,40.7126679478967,projection,DESNZ EEP 2024 Annex A TES projection
+Industry,2050,47.3748288570278,projection,DESNZ EEP 2024 Annex A TES projection
+Electricity supply,1990,203.99089845322865,historical,DESNZ final GHG statistics Table 1.2
+Electricity supply,2008,172.94272796394935,historical,DESNZ final GHG statistics Table 1.2
+Electricity supply,2023,43.93349676914219,historical,DESNZ final GHG statistics Table 1.2
+Electricity supply,2030,23.6639600617013,projection,DESNZ EEP 2024 Annex A TES projection
+Electricity supply,2035,29.2605566372262,projection,DESNZ EEP 2024 Annex A TES projection
+Electricity supply,2050,40.9557563067436,projection,DESNZ EEP 2024 Annex A TES projection
+Agriculture,1990,54.401001638741675,historical,DESNZ final GHG statistics Table 1.2
+Agriculture,2008,49.6981093209486,historical,DESNZ final GHG statistics Table 1.2
+Agriculture,2023,46.61374245530264,historical,DESNZ final GHG statistics Table 1.2
+Agriculture,2030,44.64594711842,projection,DESNZ EEP 2024 Annex A TES projection
+Agriculture,2035,43.5316394993459,projection,DESNZ EEP 2024 Annex A TES projection
+Agriculture,2050,38.2005567333275,projection,DESNZ EEP 2024 Annex A TES projection
+IAS,1990,23.647335467122502,historical,DESNZ final GHG statistics Table 5.1
+IAS,2008,45.780365185421054,historical,DESNZ final GHG statistics Table 5.1
+IAS,2023,39.47488380995948,historical,DESNZ final GHG statistics Table 5.1
+IAS,2030,40.2550509807,projection,DESNZ EEP 2024 Annex A TES projection
+IAS,2035,38.3843331382221,projection,DESNZ EEP 2024 Annex A TES projection
+IAS,2050,34.0464399792679,projection,DESNZ EEP 2024 Annex A TES projection
+Fuel supply,1990,77.19217050753738,historical,DESNZ final GHG statistics Table 1.2
+Fuel supply,2008,49.67811339166524,historical,DESNZ final GHG statistics Table 1.2
+Fuel supply,2023,30.097385670195436,historical,DESNZ final GHG statistics Table 1.2
+Fuel supply,2030,25.1864098374098,projection,DESNZ EEP 2024 Annex A TES projection
+Fuel supply,2035,20.9778738156562,projection,DESNZ EEP 2024 Annex A TES projection
+Fuel supply,2050,13.2401066474921,projection,DESNZ EEP 2024 Annex A TES projection
+Waste,1990,70.28513821072414,historical,DESNZ final GHG statistics Table 1.2
+Waste,2008,44.12274560848591,historical,DESNZ final GHG statistics Table 1.2
+Waste,2023,19.866631281204874,historical,DESNZ final GHG statistics Table 1.2
+Waste,2030,15.9382259401972,projection,DESNZ EEP 2024 Annex A TES projection
+Waste,2035,13.1473344474649,projection,DESNZ EEP 2024 Annex A TES projection
+Waste,2050,11.6812776690764,projection,DESNZ EEP 2024 Annex A TES projection
+LULUCF,1990,10.623872631330421,historical,DESNZ final GHG statistics Table 1.2
+LULUCF,2008,1.2277490341687878,historical,DESNZ final GHG statistics Table 1.2
+LULUCF,2023,1.1197139887977934,historical,DESNZ final GHG statistics Table 1.2
+LULUCF,2030,1.33687784699157,projection,DESNZ EEP 2024 Annex A TES projection
+LULUCF,2035,2.86269668185091,projection,DESNZ EEP 2024 Annex A TES projection
+LULUCF,2050,4.35862189668962,projection,DESNZ EEP 2024 Annex A TES projection

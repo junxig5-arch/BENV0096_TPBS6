@@ -1,0 +1,6 @@
+check,status,details
+Expected TES sectors are present,PASS,all expected sectors found
+Projection years 2023-2050 are present,PASS,all years 2023-2050 found
+Sector sum approximately equals total emissions inc IAS in 2050,PASS,sector_sum=324.291; inc_total=324.291; diff=0.000
+Main output tables saved,PASS,"sector_long, residual ranking, and change table"
+Main figures saved,PASS,"projection, residual ranking, and change figures"
